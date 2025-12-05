@@ -1,40 +1,42 @@
-# ✨ V2Ray AutoConfig: Free VPN Configurations
+# 🛡️ V2Ray AutoConfig Hub
+## 🌐 کانفیگ‌های رایگان و به‌روز VPN (Vless, Vmess, Trojan, SS و...)
 
 <p align="center">
+  <!-- Status & License Badges -->
   <a href="https://github.com/Argh94/V2RayAutoConfig/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/Argh94/V2RayAutoConfig?style=for-the-badge&color=2a9d8f" alt="License" />
   </a>
   <img src="https://img.shields.io/badge/python-3.9%2B-3776AB?style=for-the-badge&logo=python" alt="Python 3.9+" />
-  <img src="https://img.shields.io/badge/Configs-117191-e76f51?style=for-the-badge" alt="Total Configs" />
+  <img src="https://img.shields.io/github/actions/workflow/status/Argh94/V2RayAutoConfig/scraper.yml?style=for-the-badge&label=Workflow" alt="GitHub Workflow Status" />
+  <img src="https://img.shields.io/github/issues/Argh94/V2RayAutoConfig?style=for-the-badge&color=f4a261" alt="GitHub Issues" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/actions/workflow/status/Argh94/V2RayAutoConfig/scraper.yml?style=for-the-badge&label=Workflow" alt="GitHub Workflow Status" />
+  <!-- Stats & Popularity Badges -->
+  <img src="https://img.shields.io/badge/Configs-117191-e76f51?style=for-the-badge" alt="Total Configs" />
   <img src="https://img.shields.io/github/last-commit/Argh94/V2RayAutoConfig?style=for-the-badge&label=Last%20Update" alt="Last Commit" />
-  <img src="https://img.shields.io/github/issues/Argh94/V2RayAutoConfig?style=for-the-badge&color=f4a261" alt="GitHub Issues" />
   <img src="https://img.shields.io/github/stars/Argh94/V2RayAutoConfig?style=social" alt="GitHub Stars" />
 </p>
 
-***
+---
 
-## 🗓️ آخرین به‌روزرسانی
-**<ins>15:25 14-09-1404</ins>**
+### 🔄 آخرین به‌روزرسانی: **15:25 14-09-1404**
 
-***
+---
 
-## 📚 درباره پروژه
+## 📘 درباره این پروژه
 
-> این پروژه به‌صورت خودکار کانفیگ‌های VPN (پروتکل‌های مختلف مانند V2Ray، Trojan و Shadowsocks) را از منابع مختلف جمع‌آوری و دسته‌بندی می‌کند. هدف ما ارائه کانفیگ‌های به‌روز و قابل اعتماد برای کاربران است.
->
-> **توجه مهم:** کانفیگ‌هایی که بیش از حد طولانی یا حاوی کاراکترهای غیرضروری (مانند تعداد زیاد `%25`) باشند، برای اطمینان از کیفیت، فیلتر می‌شوند.
+این پروژه به‌صورت خودکار کانفیگ‌های VPN (پروتکل‌های مختلف مانند V2Ray، Trojan و Shadowsocks) را از منابع مختلف جمع‌آوری و دسته‌بندی می‌کند. هدف ما ارائه کانفیگ‌های به‌روز و قابل اعتماد برای کاربران است.
 
-***
+> **🚨 نکته مهم:** کانفیگ‌هایی که بیش از حد طولانی یا حاوی کاراکترهای غیرضروری (مانند تعداد زیاد `%25`) باشند، برای اطمینان از کیفیت، فیلتر می‌شوند.
 
-## ⚙️ کانفیگ‌های دسته‌بندی‌شده بر اساس پروتکل
+---
 
-مجموع کانفیگ‌های در دسترس: **117191**
+## 🔑 کانفیگ‌های دسته‌بندی‌شده بر اساس پروتکل
 
-| پروتکل | تعداد | 📥 لینک دانلود |
+مجموع کانفیگ‌های در دسترس: **117,191**
+
+| 🚀 پروتکل | 🔢 تعداد | 🔗 لینک مستقیم |
 |:-------:|:-----:|:------------:|
 | Hysteria2 | 966 | [`Hysteria2.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Hysteria2.txt) |
 | ShadowSocks | 58037 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt) |
@@ -45,13 +47,15 @@
 | Vmess | 8860 | [`Vmess.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt) |
 | WireGuard | 13 | [`WireGuard.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/WireGuard.txt) |
 
-***
+---
 
-## 🌐 کانفیگ‌های دسته‌بندی‌شده بر اساس کشورها
+## 🌍 کانفیگ‌های دسته‌بندی‌شده بر اساس کشورها (کلیک کنید)
 
-کانفیگ‌ها بر اساس نام کشورها دسته‌بندی شده‌اند.
+<details>
+<summary>✅ مشاهده لیست کامل 90 کشور</summary>
+کانفیگ‌ها بر اساس نام کشورها دسته‌بندی شده‌اند:
 
-| کشور | تعداد | 📥 لینک دانلود |
+| 🗺️ کشور | 🔢 تعداد | ⬇️ لینک دانلود |
 |:----:|:-----:|:------------:|
 | <img src="https://flagcdn.com/w20/af.png" width="20" alt="Afghanistan flag">  **Afghanistan** (افغانستان) | 8 | [`Afghanistan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Afghanistan.txt) |
 | <img src="https://flagcdn.com/w20/al.png" width="20" alt="Albania flag">  **Albania** (آلبانی) | 9 | [`Albania.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Albania.txt) |
@@ -156,32 +160,34 @@
 | <img src="https://flagcdn.com/w20/ua.png" width="20" alt="Ukraine flag">  **Ukraine** (اوکراین) | 11 | [`Ukraine.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Ukraine.txt) |
 | <img src="https://flagcdn.com/w20/vn.png" width="20" alt="Vietnam flag">  **Vietnam** (ویتنام) | 848 | [`Vietnam.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vietnam.txt) |
 
-***
+</details>
 
-## 🚀 نحوه استفاده (راهنما)
+---
 
-1.  **دانلود کانفیگ‌ها**: از جدول‌های پروتکل‌ها یا کشورها، فایل موردنظر خود را دانلود نمایید.
-2.  **انتخاب کلاینت**: کلاینت VPN مناسب با پروتکل را برای دستگاه خود انتخاب کنید.
-    -   **V2Ray**: [v2rayNG](https://github.com/2dust/v2rayNG) (اندروید)، [Hiddify](https://github.com/hiddify/hiddify-app/releases) (مک)، [V2RayN](https://github.com/2dust/v2rayN/releases) (ویندوز)
-    -   **NekoRey_pro**: [NekoRey](https://github.com/Mahdi-zarei/nekoray/releases) (مک)، [Karing](https://github.com/KaringX/karing/releases)
-    -   **sing-box**: [Sing-Box](https://github.com/SagerNet/sing-box/releases)
-3.  **وارد کردن و تست**: فایل کانفیگ را در کلاینت خود وارد کرده و برای اطمینان از عملکرد، اتصال را تست کنید.
+## 🛠️ راهنمای استفاده سریع
 
-> **نکته کلیدی**: برای عملکرد بهتر، پیشنهاد می‌شود که کانفیگ‌ها را به‌طور منظم **به‌روزرسانی و بررسی** کنید.
+1.  **📥 دانلود کانفیگ**: فایل موردنظر را از جداول پروتکل‌ها یا کشورها دانلود کنید.
+2.  **📱 انتخاب کلاینت**: کلاینت VPN مناسب با پروتکل را برای دستگاه خود انتخاب کنید:
+    *   **V2Ray**: [v2rayNG](https://github.com/2dust/v2rayNG) (اندروید)، [Hiddify](https://github.com/hiddify/hiddify-app/releases) (مک)، [V2RayN](https://github.com/2dust/v2rayN/releases) (ویندوز)
+    *   **NekoRey/Karing**: [NekoRey](https://github.com/Mahdi-zarei/nekoray/releases) (مک)، [Karing](https://github.com/KaringX/karing/releases)
+    *   **Sing-box**: [Sing-Box](https://github.com/SagerNet/sing-box/releases)
+3.  **✅ وارد کردن و تست**: کانفیگ را در کلاینت خود وارد کرده و **تست اتصال** انجام دهید.
 
-***
+> **💡 نکته کلیدی**: برای عملکرد بهتر، پیشنهاد می‌شود که کانفیگ‌ها را به‌طور منظم **به‌روزرسانی و بررسی** کنید.
 
-## 🤝 مشارکت و پشتیبانی
+---
 
-اگر مایل به کمک به پروژه هستید:
+## ❤️ مشارکت و پشتیبانی
 
-*   _منابع جدید_ برای جمع‌آوری کانفیگ‌ها پیشنهاد دهید (با ویرایش فایل [`urls.txt`](https://github.com/Argh94/V2RayAutoConfig/blob/main/urls.txt)).
-*   _الگوهای جدید_ پروتکل یا کشور را اضافه کنید (با ویرایش فایل `key.json`).
-*   با ارسال [Pull Request](https://github.com/Argh94/V2RayAutoConfig/pulls) یا ثبت [Issue](https://github.com/Argh94/V2RayAutoConfig/issues) در **گیت‌هاب**، در بهبود پروژه مشارکت نمایید.
+در صورت تمایل به کمک و بهبود پروژه:
 
-***
+*   🌟 پیشنهاد _منابع جدید_ برای جمع‌آوری کانفیگ‌ها (با ویرایش فایل [`urls.txt`](https://github.com/Argh94/V2RayAutoConfig/blob/main/urls.txt)).
+*   🔧 اضافه کردن _الگوهای جدید_ پروتکل یا کشور (با ویرایش فایل `key.json`).
+*   🛠️ مشارکت با ارسال [Pull Request](https://github.com/Argh94/V2RayAutoConfig/pulls) یا ثبت [Issue](https://github.com/Argh94/V2RayAutoConfig/issues) در **گیت‌هاب**.
 
-## ⚠️ اطلاعیه مهم
+---
+
+## 🚨 سلب مسئولیت (Disclaimer)
 
 > *   **هدف پروژه:** این پروژه *صرفاً* برای اهداف آموزشی و تحقیقاتی ارائه شده است.
 > *   **مسئولیت استفاده:** لطفاً از کانفیگ‌ها به‌صورت مسئولانه و **مطابق با قوانین کشور خود** استفاده نمایید.
