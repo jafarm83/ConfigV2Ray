@@ -53,7 +53,7 @@
 
 کانفیگ‌ها بر اساس نام کشورها دسته‌بندی شده‌اند. در هر مورد، تعداد کانفیگ‌ها داخل پرانتز و لینک دانلود در انتهای خط آمده است.
 
-<div style="text-align: right;">
+<div style="text-align: center;">
 
 *   <img src="https://flagcdn.com/w20/af.png" width="20" alt="Afghanistan flag"> **Afghanistan** (افغانستان) **(8)**: [`Afghanistan.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Afghanistan.txt)
 *   <img src="https://flagcdn.com/w20/al.png" width="20" alt="Albania flag"> **Albania** (آلبانی) **(9)**: [`Albania.txt`](https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Albania.txt)
