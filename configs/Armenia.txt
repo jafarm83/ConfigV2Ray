@@ -1,3 +1,0 @@
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.208:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B7%5D
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#%F0%9F%87%A6%F0%9F%87%B2AM-146.185.248.22-11250
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.208:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B7%5D
