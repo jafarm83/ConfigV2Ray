@@ -4,69 +4,114 @@
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 #profile-web-page-url: https://github.com/jafarm83/ConfigV2Ray
 #auto-generated-by: V2Ray Elite Bot v3.0
-#generation-time: 2026-02-07T00:00:13+03:30
+#generation-time: 2026-02-07T00:07:28+03:30
 #update-frequency: Every 50 minutes
 #subscription-url: https://raw.githubusercontent.com/jafarm83/ConfigV2Ray/main/jafar.txt
-#total-configs: 15
+#total-configs: 30
 
 # ========== آمار ==========
-# میانگین سرعت: ⚡ 21.14ms
-# سریع‌ترین: 🚀 19.41ms
+# میانگین سرعت: ⚡ 20.19ms
+# سریع‌ترین: 🚀 18.95ms
 # موقعیت غالب: 🗺️ Global
-# بروزرسانی بعدی: 2026-02-07 00:50:13
+# بروزرسانی بعدی: 2026-02-07 00:57:28
 
 # ========== کانفیگ‌های برتر V2Ray ==========
-# تولید شده در: 2026-02-07 00:00:13
+# تولید شده در: 2026-02-07 00:07:28
 # سیستم: V2Ray Elite Bot v3.0
 
-# 1. Global | VMess | ★★★★★ | ⚡ 19.41ms
-vmess://eyJhZGQiOiI6OmZmZmY6YWM0MDo5YmQxIiwiYWlkIjoiMCIsImFscG4iOiJoMiIsImZwIjoiY2hyb21lIiwiaG9zdCI6ImJlZHJpZC5kZW5pemhvc3RpbmcubWUiLCJpZCI6ImZmZWNlMmE5LTAyOTYtNDZhOS04ZGI4LTc0MmQyOWQyNDBmZiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IklTd3BZVlI4U2p4WGNVWkVVelZmTlVSVFVDOGxWMjlEWFNnc0tIMVNOMGcxSlZwREhVMWNXaWdLQUM4UVJsdE1DaTg2QUJ3NEpWMTRIVk1uIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1BRSIsInNjeSI6ImF1dG8iLCJzbmkiOiJiZWRyaWQuZGVuaXpob3N0aW5nLm1lIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+# 1. Global | VMess | ★★★★★ | ⚡ 18.95ms
+vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhIiwic2N5IjoiYXV0byIsInNuaSI6ImxhbW1hbGFuZC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 
-# 2. Global | VLess | ★★★★★ | ⚡ 19.54ms
+# 2. CA | VLess | ★★★★★ | ⚡ 19.06ms
+vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?mode=multi&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
+
+# 3. Global | VLess | ★★★★★ | ⚡ 19.13ms
+vless://0cc731b9-0375-4590-aeaa-7e2611a149fe@104.21.36.57:443?path=%2Fwsv%2F0cc731b9-0375-4590-aeaa-7e2611a149fe&security=tls&encryption=none&host=black.fullmargintraders.com&type=ws&sni=black.fullmargintraders.com#%F0%9F%87%A9%F0%9F%87%AA%20%D9%86%D9%88%D9%87%20%D9%87%DB%8C%D8%AA%D9%84%D8%B1
+
+# 4. UK | VLess | ★★★★★ | ⚡ 19.21ms
+vless://e9052516-1e37-4665-a0b4-a5c65dd0ab70@104.18.32.47:80?encryption=none&security=none&type=ws&host=TastY-LeaRNInG94aZG31SfF.ECOTouRiss.CO.UK.&path=%2F%3Fed#%20`
+
+# 5. Iran | VLess | ★★★★★ | ⚡ 19.25ms
+vless://a4bb211e-39fd-41df-8c34-3d2672b5cd8d@lv.matevps.ru:443?security=reality&encryption=none&pbk=Kt3gwKBGWIdsyQAr9LAv2AuTH5GmJ1jRtW4o9XQ9uB0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=0123456789abcdef#%F0%9F%87%B1%F0%9F%87%BB%20%28%40IRAN%D8%A8%D8%B2%D8%B1%DA%AF%D8%AA%D8%B1%DB%8C%D9%86%20%D9%85%D8%B1%D8%AC%D8%B9%20%D9%85%D9%88%D8%AF%20%D8%AF%D8%B1%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29`
+
+# 6. Global | VLess | ★★★★★ | ⚡ 19.36ms
+vless://943c4137-e92e-4fd8-a3a1-b101f41f8f62@185.73.125.42:2053?security=reality&encryption=none&pbk=14CYRxjc3_NTNZPpIEWL3GiIxGX42Cgdtt4KLN8RoFs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=cdn.yektanet.com&sid=194ac11b09b5#%40V2raysCollector%20%E2%98%83%EF%B8%8F
+
+# 7. Global | VLess | ★★★★★ | ⚡ 19.56ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v3.carwashipdir.shop#BESTIIVPNBOT
+
+# 8. Global | VLess | ★★★★★ | ⚡ 19.59ms
+vless://93a20fae-54f4-4e25-93ef-995b3e52fc04@45.83.140.34:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=61Svf2Pd08DRvSgCHyI_J-F7lhPLd_hg3mS_byFl_h0&sid=fb1a8818b2ec7f2e&type=tcp&headerType=none#%20
+
+# 9. UK | VLess | ★★★★★ | ⚡ 19.76ms
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%F0%9F%87%BA%F0%9F%87%B8%20PC%20US
+
+# 10. IR | VLess | ★★★★★ | ⚡ 19.87ms
+vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%F0%9F%87%A9%F0%9F%87%AA%20Free
+
+# 11. Global | VLess | ★★★★★ | ⚡ 19.99ms
+vless://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?path=%2FeyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#BESTIIVPNBOT
+
+# 12. RU | VLess | ★★★★★ | ⚡ 20.02ms
+vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%91%80
+
+# 13. Global | VLess | ★★★★★ | ⚡ 20.21ms
+vless://6bb4d50a-56f9-47d5-8ce8-d8b7fe9aa474@64.225.9.191:25023?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ProxyCloud
+
+# 14. Global | VLess | ★★★★★ | ⚡ 20.29ms
+vless://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?path=%2FeyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#%40v2_mod_shop
+
+# 15. USA | VLess | ★★★★★ | ⚡ 20.31ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20by%20%40oneclickvpnkeys
+
+# 16. Netherlands | VLess | ★★★★★ | ⚡ 20.31ms
+vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Z%202
+
+# 17. Global | VLess | ★★★★★ | ⚡ 20.34ms
+vless://bbed94d9-1120-4b54-8a9c-72d81e411fb8@144.31.94.36:443?security=reality&encryption=none&pbk=5HagS4nvr0CaCOv8SUfGTT0HyjarC0VqQ0JgPhmlgQg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2adb11b6886a079a#%F0%9F%94%98%20T.me/V2HUBIR%20%7C%20Join%20Now%20%E2%9C%85%EF%B8%8F
+
+# 18. AE | VLess | ★★★★★ | ⚡ 20.35ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929396024910159.lisbon-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20%D9%87%D9%84%D9%86%D8%AF%20%D8%AE%DB%8C%D9%84%DB%8C%20%D8%AE%D8%A7%D8%B5
+
+# 19. Germany | VLess | ★★★★★ | ⚡ 20.49ms
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%40oneclickvpnkeys
+
+# 20. Global | VLess | ★★★★★ | ⚡ 20.63ms
 vless://8582e686-c209-4bfc-95ae-37ff0e20dd77@62.60.164.192:927?path=%2FPoshtiban&security=none&encryption=none&type=ws#%40v2Meli
 
-# 3. Global | VLess | ★★★★★ | ⚡ 19.71ms
-vless://ff3685d5-f031-46d3-88c0-0b6b0d1f1558@64.227.41.160:57996?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20ProxyCloud
-
-# 4. Global | VMess | ★★★★★ | ⚡ 19.84ms
-vmess://eyJhZGQiOiI4OS4zMS4xMjAuMTkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ0NTM3NTk1LTljY2MtNGI4My04OTM2LTVmOWFkMzIyOTAxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4aXOTlAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-# 5. Russia | VLess | ★★★★★ | ⚡ 20.57ms
-vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%87%B7%F0%9F%87%BA%20NL%20-%20Russia
-
-# 6. Global | VMess | ★★★★★ | ⚡ 20.98ms
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQzN1x1RDgzQ1x1REQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdUQ4M0RcdUREMzciLA0KICAiYWRkIjogIjE4NS4yMjguNTkuNjUiLA0KICAicG9ydCI6ICI1MDUwIiwNCiAgImlkIjogIjkwMmYwODg1LTU5YzYtNDM1OC05MTUzLWRlMWRlMWQzNzNhOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICItLS0iLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCINCn0=vless
-
-# 7. USA | VLess | ★★★★★ | ⚡ 21.06ms
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%202%20by%20%40oneclickvpnkeys
-
-# 8. UK | VLess | ★★★★★ | ⚡ 21.53ms
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%F0%9F%87%BA%F0%9F%87%B8%20US%20%F0%9F%91%BB
-
-# 9. Global | VMess | ★★★★★ | ⚡ 21.57ms
-vmess://eyJhZGQiOiJmYXJ6YWQudmlwZ3NtdGVhbS5pbmZvIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ6dWxhLmlyIiwiaWQiOiIzZGIwNzc0NS00YmE1LTQ2NjMtOGViNC1jNzc5NmQ2N2U5ZTYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMzk1MyIsInBzIjoiTUNpLUBWMnJheUFscGhhLTEyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==vless
-
-# 10. UK | VMess | ★★★★★ | ⚡ 21.93ms
-vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-# 11. Global | VMess | ★★★★★ | ⚡ 22.15ms
-vmess://eyJhZGQiOiI4LjIxMC4xNDAuMjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmRlNzNkYWYtY2M2Ny00MmYzLTk5MzUtMzViMTMyYjAxYWJkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjU0ODA5IiwicHMiOiLwn4et8J+HsCBIb25nIEtvbmcg2YfZhtqvINqp2YbaryIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# 12. Global | VLess | ★★★★★ | ⚡ 22.18ms
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@188.114.97.4:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=tls&encryption=none&insecure=1&host=kos.mitivpn--1--0-1-0--1-1-0--1-0-1-0-1--0-1--0---1--0.workers.dev&fp=random&type=ws&allowInsecure=1&sni=kos.mitivpn--1--0-1-0--1-1-0--1-0-1-0-1--0-1--0---1--0.workers.dev#jm5d-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
-
-# 13. USA | VLess | ★★★★★ | ⚡ 22.2ms
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20X
-
-# 14. Iran | VLess | ★★★★★ | ⚡ 22.21ms
+# 21. Iran | VLess | ★★★★★ | ⚡ 20.63ms
 vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran
 
-# 15. Global | VMess | ★★★★★ | ⚡ 22.24ms
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgVk1FU1Mt5Yqg5ou/5aSnLU5G6Kej6ZSB5Yqg5ou/5aSn5Zyw5Yy66Z2e6Ieq5Yi25YmnLUNoYXRHUFQtVGlrVG9rLVlvdVR1YmUtMTUuMjM1LjQxLjIwMDo4MCIsImFkZCI6IjE1LjIzNS40MS4yMDAiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwiaG9zdCI6IiIsInRscyI6IiJ9
+# 22. Global | VMess | ★★★★★ | ⚡ 20.74ms
+vmess://eyJhZGQiOiIxMDQuMjEuNjkuNDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwiaWQiOiJuYXNuZXQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmFzbmV0L2NkbiIsInBvcnQiOiI4MDgwIiwicHMiOiJOL0EtQFYycmF5QWxwaGEtOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==vless
+
+# 23. TR | VLess | ★★★★★ | ⚡ 20.75ms
+vless://84c4404d-7ccd-42ea-a819-64b763cec473@ip.hamrahto.com:8443?security=tls&type=ws&headerType=&path=%2F&host=hm33333333.mutee.com.tr&sni=hm33333333.mutee.com.tr&fp=chrome#%F0%9F%92%8E%20NewVP%208
+
+# 24. RU | VLess | ★★★★★ | ⚡ 20.8ms
+vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@dostupbypass4.suio.me:443?security=reality&encryption=none&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=bbea2805#%F0%9F%8D%AD57%40unvisible_drops
+
+# 25. UK | VMess | ★★★★★ | ⚡ 20.86ms
+vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+# 26. Global | VLess | ★★★★★ | ⚡ 20.89ms
+vless://14eba471-4623-4ed1-b937-f5b2206749bf@magazine.sentry-warrunner.xyz:443?mode=gun&security=reality&encryption=none&pbk=UrGT7bAn2UND3kx81QHACf_6qReN8V6_o70kZerONk4&fp=chrome&type=grpc&serviceName=Telegram-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers&sni=miro.com&sid=1c547814#%F0%9F%87%A9%F0%9F%87%AA%20DE%20by%20HELIX%20Servers
+
+# 27. Germany | VLess | ★★★★★ | ⚡ 20.97ms
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+
+# 28. Iran | VLess | ★★★★★ | ⚡ 21ms
+vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@chatgpt.com:2083?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ds1-mx-fn154-protection.iranlease.com&type=ws&allowInsecure=0&sni=ds1-mx-fn154-protection.iranlease.com#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-tl-ws%5D%20hamedp71%20
+
+# 29. UK | VLess | ★★★★★ | ⚡ 21.1ms
+vless://68c89f56-3a15-46f2-9901-8c00a2546b97@172.64.144.74:443?path=%2F&security=tls&encryption=none&insecure=0&host=rukawa.pages.dev&type=ws&allowInsecure=0&sni=rukawa.pages.dev#BESTIIVPNBOT
+
+# 30. Iran | VLess | ★★★★★ | ⚡ 21.2ms
+vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@chatgpt.com:2083?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ds1-mx-fn154-protection.iranlease.com&fp=chrome&type=ws&allowInsecure=0&sni=ds1-mx-fn154-protection.iranlease.com#BESTIIVPNBOT
 
 # =========================================
 # 🤖 تولید شده توسط V2Ray Elite Bot
 # ⚡ نسخه: 3.0.0
-# 📅 آخرین بروزرسانی: 2026-02-07 00:00:13
-# 🔄 بروزرسانی بعدی: 2026-02-07 00:50:13
+# 📅 آخرین بروزرسانی: 2026-02-07 00:07:28
+# 🔄 بروزرسانی بعدی: 2026-02-07 00:57:28
 # 💫 قدرت گرفته از Elite Dev Team
