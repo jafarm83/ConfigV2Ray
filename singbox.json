@@ -1,6 +1,7 @@
 {
     "log": {
-        "level": "warn"
+        "level": "warn",
+        "timestamp": true
     },
     "dns": {
         "servers": [
@@ -8,6 +9,17 @@
                 "tag": "google",
                 "address": "tls://8.8.8.8",
                 "detour": "select"
+            },
+            {
+                "tag": "local",
+                "address": "local",
+                "detour": "direct"
+            }
+        ],
+        "rules": [
+            {
+                "outbound": "any",
+                "server": "local"
             }
         ]
     },
@@ -16,7 +28,8 @@
             "type": "mixed",
             "tag": "mixed-in",
             "listen": "127.0.0.1",
-            "listen_port": 2080
+            "listen_port": 2080,
+            "sniff": true
         }
     ],
     "outbounds": [
@@ -24,194 +37,279 @@
             "type": "selector",
             "tag": "select",
             "outbounds": [
-                "urltest",
-                "🇮🇷 Jafar | 🛡️ 20 ms",
-                "🇨🇦 Jafar | 🛡️ 73 ms",
-                "🇨🇦 Jafar | 🛡️ 154 ms",
-                "🇨🇦 Jafar | 🛡️ 156 ms",
-                "🇪🇸 Jafar | 🛡️ 167 ms",
+                "auto",
+                "🇪🇸 Jafar | 🛡️ 55 ms",
+                "🇨🇦 Jafar | 🛡️ 74 ms",
+                "🇮🇷 Jafar | 🛡️ 114 ms",
+                "🇨🇦 Jafar | 🛡️ 146 ms",
+                "🇺🇸 Jafar | 🛡️ 151 ms",
+                "🇨🇦 Jafar | 🛡️ 165 ms",
+                "🇨🇦 Jafar | 🛡️ 166 ms",
                 "🇨🇦 Jafar | 🛡️ 168 ms",
-                "🇸🇨 Jafar | 🛡️ 168 ms",
+                "🇧🇬 Jafar | 💎 170 ms",
+                "🇨🇦 Jafar | 🛡️ 173 ms",
+                "🇨🇦 Jafar | 🛡️ 173 ms",
                 "🇨🇦 Jafar | 🛡️ 174 ms",
+                "🇨🇦 Jafar | 🛡️ 175 ms",
+                "🇸🇨 Jafar | 🛡️ 176 ms",
+                "🇨🇦 Jafar | 🛡️ 176 ms",
+                "🇨🇦 Jafar | 🛡️ 176 ms",
+                "🇨🇦 Jafar | 🛡️ 177 ms",
+                "🇨🇦 Jafar | 🛡️ 177 ms",
                 "🇨🇦 Jafar | 🛡️ 177 ms",
                 "🇨🇦 Jafar | 🛡️ 178 ms",
-                "🇨🇦 Jafar | 🛡️ 180 ms",
-                "🇨🇦 Jafar | 🛡️ 180 ms",
+                "🇨🇦 Jafar | 🛡️ 178 ms",
+                "🇨🇦 Jafar | 🛡️ 179 ms",
+                "🇺🇸 Jafar | 🛡️ 180 ms",
                 "🇨🇦 Jafar | 🛡️ 180 ms",
                 "🇨🇦 Jafar | 🛡️ 181 ms",
-                "🇨🇦 Jafar | 🛡️ 183 ms",
+                "🇬🇧 Jafar | 💎 183 ms",
+                "🇵🇹 Jafar | 🛡️ 184 ms",
+                "🇺🇸 Jafar | 🛡️ 185 ms",
+                "🇨🇦 Jafar | 🛡️ 186 ms",
                 "🇨🇦 Jafar | 🛡️ 187 ms",
                 "🇨🇦 Jafar | 🛡️ 187 ms",
+                "🇨🇷 Jafar | 🛡️ 188 ms",
                 "🇨🇦 Jafar | 🛡️ 188 ms",
-                "🇳🇱 Jafar | 💎 189 ms",
-                "🇺🇸 Jafar | 🛡️ 190 ms",
-                "🇨🇦 Jafar | 🛡️ 191 ms",
-                "🇨🇦 Jafar | 🛡️ 191 ms",
-                "🇨🇦 Jafar | 🛡️ 191 ms",
+                "🇺🇸 Jafar | 🛡️ 188 ms",
+                "🇨🇦 Jafar | 🛡️ 189 ms",
+                "🇸🇨 Jafar | 🛡️ 189 ms",
+                "🇨🇦 Jafar | 🛡️ 190 ms",
                 "🇨🇦 Jafar | 🛡️ 192 ms",
-                "🇨🇦 Jafar | 🛡️ 192 ms",
-                "🇨🇦 Jafar | 🛡️ 192 ms",
-                "🇺🇸 Jafar | 🛡️ 193 ms",
-                "🇨🇦 Jafar | 🛡️ 193 ms",
+                "🇨🇦 Jafar | 🛡️ 194 ms",
                 "🇨🇦 Jafar | 🛡️ 195 ms",
                 "🇨🇦 Jafar | 🛡️ 195 ms",
-                "🇨🇦 Jafar |  195 ms",
-                "🇨🇦 Jafar | 🛡️ 196 ms",
-                "🇨🇦 Jafar | 🛡️ 197 ms",
-                "🇨🇦 Jafar | 🛡️ 198 ms",
-                "🇵🇹 Jafar | 🛡️ 202 ms",
-                "🇨🇦 Jafar | 🛡️ 202 ms",
-                "🇨🇦 Jafar | 🛡️ 204 ms",
-                "🇺🇸 Jafar | 🛡️ 206 ms",
-                "🇬🇧 Jafar | 🛡️ 210 ms",
-                "🇨🇦 Jafar | 🛡️ 213 ms",
-                "🇫🇮 Jafar | 🛡️ 216 ms",
-                "🇵🇱 Jafar | 💎 219 ms",
-                "🇩🇪 Jafar | 💎 219 ms",
-                "🇨🇦 Jafar | 🛡️ 221 ms",
-                "🇨🇦 Jafar | 🛡️ 225 ms",
-                "🇸🇪 Jafar | 🛡️ 226 ms",
-                "🇺🇸 Jafar | 🛡️ 238 ms"
+                "🇺🇸 Jafar | 🛡️ 197 ms",
+                "🇺🇸 Jafar | 🛡️ 199 ms",
+                "🇩🇪 Jafar | 💎 205 ms",
+                "🇺🇸 Jafar | 🛡️ 209 ms",
+                "🇩🇪 Jafar | 💎 211 ms",
+                "🇳🇱 Jafar | 💎 214 ms",
+                "🇫🇮 Jafar | 💎 223 ms"
             ]
         },
         {
             "type": "urltest",
-            "tag": "urltest",
+            "tag": "auto",
             "outbounds": [
-                "🇮🇷 Jafar | 🛡️ 20 ms",
-                "🇨🇦 Jafar | 🛡️ 73 ms",
-                "🇨🇦 Jafar | 🛡️ 154 ms",
-                "🇨🇦 Jafar | 🛡️ 156 ms",
-                "🇪🇸 Jafar | 🛡️ 167 ms",
+                "🇪🇸 Jafar | 🛡️ 55 ms",
+                "🇨🇦 Jafar | 🛡️ 74 ms",
+                "🇮🇷 Jafar | 🛡️ 114 ms",
+                "🇨🇦 Jafar | 🛡️ 146 ms",
+                "🇺🇸 Jafar | 🛡️ 151 ms",
+                "🇨🇦 Jafar | 🛡️ 165 ms",
+                "🇨🇦 Jafar | 🛡️ 166 ms",
                 "🇨🇦 Jafar | 🛡️ 168 ms",
-                "🇸🇨 Jafar | 🛡️ 168 ms",
+                "🇧🇬 Jafar | 💎 170 ms",
+                "🇨🇦 Jafar | 🛡️ 173 ms",
+                "🇨🇦 Jafar | 🛡️ 173 ms",
                 "🇨🇦 Jafar | 🛡️ 174 ms",
+                "🇨🇦 Jafar | 🛡️ 175 ms",
+                "🇸🇨 Jafar | 🛡️ 176 ms",
+                "🇨🇦 Jafar | 🛡️ 176 ms",
+                "🇨🇦 Jafar | 🛡️ 176 ms",
+                "🇨🇦 Jafar | 🛡️ 177 ms",
+                "🇨🇦 Jafar | 🛡️ 177 ms",
                 "🇨🇦 Jafar | 🛡️ 177 ms",
                 "🇨🇦 Jafar | 🛡️ 178 ms",
-                "🇨🇦 Jafar | 🛡️ 180 ms",
-                "🇨🇦 Jafar | 🛡️ 180 ms",
+                "🇨🇦 Jafar | 🛡️ 178 ms",
+                "🇨🇦 Jafar | 🛡️ 179 ms",
+                "🇺🇸 Jafar | 🛡️ 180 ms",
                 "🇨🇦 Jafar | 🛡️ 180 ms",
                 "🇨🇦 Jafar | 🛡️ 181 ms",
-                "🇨🇦 Jafar | 🛡️ 183 ms",
+                "🇬🇧 Jafar | 💎 183 ms",
+                "🇵🇹 Jafar | 🛡️ 184 ms",
+                "🇺🇸 Jafar | 🛡️ 185 ms",
+                "🇨🇦 Jafar | 🛡️ 186 ms",
                 "🇨🇦 Jafar | 🛡️ 187 ms",
                 "🇨🇦 Jafar | 🛡️ 187 ms",
+                "🇨🇷 Jafar | 🛡️ 188 ms",
                 "🇨🇦 Jafar | 🛡️ 188 ms",
-                "🇳🇱 Jafar | 💎 189 ms",
-                "🇺🇸 Jafar | 🛡️ 190 ms",
-                "🇨🇦 Jafar | 🛡️ 191 ms",
-                "🇨🇦 Jafar | 🛡️ 191 ms",
-                "🇨🇦 Jafar | 🛡️ 191 ms",
+                "🇺🇸 Jafar | 🛡️ 188 ms",
+                "🇨🇦 Jafar | 🛡️ 189 ms",
+                "🇸🇨 Jafar | 🛡️ 189 ms",
+                "🇨🇦 Jafar | 🛡️ 190 ms",
                 "🇨🇦 Jafar | 🛡️ 192 ms",
-                "🇨🇦 Jafar | 🛡️ 192 ms",
-                "🇨🇦 Jafar | 🛡️ 192 ms",
-                "🇺🇸 Jafar | 🛡️ 193 ms",
-                "🇨🇦 Jafar | 🛡️ 193 ms",
+                "🇨🇦 Jafar | 🛡️ 194 ms",
                 "🇨🇦 Jafar | 🛡️ 195 ms",
                 "🇨🇦 Jafar | 🛡️ 195 ms",
-                "🇨🇦 Jafar |  195 ms",
-                "🇨🇦 Jafar | 🛡️ 196 ms",
-                "🇨🇦 Jafar | 🛡️ 197 ms",
-                "🇨🇦 Jafar | 🛡️ 198 ms",
-                "🇵🇹 Jafar | 🛡️ 202 ms",
-                "🇨🇦 Jafar | 🛡️ 202 ms",
-                "🇨🇦 Jafar | 🛡️ 204 ms",
-                "🇺🇸 Jafar | 🛡️ 206 ms",
-                "🇬🇧 Jafar | 🛡️ 210 ms",
-                "🇨🇦 Jafar | 🛡️ 213 ms",
-                "🇫🇮 Jafar | 🛡️ 216 ms",
-                "🇵🇱 Jafar | 💎 219 ms",
-                "🇩🇪 Jafar | 💎 219 ms",
-                "🇨🇦 Jafar | 🛡️ 221 ms",
-                "🇨🇦 Jafar | 🛡️ 225 ms",
-                "🇸🇪 Jafar | 🛡️ 226 ms",
-                "🇺🇸 Jafar | 🛡️ 238 ms"
+                "🇺🇸 Jafar | 🛡️ 197 ms",
+                "🇺🇸 Jafar | 🛡️ 199 ms",
+                "🇩🇪 Jafar | 💎 205 ms",
+                "🇺🇸 Jafar | 🛡️ 209 ms",
+                "🇩🇪 Jafar | 💎 211 ms",
+                "🇳🇱 Jafar | 💎 214 ms",
+                "🇫🇮 Jafar | 💎 223 ms"
             ],
-            "url": "http://cp.cloudflare.com",
-            "interval": "10m"
+            "url": "http://cp.cloudflare.com/",
+            "interval": "10m",
+            "tolerance": 50
         },
         {
             "type": "vless",
-            "tag": "🇮🇷 Jafar | 🛡️ 20 ms",
-            "server": "188.121.119.69",
-            "server_port": 443,
-            "uuid": "cca8470e-8180-44a4-9885-20b65cb2f59a",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "188.121.119.69",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp"
-        },
-        {
-            "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 73 ms",
-            "server": "104.18.32.47",
-            "server_port": 443,
-            "uuid": "2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "DiGIkALaA.dpdns.ORG",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560",
-                "headers": {
-                    "Host": "digikalaa.dpdns.org"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 154 ms",
-            "server": "104.20.1.252",
-            "server_port": 443,
-            "uuid": "fef4a93d-eb4f-4657-b56b-32a0dc060045",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "dev.nestandneighbours.com",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "dev.nestandneighbours.com"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 156 ms",
-            "server": "188.114.98.2",
+            "tag": "🇪🇸 Jafar | 🛡️ 55 ms",
+            "server": "185.18.250.252",
             "server_port": 443,
             "uuid": "fef4a93d-eb4f-4657-b56b-32a0dc060045",
             "flow": "",
             "tls": {
                 "enabled": true,
                 "server_name": "dev.twistsparrow.xyz",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "insecure": true
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "dev.twistsparrow.xyz"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 74 ms",
+            "server": "104.18.32.47",
+            "server_port": 2083,
+            "uuid": "96d9bcb0-9ad2-48be-85a2-a9ab3a005261",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "ds1-mx-fn154-protection.iranlease.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "ds1-mx-fn154-protection.iranlease.com"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇮🇷 Jafar | 🛡️ 114 ms",
+            "server": "www.bandmusic.ir",
+            "server_port": 443,
+            "uuid": "6865584d-f1ed-4791-9f64-f9544bc14391",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "join.kiava.fun",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/?ed=2560",
+                "headers": {
+                    "Host": "join.kiava.fun"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 146 ms",
+            "server": "104.21.40.34",
+            "server_port": 443,
+            "uuid": "fef4a93d-eb4f-4657-b56b-32a0dc060045",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "dev.twistsparrow.xyz",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "dev.twistsparrow.xyz"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 Jafar | 🛡️ 151 ms",
+            "server": "8.6.112.0",
+            "server_port": 443,
+            "uuid": "d34dac88-5207-49a3-b5dc-1b737e2a7f6f",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "lutranautilus.qzz.io",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/141.95.127.113=2053",
+                "headers": {
+                    "Host": "lutranautilus.qzz.io"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 165 ms",
+            "server": "172.66.44.54",
+            "server_port": 2083,
+            "uuid": "75afff14-dad5-43d2-bd47-207b15978630",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "abOLCInFIG1.PagES.dEv",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/qgIgE6AX11OVGyHW/dHVya2V5Lmpld2VsbGwuaXIsZ20xLmpwZ2Zvcm1hdC5pcg==?ed=2560",
+                "headers": {
+                    "Host": "abolcinfig1.pages.dev"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 166 ms",
+            "server": "188.114.98.0",
+            "server_port": 443,
+            "uuid": "fef4a93d-eb4f-4657-b56b-32a0dc060045",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "dev.twistsparrow.xyz",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
             },
             "packet_encoding": "xudp",
             "transport": {
@@ -224,69 +322,92 @@
         },
         {
             "type": "vless",
-            "tag": "🇪🇸 Jafar | 🛡️ 167 ms",
-            "server": "185.18.250.252",
-            "server_port": 443,
-            "uuid": "fef4a93d-eb4f-4657-b56b-32a0dc060045",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "dev.twistsparrow.xyz",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "dev.twistsparrow.xyz"
-                }
-            }
-        },
-        {
-            "type": "vless",
             "tag": "🇨🇦 Jafar | 🛡️ 168 ms",
-            "server": "188.114.98.0",
+            "server": "188.114.97.42",
+            "server_port": 2053,
+            "uuid": "6b47700e-0784-4737-ab49-a47c6ad1425b",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "wt1.v2sub.sbs",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/WioNjdhwowoHsiwow",
+                "headers": {
+                    "Host": "wt.v2sub.sbs"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇧🇬 Jafar | 💎 170 ms",
+            "server": "146.19.80.222",
+            "server_port": 443,
+            "uuid": "309fa273-6579-4cb2-9143-7cad50401eba",
+            "flow": "xtls-rprx-vision",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cloudflare.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY",
+                    "short_id": "7cad5040"
+                }
+            },
+            "packet_encoding": "xudp"
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 173 ms",
+            "server": "xn--om2b20cm8cl2dp0cc0tqla.logoseti.ir",
+            "server_port": 2087,
+            "uuid": "8908d1a1-f01e-4192-b4da-d7b411560c09",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "Dl.logoSeti.iR.",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/@vilyshco/ed=1024",
+                "headers": {
+                    "Host": "Dl.loGoSeti.iR"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 173 ms",
+            "server": "188.114.98.2",
             "server_port": 443,
             "uuid": "fef4a93d-eb4f-4657-b56b-32a0dc060045",
             "flow": "",
             "tls": {
                 "enabled": true,
                 "server_name": "dev.twistsparrow.xyz",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "dev.twistsparrow.xyz"
                 }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇸🇨 Jafar | 🛡️ 168 ms",
-            "server": "45.130.125.160",
-            "server_port": 2087,
-            "uuid": "7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "ns5.mehrsazi.ir",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
             },
             "packet_encoding": "xudp",
             "transport": {
@@ -300,50 +421,225 @@
         {
             "type": "vless",
             "tag": "🇨🇦 Jafar | 🛡️ 174 ms",
-            "server": "188.114.97.3",
-            "server_port": 8443,
-            "uuid": "c0b8963b-b2ba-4b74-8602-98a8b044f3bc",
+            "server": "172.64.152.23",
+            "server_port": 443,
+            "uuid": "acd18067-14d4-4c4b-83d7-5ef165051fea",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "v2NGfAsT-v2NGFAT-V2NgFAst-V2nGFAt-v2ngfAst-V2nGfAt.tocoS74667.WorkerS.DeV",
+                "server_name": "ancient-star-144e.sell003.workers.dev",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "insecure": true
+                }
             },
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
-                "path": "/eyJqdW5rIjoid3VFQlVxUnltIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560",
+                "path": "/eyJleHAiOjE3NzA5MTI5MzA4MzV9?ed",
                 "headers": {
-                    "Host": "v2ngfast-v2ngfat-v2ngfast-v2ngfat-v2ngfast-v2ngfat.tocos74667.workers.dev"
+                    "Host": "ancient-star-144e.sell003.workers.dev"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 175 ms",
+            "server": "104.21.9.229",
+            "server_port": 8443,
+            "uuid": "d2b0b08f-d7bd-4a08-b41c-8f5b80e0fd17",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "de1-p3.hamrahcore.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "de1-p3.hamrahcore.ir"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇸🇨 Jafar | 🛡️ 176 ms",
+            "server": "2sudo.winapp3.ir",
+            "server_port": 8443,
+            "uuid": "1f70e732-e72d-4535-b494-a595d4df4b0b",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "master.red-cow.de",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 176 ms",
+            "server": "104.18.185.26",
+            "server_port": 2053,
+            "uuid": "e5f8a9f6-f164-479b-b3b5-b90f213c7145",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "ir1.airpanel.top",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "ir1.airpanel.top"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 176 ms",
+            "server": "betty.ns.cloudflare.com",
+            "server_port": 2096,
+            "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "hetz.x-smm.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/45.76.183.217=49292",
+                "headers": {
+                    "Host": "hetz.x-smm.com"
                 }
             }
         },
         {
             "type": "vless",
             "tag": "🇨🇦 Jafar | 🛡️ 177 ms",
-            "server": "172.64.145.38",
-            "server_port": 2087,
-            "uuid": "41c55d8d-44dd-4437-90ff-4c1eb869a67c",
+            "server": "b2n.ir",
+            "server_port": 443,
+            "uuid": "3b725c8f-4555-4442-9295-fd733a9cd9d9",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "digikala.sorza.ir",
+                "server_name": "b2ncdn213142156116.reservedns.com",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
+                    "fingerprint": "randomized"
+                }
             },
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
-                "path": "/?ed=2560",
+                "path": "/?ed=443",
                 "headers": {
-                    "Host": "gamepc.sorza.ir"
+                    "Host": "b2ncdn213142156116.reservedns.com"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 177 ms",
+            "server": "chatgpt.com",
+            "server_port": 8443,
+            "uuid": "6ceadcb3-81b5-4a0d-a99e-3cb24238952c",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "V2nGfaST-V2NGfaST-V2NgfaST-V2NgFaST-V2NgfasT.nDulIMBH.WorkERS.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/eyJqdW5rIjoiM01rd2Uxb21BemtUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560",
+                "headers": {
+                    "Host": "v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast.ndulimbh.workers.dev"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 177 ms",
+            "server": "188.114.96.3",
+            "server_port": 443,
+            "uuid": "396c904b-4b62-4334-b793-ee25fc0c61cc",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "pages.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560",
+                "headers": {
+                    "Host": "8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 178 ms",
+            "server": "104.21.78.70",
+            "server_port": 443,
+            "uuid": "69e9d5cc-2c54-41fc-a8cf-f0aef3c69ea5",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "amirjk12.benyamin-bozorgi1379.workers.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/?ed=2048",
+                "headers": {
+                    "Host": "amirjk12.benyamin-bozorgi1379.workers.dev"
                 }
             }
         },
@@ -357,11 +653,11 @@
             "tls": {
                 "enabled": true,
                 "server_name": "delta090.qzz.io",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "insecure": true
+                }
             },
             "packet_encoding": "xudp",
             "transport": {
@@ -374,32 +670,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 180 ms",
-            "server": "norman.ns.cloudflare.com",
-            "server_port": 2096,
-            "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "hetz.x-smm.com",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/45.76.183.217=49292",
-                "headers": {
-                    "Host": "hetz.x-smm.com"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 180 ms",
+            "tag": "🇨🇦 Jafar | 🛡️ 179 ms",
             "server": "104.17.73.206",
             "server_port": 443,
             "uuid": "3321a819-889d-40b3-b8fa-f34208827ef1",
@@ -407,11 +678,11 @@
             "tls": {
                 "enabled": true,
                 "server_name": "o00o.snip.qzz.io",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "insecure": true
+                }
             },
             "packet_encoding": "xudp",
             "transport": {
@@ -424,76 +695,182 @@
         },
         {
             "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 180 ms",
-            "server": "172.64.155.209",
+            "tag": "🇺🇸 Jafar | 🛡️ 180 ms",
+            "server": "188.114.99.160",
             "server_port": 443,
-            "uuid": "d4e6cdff-91c8-49f5-b211-f6b349617c49",
+            "uuid": "bac628dc-cd64-460c-8657-8128c9d6d7b7",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "de001c.ketabv.ir",
+                "server_name": "api-ch.nping.ir",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/uqBYRQhpA2NzSIhejwuqjz#TELEGRAM-turbov2box---#TELEGRAM-turbov2box---#TELEGRAM-turbov2box---#TELEGRAM-turbov2box---#TELEGRAM-anotherme_night#TELEGRAM-turbov2box---#TELEGRAM-turbov2box---#TELEGRAM-turbov2box---#TELEGRAM-turbov2box---#TELEGRAM-turbov2box",
-                "headers": {
-                    "Host": "de001c.ketabv.ir"
                 }
-            }
+            },
+            "packet_encoding": "xudp"
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 180 ms",
+            "server": "digitalocean.com",
+            "server_port": 8443,
+            "uuid": "nasnet",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "nasnet-5712964102.dilik.co",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp"
         },
         {
             "type": "vless",
             "tag": "🇨🇦 Jafar | 🛡️ 181 ms",
-            "server": "172.67.180.92",
-            "server_port": 443,
-            "uuid": "dd0cfef0-fda9-47ec-8a65-49d7bc004f82",
+            "server": "104.17.147.22",
+            "server_port": 2096,
+            "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "web.abcallcenter.com",
+                "server_name": "hetz.x-smm.com",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "insecure": true
+                }
             },
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
-                "path": "/@vpnbaz-@vpnbaz-@vpnbaz-@vpnbaz-@vpnbaz-@vpnbaz-@vpnbaz",
+                "path": "/45.76.183.217=49292",
                 "headers": {
-                    "Host": "web.abcallcenter.com"
+                    "Host": "hetz.x-smm.com"
                 }
             }
         },
         {
             "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 183 ms",
-            "server": "104.21.78.70",
+            "tag": "🇬🇧 Jafar | 💎 183 ms",
+            "server": "57.128.163.80",
             "server_port": 443,
-            "uuid": "69e9d5cc-2c54-41fc-a8cf-f0aef3c69ea5",
+            "uuid": "VPNCUSTOMIZE",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "amirjk12.benyamin-bozorgi1379.workers.dev",
+                "server_name": "cdn.kellekcollection.com",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
-                "insecure": true
+                "reality": {
+                    "enabled": true,
+                    "public_key": "w9tYPxes9YU2yvmYMgRYhSFQCWFoyQCz5b0odul1DQQ",
+                    "short_id": "136ce8d8"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "grpc",
+                "service_name": "@VPNCUSTOMIZE"
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇵🇹 Jafar | 🛡️ 184 ms",
+            "server": "156.243.83.167",
+            "server_port": 443,
+            "uuid": "telegram-id-Arfilter",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "cdn-alman1.arfilter2.blog",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
             },
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
-                "path": "/?ed=2048",
+                "path": "/-Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEl--@Arfilter?ed=2048",
                 "headers": {
-                    "Host": "amirjk12.benyamin-bozorgi1379.workers.dev"
+                    "Host": "cdn-alman1.arfilter2.blog"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 Jafar | 🛡️ 185 ms",
+            "server": "141.101.114.227",
+            "server_port": 443,
+            "uuid": "3eac366f-82a1-40bb-9045-7530e54ac687",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "az20.bardiapirooz.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp"
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 186 ms",
+            "server": "172.64.145.38",
+            "server_port": 2087,
+            "uuid": "41c55d8d-44dd-4437-90ff-4c1eb869a67c",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "digikala.sorza.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/?ed=2560",
+                "headers": {
+                    "Host": "gamepc.sorza.ir"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 187 ms",
+            "server": "104.16.2.90",
+            "server_port": 443,
+            "uuid": "aaaaaabb-4ddd-4eee-9fff-ffffffffffff",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "Pulavpn11.afrcloud22.mmv.kr",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/43.218.77.16=1443",
+                "headers": {
+                    "Host": "afrcloud22.mmv.kr"
                 }
             }
         },
@@ -507,11 +884,11 @@
             "tls": {
                 "enabled": true,
                 "server_name": "de001c.ketabv.ir",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "insecure": true
+                }
             },
             "packet_encoding": "xudp",
             "transport": {
@@ -524,132 +901,19 @@
         },
         {
             "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 187 ms",
-            "server": "CHATGPT.com",
-            "server_port": 2096,
-            "uuid": "3660aeec-1b99-44e0-aeda-7f3f967e9957",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "3RdavbnhgvAa.infospeedtest.com",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/ws?ed=2048",
-                "headers": {
-                    "Host": "3RdavbnhgvAa.infospeedtest.com"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 188 ms",
-            "server": "104.26.7.205",
-            "server_port": 443,
-            "uuid": "071435dc-6ab9-4502-8441-ed4a4b609092",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "n1.n1server.org",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "grpc",
-                "service_name": ""
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇳🇱 Jafar | 💎 189 ms",
-            "server": "nl3.pineappled.org",
-            "server_port": 443,
-            "uuid": "64b5d863-81d6-48ea-9222-82030616fa63",
-            "flow": "xtls-rprx-vision",
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true,
-                "reality": {
-                    "enabled": true,
-                    "public_key": "qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU",
-                    "short_id": "9eb31eb7572c0882"
-                }
-            },
-            "packet_encoding": "xudp"
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 Jafar | 🛡️ 190 ms",
-            "server": "188.114.99.160",
-            "server_port": 443,
-            "uuid": "bac628dc-cd64-460c-8657-8128c9d6d7b7",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "api-ch.nping.ir",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp"
-        },
-        {
-            "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 191 ms",
-            "server": "betty.ns.cloudflare.com",
-            "server_port": 443,
-            "uuid": "d851e68a-af64-4dfc-a85a-7ffad2483230",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "639031180460930556.altima-amsjq.info",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/oqxdqtws",
-                "headers": {
-                    "Host": "639031180460930556.altima-amsjq.info"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 191 ms",
-            "server": "104.17.147.22",
+            "tag": "🇨🇷 Jafar | 🛡️ 188 ms",
+            "server": "clyde.ns.cloudflare.com",
             "server_port": 2096,
             "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
             "flow": "",
             "tls": {
                 "enabled": true,
                 "server_name": "hetz.x-smm.com",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "insecure": true
+                }
             },
             "packet_encoding": "xudp",
             "transport": {
@@ -662,7 +926,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 191 ms",
+            "tag": "🇨🇦 Jafar | 🛡️ 188 ms",
             "server": "162.159.152.4",
             "server_port": 443,
             "uuid": "c243a123-c6ca-4115-a955-3ddce53e257d",
@@ -670,11 +934,11 @@
             "tls": {
                 "enabled": true,
                 "server_name": "fuchsia.qzz.io",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "insecure": true
+                }
             },
             "packet_encoding": "xudp",
             "transport": {
@@ -687,82 +951,7 @@
         },
         {
             "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 192 ms",
-            "server": "104.18.185.26",
-            "server_port": 2053,
-            "uuid": "e5f8a9f6-f164-479b-b3b5-b90f213c7145",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "ir1.airpanel.top",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "ir1.airpanel.top"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 192 ms",
-            "server": "162.159.152.205",
-            "server_port": 443,
-            "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "sni.aizrf.com",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560",
-                "headers": {
-                    "Host": "sni.aizrf.com"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 192 ms",
-            "server": "104.21.9.229",
-            "server_port": 8443,
-            "uuid": "d2b0b08f-d7bd-4a08-b41c-8f5b80e0fd17",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "de1-p3.hamrahcore.ir",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "de1-p3.hamrahcore.ir"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 Jafar | 🛡️ 193 ms",
+            "tag": "🇺🇸 Jafar | 🛡️ 188 ms",
             "server": "188.114.99.243",
             "server_port": 2096,
             "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
@@ -770,11 +959,11 @@
             "tls": {
                 "enabled": true,
                 "server_name": "sni.111000.indevs.in",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "insecure": true
+                }
             },
             "packet_encoding": "xudp",
             "transport": {
@@ -787,7 +976,100 @@
         },
         {
             "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 193 ms",
+            "tag": "🇨🇦 Jafar | 🛡️ 189 ms",
+            "server": "172.67.180.92",
+            "server_port": 443,
+            "uuid": "dd0cfef0-fda9-47ec-8a65-49d7bc004f82",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "web.abcallcenter.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/--Telegram---@Appsooner/---@Appsooner/---@Appsooner/---@Appsooner?ed=2560",
+                "headers": {
+                    "Host": "web.abcallcenter.com"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇸🇨 Jafar | 🛡️ 189 ms",
+            "server": "45.130.125.160",
+            "server_port": 2087,
+            "uuid": "7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "ns5.mehrsazi.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 190 ms",
+            "server": "music.mp3tarane.workers.dev",
+            "server_port": 443,
+            "uuid": "9ccd06a2-5616-47e3-9763-f9696959d7ad",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "music.mp3tarane.workers.dev",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/ws",
+                "headers": {
+                    "Host": "music.mp3tarane.workers.dev"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 192 ms",
+            "server": "K6.FASTSPEEDS.IR",
+            "server_port": 443,
+            "uuid": "7990dfd8-07ba-4f27-b998-e5c52eacbb0d",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "SHARAF.followerarzon1.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp"
+        },
+        {
+            "type": "vless",
+            "tag": "🇨🇦 Jafar | 🛡️ 194 ms",
             "server": "162.159.198.189",
             "server_port": 443,
             "uuid": "dbc8b845-5441-4a43-98cb-2e33ecb06f59",
@@ -795,11 +1077,11 @@
             "tls": {
                 "enabled": true,
                 "server_name": "hotchoclate.graphapp.ir",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "insecure": true
+                }
             },
             "packet_encoding": "xudp",
             "transport": {
@@ -813,315 +1095,48 @@
         {
             "type": "vless",
             "tag": "🇨🇦 Jafar | 🛡️ 195 ms",
-            "server": "xn--om2b20cm8cl2dp0cc0tqla.logoseti.ir",
-            "server_port": 2087,
-            "uuid": "8908d1a1-f01e-4192-b4da-d7b411560c09",
+            "server": "172.66.44.174",
+            "server_port": 2053,
+            "uuid": "80764883-7f6b-4c46-8ecd-887cdf541c07",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "Dl.logoSeti.iR.",
+                "server_name": "edc32e3b.bpb-panel-en-87s.pages.dev",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "insecure": true
+                }
             },
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
-                "path": "/@vilyshco/ed=1024",
+                "path": "/",
                 "headers": {
-                    "Host": "Dl.loGoSeti.iR"
+                    "Host": "edc32e3b.bpb-panel-en-87s.pages.dev"
                 }
             }
         },
         {
             "type": "vless",
             "tag": "🇨🇦 Jafar | 🛡️ 195 ms",
-            "server": "172.64.33.91",
-            "server_port": 2096,
-            "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "hetz.x-smm.com",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/45.76.183.217=49292",
-                "headers": {
-                    "Host": "hetz.x-smm.com"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 Jafar |  195 ms",
-            "server": "t1.620720.xyz",
-            "server_port": 8443,
-            "uuid": "516d8a7a-3f0b-41d3-bad0-246116381516",
-            "security": "auto",
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "t1.620720.xyz"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 196 ms",
-            "server": "172.66.44.54",
-            "server_port": 2083,
-            "uuid": "75afff14-dad5-43d2-bd47-207b15978630",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "abOLCInFIG1.PagES.dEv",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/qgIgE6AX11OVGyHW/dHVya2V5Lmpld2VsbGwuaXIsZ20xLmpwZ2Zvcm1hdC5pcg==?ed=2560",
-                "headers": {
-                    "Host": "abolcinfig1.pages.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 197 ms",
-            "server": "www.speedtest.net",
-            "server_port": 2083,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "hAsTi.frEEairLainEs.Com",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/G9WiaAeAdacfio6X?ed=2560",
-                "headers": {
-                    "Host": "HaSTI.fReeAIrLAINes.COm"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 198 ms",
-            "server": "tgju.org",
-            "server_port": 2053,
-            "uuid": "nasnet",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "nasnet-162191099.sharghdaily.co",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp"
-        },
-        {
-            "type": "vless",
-            "tag": "🇵🇹 Jafar | 🛡️ 202 ms",
-            "server": "156.243.83.167",
+            "server": "chat.openai.com",
             "server_port": 443,
-            "uuid": "telegram-id-Arfilter",
+            "uuid": "289f7608-8995-4165-9f3a-3612577190bb",
             "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "cdn-alman1.arfilter2.blog",
+                "server_name": "dl98.hexo-music.ir",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/-Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEl--@Arfilter?ed=2048",
-                "headers": {
-                    "Host": "cdn-alman1.arfilter2.blog"
                 }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 202 ms",
-            "server": "Chatgpt.com",
-            "server_port": 443,
-            "uuid": "7fcbc02d-6f61-4cdf-a322-b14779cc8b47",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "pa.ar-marz.fun",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
             },
             "packet_encoding": "xudp",
             "transport": {
                 "type": "ws",
-                "path": "/man?ed=2560",
-                "headers": {
-                    "Host": "pa.ar-marz.fun"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 204 ms",
-            "server": "cf.008500.xyz",
-            "server_port": 443,
-            "uuid": "5dc15e15-f285-4a9d-959b-0e4fbdd77b63",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "powered-by-surena.configfarsi695fce27aa549.workers.dev",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560",
-                "headers": {
-                    "Host": "powered-by-surena.configfarsi695fce27aa549.workers.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 Jafar | 🛡️ 206 ms",
-            "server": "108.162.198.154",
-            "server_port": 443,
-            "uuid": "d89d6641-3b1a-4f51-a194-9c9109fd21b6",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "DiprOX.pages.DEV",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/Tel-@V2rayAlpha",
-                "headers": {
-                    "Host": "diprox.pages.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇬🇧 Jafar | 🛡️ 210 ms",
-            "server": "chatgpt.com",
-            "server_port": 443,
-            "uuid": "5590a2f6-9703-4bd9-8861-6bd5d20d93c1",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "ok-7t5.pages.dev",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/?ed=2560",
-                "headers": {
-                    "Host": "ok-7t5.pages.dev"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 213 ms",
-            "server": "clyde.ns.cloudflare.com",
-            "server_port": 2096,
-            "uuid": "3f0f36f5-f091-45c5-88c9-4bcc545b922c",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "hetz.x-smm.com",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/45.76.183.217=49292",
-                "headers": {
-                    "Host": "hetz.x-smm.com"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇫🇮 Jafar | 🛡️ 216 ms",
-            "server": "94.131.100.163",
-            "server_port": 443,
-            "uuid": "19ae54a4-716b-4b08-914f-c9c1556c4380",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "api.avito.ru",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/pyzrgqws",
+                "path": "/ws",
                 "headers": {
                     "Host": ""
                 }
@@ -1129,30 +1144,109 @@
         },
         {
             "type": "vless",
-            "tag": "🇵🇱 Jafar | 💎 219 ms",
-            "server": "pl2.jugsenkeys4pays.su",
+            "tag": "🇺🇸 Jafar | 🛡️ 197 ms",
+            "server": "108.162.198.154",
             "server_port": 443,
-            "uuid": "b183589d-5e32-4141-a39a-6cb747964c67",
-            "flow": "xtls-rprx-vision",
+            "uuid": "d89d6641-3b1a-4f51-a194-9c9109fd21b6",
+            "flow": "",
             "tls": {
                 "enabled": true,
-                "server_name": "pl2.jugsenkeys4pays.su",
+                "server_name": "DiprOX.pages.DEV",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/fp=chrome",
+                "headers": {
+                    "Host": "DiprOX.pages.DEV"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 Jafar | 🛡️ 199 ms",
+            "server": "lian-amni-one.sapienza-mahan.ir",
+            "server_port": 443,
+            "uuid": "41ee9f94-02d8-4ef7-a96a-8b338d2997ff",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "harro-gizg1.sdcards1.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇩🇪 Jafar | 💎 205 ms",
+            "server": "saleh1000.vaghtyab.top",
+            "server_port": 2096,
+            "uuid": "82551d0e-c76f-4768-aefd-be56876c894d",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 },
-                "insecure": true,
                 "reality": {
                     "enabled": true,
-                    "public_key": "C7H4Nh55F4B8iHaVHWY6VK562RI6p_t8H7lrX_O8SnQ",
-                    "short_id": ""
+                    "public_key": "h3qvLvLZ5f27bP3ZSvMVMvw0CMnicq1Z6hZapMCWH0A",
+                    "short_id": "1664ef11aa"
                 }
             },
-            "packet_encoding": "xudp"
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "grpc",
+                "service_name": ""
+            }
         },
         {
             "type": "vless",
-            "tag": "🇩🇪 Jafar | 💎 219 ms",
+            "tag": "🇺🇸 Jafar | 🛡️ 209 ms",
+            "server": "140.248.130.32",
+            "server_port": 443,
+            "uuid": "07e299c3-1e03-42d8-82a6-c47bfc79954d",
+            "flow": "",
+            "tls": {
+                "enabled": true,
+                "server_name": "default.ssl.fastly.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/wst?ed=2056",
+                "headers": {
+                    "Host": "parsianmobilebank.ir"
+                }
+            }
+        },
+        {
+            "type": "vless",
+            "tag": "🇩🇪 Jafar | 💎 211 ms",
             "server": "64.188.70.0",
             "server_port": 443,
             "uuid": "cd79807f-bcef-46b8-93b6-229676a0c1a0",
@@ -1160,11 +1254,11 @@
             "tls": {
                 "enabled": true,
                 "server_name": "google.com",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 },
-                "insecure": true,
                 "reality": {
                     "enabled": true,
                     "public_key": "y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I",
@@ -1175,119 +1269,78 @@
         },
         {
             "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 221 ms",
-            "server": "151.101.194.133",
+            "tag": "🇳🇱 Jafar | 💎 214 ms",
+            "server": "eng14.netliberated.org",
             "server_port": 443,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
+            "uuid": "0bb6dff2-0029-4b81-8c81-4fc70fae1ed9",
+            "flow": "xtls-rprx-vision",
             "tls": {
                 "enabled": true,
-                "server_name": "mio.splashthat.com",
+                "server_name": "www.halfords.com",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048",
-                "headers": {
-                    "Host": "12.irfrn10sn.net"
+                "reality": {
+                    "enabled": true,
+                    "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
+                    "short_id": ""
                 }
-            }
+            },
+            "packet_encoding": "xudp"
         },
         {
             "type": "vless",
-            "tag": "🇨🇦 Jafar | 🛡️ 225 ms",
-            "server": "theatlantic.com",
+            "tag": "🇫🇮 Jafar | 💎 223 ms",
+            "server": "78.153.139.189",
             "server_port": 443,
-            "uuid": "TELEGRAM-NUFiLTER",
-            "flow": "",
+            "uuid": "da6052eb-ecfd-4c95-8b3d-1b2d9a946543",
+            "flow": "xtls-rprx-vision",
             "tls": {
                 "enabled": true,
-                "server_name": "Zmaoz.Faculty.Ucdavis.Edu",
+                "server_name": "tradingview.com",
+                "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80",
-                "headers": {
-                    "Host": "Shotor2la2la.neT"
-                }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇸🇪 Jafar | 🛡️ 226 ms",
-            "server": "62.60.159.189",
-            "server_port": 443,
-            "uuid": "8f90b851-8f60-411a-ace2-efe1c1edda4b",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com",
-                "utls": {
+                "reality": {
                     "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
-            },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/ws?ed=2560",
-                "headers": {
-                    "Host": "de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com"
+                    "public_key": "j5dQ_gGp7xMv9FPIHxUw1eeLf7_eLl_qF8RwM1lWq1M",
+                    "short_id": ""
                 }
-            }
-        },
-        {
-            "type": "vless",
-            "tag": "🇺🇸 Jafar | 🛡️ 238 ms",
-            "server": "lian-amni-one.sapienza-mahan.ir",
-            "server_port": 443,
-            "uuid": "41ee9f94-02d8-4ef7-a96a-8b338d2997ff",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "harro-gizg1.sdcards1.ir",
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "insecure": true
             },
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": ""
-                }
-            }
+            "packet_encoding": "xudp"
         },
         {
             "type": "direct",
             "tag": "direct"
+        },
+        {
+            "type": "block",
+            "tag": "block"
+        },
+        {
+            "type": "dns",
+            "tag": "dns-out"
         }
     ],
     "route": {
         "rules": [
             {
-                "clash_mode": "global",
-                "outbound": "select"
+                "protocol": "dns",
+                "outbound": "dns-out"
             },
             {
                 "clash_mode": "direct",
                 "outbound": "direct"
+            },
+            {
+                "clash_mode": "global",
+                "outbound": "select"
             }
-        ]
+        ],
+        "auto_detect_interface": true
     }
 }
