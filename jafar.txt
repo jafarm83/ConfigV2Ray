@@ -2,11 +2,11 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-02-23 22:47:57
+#updated-at: 2026-02-23 22:53:53
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-trojan://humanity@172.64.155.209:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 43 ms
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.18.32.47:443?path=%2F156.244.1.250%3D8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#🇨🇦 Jafar | 🛡️🔥 48 ms
-trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇨🇦 Jafar | 🛡️🔥 159 ms
-trojan://humanity@104.18.6.147:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇨🇦 Jafar | 🛡️🔥 161 ms
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 168 ms
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.18.32.47:443?path=%2F156.244.1.250%3D8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#🇨🇦 Jafar | 🛡️🔥 42 ms
+trojan://humanity@172.64.155.209:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 47 ms
+trojan://humanity@104.18.6.147:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇨🇦 Jafar | 🛡️🔥 147 ms
+trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇨🇦 Jafar | 🛡️🔥 164 ms
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 164 ms
