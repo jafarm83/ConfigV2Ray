@@ -1,8 +1,37 @@
-#profile-title: 🚀 Jafar Elite | 1 Srv
+#profile-title: 🚀 Jafar Elite | 30 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-02-24 02:16:18
+#updated-at: 2026-02-24 02:21:33
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-trojan://humanity@104.18.32.47:443?type=ws&host=www.multiplydose.com&path=/assignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 170 ms
+vless://84fc33ee-774e-4fa5-b708-03301f1eda69@217.60.247.108:443?path=%2Fmedia&security=tls&encryption=none&insecure=1&host=www.picofile.com&fp=chrome&type=xhttp&allowInsecure=1&sni=www.picofile.com#🇮🇷 Jafar | 🛡️🔥 27 ms
+vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@zula.ir:443?mode=packet-up&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D443&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#🇮🇷 Jafar | 🛡️🔥 132 ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.101.120.0:443?path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=divine-term-f5b2.olav95.workers.dev&type=ws&allowInsecure=0&sni=divine-term-f5b2.olav95.workers.dev#🇫🇷 Jafar | 🛡️🔥 141 ms
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Jafar | 🛡️🔥 142 ms
+vless://telegram-id-Arfilter@156.243.83.167:443?path=%2F-Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEl--@Arfilter%3Fed%3D2048&security=tls&encryption=none&host=cdn-alman1.arfilter2.blog&fp=firefox&type=ws&sni=cdn-alman1.arfilter2.blog#🇵🇹 Jafar | 🛡️🔥 143 ms
+vless://9523a24b-f6bf-339e-9950-32829162ffc2@104.17.25.173:443/?type=ws&encryption=none&flow=&host=dabaif0.webn.cc&path=%2Fdb1024f4e56f542c&security=tls&sni=dabaif0.webn.cc&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 143 ms
+vless://4a942a11-2178-4b10-af73-15b1cfee99df@104.26.15.21:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F#🇨🇦 Jafar | 🛡️🔥 146 ms
+vless://d1b421cc-ebaf-48cf-bf12-e7947af11c53@www.tgju.org:2087?path=%2Fhttpupgrade26070&security=tls&alpn=http%2F1.1&encryption=none&host=rahgozar.italiantourism.net&fp=chrome&type=httpupgrade&sni=rahgozar.italiantourism.net.#🇨🇦 Jafar | 🛡️ 146 ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.138:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇩🇪 Jafar | 🛡️ 146 ms
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=Pulavpn11.afrcloud22.mmv.kr#🇨🇦 Jafar | 🛡️🔥 147 ms
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@104.16.80.144:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir#🇨🇦 Jafar | 🛡️ 147 ms
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?path=%2F&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#🇨🇦 Jafar | 🛡️🔥 150 ms
+vless://8908d1a1-f01e-4192-b4da-d7b411560c09@xn--om2b20cm8cl2dp0cc0tqla.logoseti.ir:2087?path=%2F%40vilyshco%2Fed%3D1024&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Dl.loGoSeti.iR&fp=chrome&type=ws&sni=Dl.logoSeti.iR.#🇷🇺 Jafar | 🛡️ 150 ms
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@172.67.73.14:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F131.186.26.129%3D30443#🇨🇦 Jafar | 🛡️🔥 152 ms
+vless://c8acb46c-b441-41a4-839f-9aa8b191b769@firan.dtgoldservices.com:8443?encryption=none&security=tls&sni=firan.dtgoldservices.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇷 Jafar | 🛡️🔥 153 ms
+vless://d64620c6-2ec3-4da7-a151-febd14d7824e@betty.ns.cloudflare.com:443?path=%2Frdwnyews&security=tls&encryption=none&host=639014902535774186.supra-amsjh.info&type=ws&sni=639014902535774186.supra-amsjh.info#🇨🇦 Jafar | 🛡️🔥 156 ms
+vless://01036a14-7758-4795-b453-2625aa8ee2b5@104.26.14.21:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F#🇨🇦 Jafar | 🛡️🔥 161 ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.192.75:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&type=ws&allowInsecure=1&sni=hetz.x-smm.com#🇨🇦 Jafar | 🛡️ 161 ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#🇨🇦 Jafar | 🛡️ 161 ms
+vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&fp=chrome&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#🇸🇨 Jafar | 🛡️🔥 162 ms
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.17.162.123:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=dev.twistsparrow.xyz#🇨🇦 Jafar | 🛡️🔥 162 ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=mitivpn-2.nic3-1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nic3-1.workers.dev#🇨🇦 Jafar | 🛡️🔥 162 ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇨🇦 Jafar | 🛡️ 163 ms
+vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=80bab3a2.gon-7ye.pages.dev&type=ws&allowInsecure=1&sni=80bab3a2.gon-7ye.pages.dev#🇨🇦 Jafar | 🛡️🔥 164 ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.7.205:2096?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇨🇦 Jafar | 🛡️ 166 ms
+trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🇨🇦 Jafar | 🛡️🔥 168 ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.110.121:443?path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nameless-violet-d45c.anthony900.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nameless-violet-d45c.anthony900.workers.dev#🇨🇦 Jafar | 🛡️🔥 169 ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.158.2:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#🇨🇦 Jafar | 🛡️ 169 ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#🇨🇷 Jafar | 🛡️ 169 ms
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.127:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#🇫🇷 Jafar | 🛡️🔥 169 ms
