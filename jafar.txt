@@ -1,9 +1,10 @@
-#profile-title: 🚀 Jafar Elite | 2 Srv
+#profile-title: 🚀 Jafar Elite | 3 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-02-24 00:22:40
+#updated-at: 2026-02-24 00:23:21
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.140:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#🇫🇷 Jafar | 🛡️🔥 162 ms
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 170 ms
+trojan://humanity@104.18.10.110:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=/assignment#🇨🇦 Jafar | 🛡️🔥 149 ms
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.140:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#🇫🇷 Jafar | 🛡️🔥 160 ms
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 168 ms
