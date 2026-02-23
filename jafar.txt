@@ -1,10 +1,8 @@
-#profile-title: 🚀 Jafar Elite | 3 Srv
+#profile-title: 🚀 Jafar Elite | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-02-24 01:51:04
+#updated-at: 2026-02-24 01:55:32
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vmess://eyJhZGQiOiIxODguMTE0Ljk2LjMiLCJhaWQiOjAsImhvc3QiOiJ0MS42MjA3MjAueHl6IiwiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjg0NDMsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEphZmFyIHwgXHVkODNkXHVkZDI1IDE3MSBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAzNjIgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vmess://eyJhZGQiOiJuMTc1MjgzMzE4NC5saWU1ZC5jeW91IiwiYWlkIjowLCJob3N0IjoibjE3NTI4MzMxODQubGllNWQuY3lvdSIsImlkIjoiNmM3ZDA5ZTMtOWNmYS00MWM4LTgxOTQtZTgxZWIyMWJmYjg4IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEphZmFyIHwgXHVkODNkXHVkZDI1IDUzOCBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&fp=chrome&type=ws&host=dev.twistsparrow.xyz&path=%2F#🇨🇦 Jafar | 🛡️🔥 172 ms
