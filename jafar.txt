@@ -1,37 +1,11 @@
-#profile-title: 🚀 Jafar Elite | 30 Srv
+#profile-title: 🚀 Jafar Elite | 4 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-02-24 05:52:46
+#updated-at: 2026-02-24 05:56:24
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://84fc33ee-774e-4fa5-b708-03301f1eda69@217.60.247.108:443?path=%2Fmedia&security=tls&encryption=none&insecure=1&host=www.picofile.com&fp=chrome&type=xhttp&allowInsecure=1&sni=www.picofile.com#🇮🇷 Jafar | 🛡️🔥 29 ms
-vless://9d847ad3-1896-48f9-b89c-13fe345e2b28@zula.ir:443?mode=packet-up&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D443&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#🇮🇷 Jafar | 🛡️🔥 36 ms
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.17.162.123:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=dev.twistsparrow.xyz#🇨🇦 Jafar | 🛡️🔥 141 ms
-vless://a2c96a8e-0dec-49f3-945b-efb6353c11e8@n2vpn-helper.projectis.ir:2096?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#🇨🇦 Jafar | 🛡️ 143 ms
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?type=ws&security=tls&sni=ca.adobe-connect.top&host=ca.adobe-connect.top&path=%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512#🇨🇦 Jafar | 🛡️ 144 ms
-vless://8908d1a1-f01e-4192-b4da-d7b411560c09@xn--om2b20cm8cl2dp0cc0tqla.logoseti.ir:2087?path=%2F%40vilyshco%2Fed%3D1024&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Dl.loGoSeti.iR&fp=chrome&type=ws&sni=Dl.logoSeti.iR.#🇷🇺 Jafar | 🛡️ 146 ms
-vless://d85ea913-7dfa-44b0-bd66-33414e897991@172.67.73.14:443?path=%2F35.230.79.26%3D443%23Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🇨🇦 Jafar | 🛡️🔥 146 ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.138:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇩🇪 Jafar | 🛡️ 146 ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.101.120.0:443?path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=divine-term-f5b2.olav95.workers.dev&type=ws&allowInsecure=0&sni=divine-term-f5b2.olav95.workers.dev#🇫🇷 Jafar | 🛡️🔥 148 ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.7.205:2096?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇨🇦 Jafar | 🛡️ 148 ms
-vless://d34dac88-5207-49a3-b5dc-1b737e2a7f6f@8.6.112.0:443?path=%2F141.95.127.113%3D2053&security=tls&encryption=none&insecure=0&host=lutranautilus.qzz.io&type=ws&allowInsecure=0&sni=lutranautilus.qzz.io#🇺🇸 Jafar | 🛡️🔥 148 ms
-vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=80bab3a2.gon-7ye.pages.dev&type=ws&allowInsecure=1&sni=80bab3a2.gon-7ye.pages.dev#🇨🇦 Jafar | 🛡️🔥 149 ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.192.75:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&type=ws&allowInsecure=1&sni=hetz.x-smm.com#🇨🇦 Jafar | 🛡️ 149 ms
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&security=tls&encryption=none&insecure=0&host=www.getasa.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.getasa.ir#🇨🇦 Jafar | 🛡️🔥 149 ms
-trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🇨🇦 Jafar | 🛡️🔥 149 ms
-vless://a397c3b2-315f-449c-9bfe-b207f529db7f@lit.litiran.ir:2083?security=tls&allowInsecure=0&encryption=none&type=ws&host=image-swis.kafeistanbul.shop&sni=image-swis.kafeistanbul.shop&fp=chrome#🇨🇦 Jafar | 🛡️ 152 ms
-vless://telegram-id-Arfilter@156.243.83.167:443?path=%2F-Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEl--@Arfilter%3Fed%3D2048&security=tls&encryption=none&host=cdn-alman2.arfilter2.blog&fp=firefox&type=ws&sni=cdn-alman2.arfilter2.blog#🇵🇹 Jafar | 🛡️🔥 152 ms
-vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=%2F107.174.121.122%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🇨🇦 Jafar | 🛡️🔥 152 ms
-vless://5db4fb64-d99f-4745-b550-9e937bd2f448@172.66.202.57:443/?type=ws&encryption=none&flow=&host=steep-poetry-829c.false-mossy-caucus.workers.dev&path=%2F&security=tls&sni=steep-poetry-829c.false-mossy-caucus.workers.dev&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 152 ms
-vless://115e24e4-fc6b-4d89-8f55-05eb00770001@cdnuser2048mb.wrongguy.ir:8443?mode=auto&path=%2Ft.me%2FVip_fragment_v2ray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ic.imsoon.io.&fp=chrome&type=xhttp&allowInsecure=0&sni=ic.imsoon.io#🇭🇰 Jafar | 🛡️🔥 153 ms
-vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.8.201:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#🇩🇪 Jafar | 💎🔥 157 ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.194.99:2096?encryption=none&security=tls&sni=hetz.x-smm.com&allowInsecure=1&type=ws&host=hetz.x-smm.com&path=/45.76.183.217=49292#🇨🇦 Jafar | 🛡️ 158 ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.196.238:2096?type=ws&security=tls&sni=sni.jpmj.dev&host=sni.jpmj.dev&path=%2F#🇦🇺 Jafar | 🛡️ 159 ms
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@alalucarne.com:443?type=ws&security=tls&sni=afrcloud22.mmv.kr&host=afrcloud22.mmv.kr&path=%2F185.186.245.40%3A81#🇨🇦 Jafar | 🛡️🔥 160 ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&type=ws&allowInsecure=1&sni=hetz.x-smm.com#🇨🇦 Jafar | 🛡️ 160 ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#🇨🇷 Jafar | 🛡️ 160 ms
-vless://d851e68a-af64-4dfc-a85a-7ffad2483230@betty.ns.cloudflare.com:443?path=%2Foqxdqtws&security=tls&encryption=none&host=639031180460930556.altima-amsjq.info&type=ws&sni=639031180460930556.altima-amsjq.info#🇨🇦 Jafar | 🛡️🔥 163 ms
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?path=%2F&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#🇨🇦 Jafar | 🛡️🔥 164 ms
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#🇨🇦 Jafar | 🛡️🔥 165 ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#🇺🇸 Jafar | 🛡️ 165 ms
+vless://01036a14-7758-4795-b453-2625aa8ee2b5@104.26.15.21:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F#🇨🇦 Jafar | 🛡️🔥 148 ms
+trojan://humanity@104.18.6.147:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇨🇦 Jafar | 🛡️🔥 150 ms
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@172.67.73.14:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F131.186.26.129%3D30443#🇨🇦 Jafar | 🛡️🔥 159 ms
+vless://5c824317-ac50-49a5-8d32-a0ccb890fb3d@104.26.14.21:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F118.91.78.76%3D50001%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night#🇨🇦 Jafar | 🛡️🔥 164 ms
