@@ -1,8 +1,11 @@
-#profile-title: 🚀 Jafar Elite | 1 Srv
+#profile-title: 🚀 Jafar Elite | 4 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-02-24 05:21:06
+#updated-at: 2026-02-24 05:22:49
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAzNTEgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://1ac7f53b-500a-4020-bb14-6428c4f6841d@85.133.195.13:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=firan.dtgoldservices.com#🇮🇷 Jafar | 🛡️🔥 14 ms
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.21.224.5:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 143 ms
+vless://9523a24b-f6bf-339e-9950-32829162ffc2@104.21.227.134:443/?type=ws&encryption=none&flow=&host=dabaif0.webn.cc&path=%2Fdb1024f4e56f542c&security=tls&sni=dabaif0.webn.cc&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 146 ms
+vless://01036a14-7758-4795-b453-2625aa8ee2b5@104.26.15.21:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F#🇨🇦 Jafar | 🛡️🔥 166 ms
