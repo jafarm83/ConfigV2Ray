@@ -2,12 +2,12 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-02-26 21:59:55
+#updated-at: 2026-02-26 22:04:35
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.157.61:443?security=tls&sni=bmk.1xq.indevs.in&type=ws&host=bmk.1xq.indevs.in&path=/hBasD7EdpBQ0zGAzsYHmsMrnO#🇨🇦 Jafar | 🛡️🔥 149 ms
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 155 ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.18.32.47:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#🇨🇦 Jafar | 🛡️ 168 ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.155.209:2096?path=%2F%3Fed&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇨🇦 Jafar | 🛡️ 180 ms
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAzNTMgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vmess://eyJhZGQiOiJuMTc1MjgzMzE4NC5saWU1ZC5jeW91IiwiYWlkIjowLCJob3N0IjoibjE3NTI4MzMxODQubGllNWQuY3lvdSIsImlkIjoiNmM3ZDA5ZTMtOWNmYS00MWM4LTgxOTQtZTgxZWIyMWJmYjg4IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEphZmFyIHwgXHVkODNkXHVkZDI1IDY0MCBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 164 ms
+vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@104.18.32.47:443?path=%2FeyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&encryption=none&host=ancient-heart-60c5.dpccgizieb.workers.dev&type=ws&sni=ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV#🇨🇦 Jafar | 🛡️🔥 167 ms
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.155.209:443?path=%2F%3Fed&security=tls&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.user68f797c2f3e1b.workers.dev#🇨🇦 Jafar | 🛡️🔥 177 ms
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.157.61:443?security=tls&sni=bmk.1xq.indevs.in&type=ws&host=bmk.1xq.indevs.in&path=/hBasD7EdpBQ0zGAzsYHmsMrnO#🇨🇦 Jafar | 🛡️🔥 178 ms
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAzNTIgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiJuMTc1MjgzMzE4NC5saWU1ZC5jeW91IiwiYWlkIjowLCJob3N0IjoibjE3NTI4MzMxODQubGllNWQuY3lvdSIsImlkIjoiNmM3ZDA5ZTMtOWNmYS00MWM4LTgxOTQtZTgxZWIyMWJmYjg4IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEphZmFyIHwgXHVkODNkXHVkZDI1IDk5NiBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
