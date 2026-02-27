@@ -1,14 +1,13 @@
-#profile-title: 🚀 Jafar Elite | 7 Srv
+#profile-title: 🚀 Jafar Elite | 6 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-02-27 05:09:46
+#updated-at: 2026-02-27 05:10:01
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vmess://eyJhZGQiOiJjNy42MjA3MjAueHl6IiwiYWlkIjowLCJob3N0IjoiYzcuNjIwNzIwLnh5eiIsImlkIjoiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo4NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAxNjMgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJjNy42MjA3MjAueHl6In0=
-trojan://humanity@104.18.7.147:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇨🇦 Jafar | 🛡️🔥 173 ms
-trojan://humanity@104.18.6.147:443?security=tls&sni=www.creationlong.org&alpn=h2,http/1.1&fp=chrome&type=ws&path=/assignment#🇨🇦 Jafar | 🛡️🔥 177 ms
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@172.64.155.209:443?path=%2F156.244.1.250%3D8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#🇨🇦 Jafar | 🛡️🔥 177 ms
+trojan://humanity@104.18.6.147:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=/assignment#🇨🇦 Jafar | 🛡️🔥 155 ms
+vmess://eyJhZGQiOiJjNy42MjA3MjAueHl6IiwiYWlkIjowLCJob3N0IjoiYzcuNjIwNzIwLnh5eiIsImlkIjoiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo4NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAxNjggbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJjNy42MjA3MjAueHl6In0=
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@172.64.155.209:443?path=%2F156.244.1.250%3D8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#🇨🇦 Jafar | 🛡️🔥 174 ms
+trojan://humanity@104.18.7.147:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇨🇦 Jafar | 🛡️🔥 178 ms
 trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@104.21.89.136:443?security=tls&sni=nnggnjj.6yy.ccwu.cc&alpn=http/1.1&type=ws&host=nnggnjj.6yy.ccwu.cc&path=/pdfbAl1zmvpSIH8OSONBms&allow_insecure=0#🇨🇦 Jafar | 🛡️🔥 182 ms
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSA0MDIgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vmess://eyJhZGQiOiJuMTc2MTI5Njg4MC5saWU1ZC5jeW91IiwiYWlkIjowLCJob3N0IjoibjE3NjEyOTY4ODAubGllNWQuY3lvdSIsImlkIjoiMWVmZmFjNGEtY2RiOC00NzE3LWExMGMtZGE5NzI2M2M4MDJjIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEphZmFyIHwgXHVkODNkXHVkZDI1IDMwNjUgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJuMTc2MTI5Njg4MC5saWU1ZC5jeW91In0=
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAzOTggbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
