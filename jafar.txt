@@ -2,9 +2,9 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-02-27 05:48:35
+#updated-at: 2026-02-27 05:50:09
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://7d7d00cb-53a3-4cb4-bef7-3b2d431b1107@172.64.155.209:443?security=tls&type=ws&host=telegram.proxie1-tel.workers.dev&path=/eyJqdW5rIjoiRlpGZjNZYno0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&sni=tElEgRAm.proXIE1-tel.WORKers.deV&fp=chrome#🇨🇦 Jafar | 🛡️🔥 37 ms
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@104.18.32.47:443?encryption=none&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=/?ed#🇨🇦 Jafar | 🛡️🔥 53 ms
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAzODIgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@172.64.155.209:443?path=%2FeyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&encryption=none&host=ancient-heart-60c5.dpccgizieb.workers.dev&type=ws&sni=ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV#🇨🇦 Jafar | 🛡️🔥 39 ms
+vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@104.18.32.47:443?path=%2Fvless-tls&security=tls&encryption=none&insecure=0&host=vpnazadie.store&type=ws&allowInsecure=0&sni=telegram.vpnazadie.store#🇨🇦 Jafar | 🛡️🔥 51 ms
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAzOTggbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
