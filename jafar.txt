@@ -2,15 +2,15 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-02-28 01:35:17
+#updated-at: 2026-02-28 01:40:54
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vmess://eyJhZGQiOiJjNy42MjA3MjAueHl6IiwiYWlkIjowLCJob3N0IjoiYzcuNjIwNzIwLnh5eiIsImlkIjoiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo4NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAxNjQgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJjNy42MjA3MjAueHl6In0=
-vless://9523a24b-f6bf-339e-9950-32829162ffc2@104.16.250.22:443/?type=ws&encryption=none&flow=&host=dabaif0.webn.cc&path=%2Fdb1024f4e56f542c&security=tls&sni=dabaif0.webn.cc&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 166 ms
-trojan://humanity@104.18.6.147:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=/assignment#🇨🇦 Jafar | 🛡️🔥 168 ms
-trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=/assignment#🇨🇦 Jafar | 🛡️🔥 175 ms
+vless://9523a24b-f6bf-339e-9950-32829162ffc2@104.16.250.22:443/?type=ws&encryption=none&flow=&host=dabaif0.webn.cc&path=%2Fdb1024f4e56f542c&security=tls&sni=dabaif0.webn.cc&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 161 ms
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.17.25.173:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 175 ms
-trojan://humanity@104.18.7.147:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇨🇦 Jafar | 🛡️🔥 176 ms
-trojan://humanity@104.18.10.110:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment&allow_insecure=0#🇨🇦 Jafar | 🛡️🔥 177 ms
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAzNjMgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vmess://eyJhZGQiOiJuMTc1MjgzMzE4NC5saWU1ZC5jeW91IiwiYWlkIjowLCJob3N0IjoibjE3NTI4MzMxODQubGllNWQuY3lvdSIsImlkIjoiNmM3ZDA5ZTMtOWNmYS00MWM4LTgxOTQtZTgxZWIyMWJmYjg4IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEphZmFyIHwgXHVkODNkXHVkZDI1IDUxNSBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+trojan://humanity@104.18.6.147:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=/assignment#🇨🇦 Jafar | 🛡️🔥 176 ms
+trojan://humanity@104.18.10.110:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment&allow_insecure=0#🇨🇦 Jafar | 🛡️🔥 180 ms
+trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=/assignment#🇨🇦 Jafar | 🛡️🔥 181 ms
+vmess://eyJhZGQiOiJzeTQuNjIwNzIwLnh5eiIsImFpZCI6MCwiaG9zdCI6InN5NC42MjA3MjAueHl6IiwiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgSmFmYXIgfCBcdWQ4M2RcdWRkMjUgMTgyIG1zIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+trojan://humanity@104.18.7.147:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇨🇦 Jafar | 🛡️🔥 182 ms
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAzNTkgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiJuMTc2MTI5Njg4MC5saWU1ZC5jeW91IiwiYWlkIjowLCJob3N0IjoibjE3NjEyOTY4ODAubGllNWQuY3lvdSIsImlkIjoiMWVmZmFjNGEtY2RiOC00NzE3LWExMGMtZGE5NzI2M2M4MDJjIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEphZmFyIHwgXHVkODNkXHVkZDI1IDI2ODIgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJuMTc2MTI5Njg4MC5saWU1ZC5jeW91In0=
