@@ -1,15 +1,14 @@
-#profile-title: 🚀 Jafar Elite | 8 Srv
+#profile-title: 🚀 Jafar Elite | 7 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-02-28 05:54:28
+#updated-at: 2026-02-28 05:57:38
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇨🇦 Jafar | 🛡️🔥 162 ms
-trojan://humanity@104.18.1.55:443?security=tls&sni=www.gossipglove.com&type=ws&path=/assignment&allow_insecure=0#🇨🇦 Jafar | 🛡️🔥 164 ms
-trojan://humanity@104.18.7.147:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=/assignment#🇨🇦 Jafar | 🛡️🔥 174 ms
-trojan://humanity@104.18.6.147:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇨🇦 Jafar | 🛡️🔥 178 ms
-vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@172.64.155.209:443/?type=ws&encryption=none&flow=&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&alpn=http%2F1.1&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 181 ms
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAzNDQgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vmess://eyJhZGQiOiJuMTc2MTI5Njg4MC5saWU1ZC5jeW91IiwiYWlkIjowLCJob3N0IjoibjE3NjEyOTY4ODAubGllNWQuY3lvdSIsImlkIjoiMWVmZmFjNGEtY2RiOC00NzE3LWExMGMtZGE5NzI2M2M4MDJjIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEphZmFyIHwgXHVkODNkXHVkZDI1IDQ0NyBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6Im4xNzYxMjk2ODgwLmxpZTVkLmN5b3UifQ==
-vmess://eyJhZGQiOiJuMTc1MjgzMzE4NC5saWU1ZC5jeW91IiwiYWlkIjowLCJob3N0IjoibjE3NTI4MzMxODQubGllNWQuY3lvdSIsImlkIjoiNmM3ZDA5ZTMtOWNmYS00MWM4LTgxOTQtZTgxZWIyMWJmYjg4IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEphZmFyIHwgXHVkODNkXHVkZDI1IDU1NyBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+trojan://humanity@104.18.6.147:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇨🇦 Jafar | 🛡️🔥 160 ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.18.32.47:2096?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#🇨🇦 Jafar | 🛡️ 162 ms
+trojan://humanity@104.18.1.55:443?security=tls&sni=www.gossipglove.com&type=ws&path=/assignment&allow_insecure=0#🇨🇦 Jafar | 🛡️🔥 165 ms
+trojan://humanity@104.18.7.147:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=/assignment#🇨🇦 Jafar | 🛡️🔥 175 ms
+vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@172.64.155.209:443/?type=ws&encryption=none&flow=&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&alpn=http%2F1.1&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 180 ms
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAzNjEgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiJuMTc1MjgzMzE4NC5saWU1ZC5jeW91IiwiYWlkIjowLCJob3N0IjoibjE3NTI4MzMxODQubGllNWQuY3lvdSIsImlkIjoiNmM3ZDA5ZTMtOWNmYS00MWM4LTgxOTQtZTgxZWIyMWJmYjg4IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEphZmFyIHwgXHVkODNkXHVkZDI1IDU0NiBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
