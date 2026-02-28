@@ -2,14 +2,14 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-02-28 06:00:23
+#updated-at: 2026-02-28 06:00:26
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-trojan://humanity@104.18.7.147:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=/assignment#🇨🇦 Jafar | 🛡️🔥 155 ms
-trojan://humanity@104.18.1.55:443?security=tls&sni=www.gossipglove.com&type=ws&path=/assignment&allow_insecure=0#🇨🇦 Jafar | 🛡️🔥 161 ms
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.18.32.47:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 164 ms
-vmess://eyJhZGQiOiJ0MS42MjA3MjAueHl6IiwiYWlkIjowLCJob3N0IjoidDEuNjIwNzIwLnh5eiIsImlkIjoiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo4NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAxNjUgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-trojan://humanity@104.18.6.147:443?security=tls&sni=www.creationlong.org&alpn=h2,http/1.1&type=ws&path=/assignment#🇨🇦 Jafar | 🛡️🔥 175 ms
-vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@172.64.155.209:443/?type=ws&encryption=none&flow=&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&alpn=http%2F1.1&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 178 ms
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAzNTAgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vmess://eyJhZGQiOiJuMTc1MjgzMzE4NC5saWU1ZC5jeW91IiwiYWlkIjowLCJob3N0IjoibjE3NTI4MzMxODQubGllNWQuY3lvdSIsImlkIjoiNmM3ZDA5ZTMtOWNmYS00MWM4LTgxOTQtZTgxZWIyMWJmYjg4IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEphZmFyIHwgXHVkODNkXHVkZDI1IDQ4MyBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+trojan://humanity@104.18.7.147:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=/assignment#🇨🇦 Jafar | 🛡️🔥 154 ms
+vmess://eyJhZGQiOiJ0MS42MjA3MjAueHl6IiwiYWlkIjowLCJob3N0IjoidDEuNjIwNzIwLnh5eiIsImlkIjoiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo4NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAxNjIgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://humanity@104.18.6.147:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#🇨🇦 Jafar | 🛡️🔥 164 ms
+vless://48129906-0fdc-482e-8c79-c78bfc6480b7@104.18.32.47:443?path=/eyJqdW5rIjoiNTRZOXhhMTJCIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=041.electrocellco-cf-041.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=041.electrOCElLcO-CF-041.woRKerS.DEV#🇨🇦 Jafar | 🛡️🔥 166 ms
+trojan://humanity@104.18.1.55:443?security=tls&sni=www.gossipglove.com&type=ws&path=/assignment&allow_insecure=0#🇨🇦 Jafar | 🛡️🔥 174 ms
+vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@172.64.155.209:443/?type=ws&encryption=none&flow=&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&alpn=http%2F1.1&allowInsecure=1#🇨🇦 Jafar | 🛡️🔥 183 ms
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAzNjEgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiJuMTc1MjgzMzE4NC5saWU1ZC5jeW91IiwiYWlkIjowLCJob3N0IjoibjE3NTI4MzMxODQubGllNWQuY3lvdSIsImlkIjoiNmM3ZDA5ZTMtOWNmYS00MWM4LTgxOTQtZTgxZWIyMWJmYjg4IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEphZmFyIHwgXHVkODNkXHVkZDI1IDUyNSBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
