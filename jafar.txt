@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-05-25 05:11:27
+#updated-at: 2026-05-25 05:12:21
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-trojan://tsuchiya@161.34.39.108:443?security=tls&type=tcp&headerType=none#🇯🇵 Jafar | 🛡️🔥 662 ms
+trojan://tsuchiya@161.34.39.108:443?security=tls&type=tcp&headerType=none#🇯🇵 Jafar | 🛡️🔥 1688 ms
