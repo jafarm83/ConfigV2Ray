@@ -2,14 +2,14 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-05-29 23:13:30
+#updated-at: 2026-05-29 23:13:45
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://ae065531-7a26-4c3f-82cf-7c2ee9effcde@45.130.125.76:2087?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&echfq=none&host=chan1.newappdominfastlogin4.com&fp=chrome&allowinsecure=0&type=xhttp&sni=chan1.newappdominfastlogin4.com#🇸🇨 Jafar | 🛡️ 176 ms
-trojan://humanity@45.130.125.69:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇸🇨 Jafar | 🛡️🔥 177 ms
-vless://da703b27-62f2-451a-993f-99224c53f12b@104.18.32.47:2096?sni=MOOdY-facE1ob4n437nt.caRBonbLacKBMw.Ir&alpn=h2%2Chttp/1.1&type=grpc&serviceName=alalamtv.net.entekhab.ir.donya-e-eqtesad.com.hamshahrionline.ir.alalamtv.net.irdiplomacy.ir.snn.ir&fp=chrome&security=tls#🇨🇦 Jafar | 🛡️ 179 ms
-trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#🇨🇦 Jafar | 🛡️🔥 179 ms
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?encryption=none&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#🇨🇦 Jafar | 🛡️🔥 180 ms
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.18.105:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇨🇦 Jafar | 🛡️🔥 190 ms
-trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸 Jafar | 🛡️🔥 266 ms
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEphZmFyIHwgXHVkODNkXHVkZDI1IDU0NSBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vless://v2raydia@45.130.125.76:443?path=%2F%40v2raydia&security=tls&encryption=none&insecure=0&host=wIn.CcNnx.IR&fp=chrome&type=ws&allowInsecure=0&sni=wIn.CcNnx.IR#🇸🇨 Jafar | 🛡️🔥 169 ms
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸 Jafar | 🛡️🔥 171 ms
+vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.18.105:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇨🇦 Jafar | 🛡️🔥 173 ms
+trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#🇨🇦 Jafar | 🛡️🔥 183 ms
+vless://266f49ab-e823-4497-b7a9-78ff51809f2d@104.18.32.47:2096?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&serviceName=asriran.com.tasnimnews.com.sharghdaily.com.entekhab.ir.farsnews.ir.isna.ir.irdiplomacy.ir&sni=bItTEr-BreADh48GRdp1Bf.cARBONBLacKBMW.IR&type=grpc#🇨🇦 Jafar | 🛡️ 187 ms
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJhaWQiOjAsImhvc3QiOiJpbm5hLmNmZCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEphZmFyIHwgXHVkODNkXHVkZDI1IDMyMiBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?encryption=none&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#🇨🇦 Jafar | 🛡️🔥 1230 ms
+trojan://humanity@45.130.125.69:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇸🇨 Jafar | 🛡️🔥 1314 ms
