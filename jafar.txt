@@ -1,16 +1,17 @@
-#profile-title: 🚀 Jafar Elite | 9 Srv
+#profile-title: 🚀 Jafar Elite | 10 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-05-30 02:47:57
+#updated-at: 2026-05-30 02:50:11
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://v2raydia@45.130.125.76:443?path=%2F%40v2raydia&security=tls&encryption=none&insecure=0&host=wIn.CcNnx.IR&fp=chrome&type=ws&allowInsecure=0&sni=wIn.CcNnx.IR#🇸🇨 Jafar | 🛡️🔥 321 ms
-vless://5154b274-cbfa-44f6-8b64-22f169d66cc5@104.17.121.71:2096?alpn=h2%2Chttp%2F1.1&encryption=none&security=tls&serviceName=mizanonline.com.farsnews.ir.sharghdaily.com.donya-e-eqtesad.com.tehrantimes.com.sharghdaily.com.en.mehrnews.com&sni=DEft-peakABGj64vrj3.CaRbonblACKbmw.ir&type=grpc#🇨🇦 Jafar | 🛡️ 322 ms
-trojan://humanity@104.18.17.216:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&type=ws&path=/assignment#🇨🇦 Jafar | 🛡️🔥 322 ms
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.18.105:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇨🇦 Jafar | 🛡️🔥 328 ms
-trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#🇨🇦 Jafar | 🛡️🔥 330 ms
-trojan://humanity@45.130.125.69:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇸🇨 Jafar | 🛡️🔥 330 ms
-vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJhaWQiOjAsImhvc3QiOiJpbm5hLmNmZCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEphZmFyIHwgXHVkODNkXHVkZDI1IDMzMSBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?encryption=none&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#🇨🇦 Jafar | 🛡️🔥 1497 ms
-trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#🇨🇦 Jafar | 🛡️🔥 1765 ms
+trojan://humanity@104.18.17.216:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&type=ws&path=/assignment#🇨🇦 Jafar | 🛡️🔥 321 ms
+vless://v2raydia@45.130.125.76:443?path=%2F%40v2raydia&security=tls&encryption=none&insecure=0&host=wIn.CcNnx.IR&fp=chrome&type=ws&allowInsecure=0&sni=wIn.CcNnx.IR#🇸🇨 Jafar | 🛡️🔥 322 ms
+trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#🇨🇦 Jafar | 🛡️🔥 323 ms
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJhaWQiOjAsImhvc3QiOiJpbm5hLmNmZCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEphZmFyIHwgXHVkODNkXHVkZDI1IDMyMyBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vless://d6641b78-1556-4f9d-ab17-e3b31117fe4b@104.17.121.71:2096?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=grpc&serviceName=en.mehrnews.com.isna.ir.entekhab.ir.khabaronline.ir.alef.ir.irandaily.ir.tehrantimes.com&allowInsecure=1&sni=AdVenTurOUs-cOnflIcT3W7nbZ9EQw.carboNblACKbmw.Ir#🇨🇦 Jafar | 🛡️ 326 ms
+trojan://humanity@45.130.125.69:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇸🇨 Jafar | 🛡️🔥 327 ms
+vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.18.105:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇨🇦 Jafar | 🛡️🔥 330 ms
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?encryption=none&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#🇨🇦 Jafar | 🛡️🔥 334 ms
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEphZmFyIHwgXHVkODNkXHVkZDI1IDg2MyBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#🇨🇦 Jafar | 🛡️🔥 1359 ms
