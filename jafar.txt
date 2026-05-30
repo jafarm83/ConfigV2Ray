@@ -1,12 +1,11 @@
-#profile-title: 🚀 Jafar Elite | 5 Srv
+#profile-title: 🚀 Jafar Elite | 4 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-05-30 05:14:32
+#updated-at: 2026-05-30 05:14:50
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://da703b27-62f2-451a-993f-99224c53f12b@104.18.32.47:2096?sni=MOOdY-facE1ob4n437nt.caRBonbLacKBMw.Ir&alpn=h2%2Chttp/1.1&type=grpc&serviceName=alalamtv.net.entekhab.ir.donya-e-eqtesad.com.hamshahrionline.ir.alalamtv.net.irdiplomacy.ir.snn.ir&fp=chrome&security=tls#🇨🇦 Jafar | 🛡️ 180 ms
-trojan://Mitivpn@45.130.125.76:443?path=/?ed=mitivpn&security=tls&alpn=h2,http/1.1&host=panel.hitgram.ir&fp=chrome&type=ws&sni=panel.hitgram.ir#🇸🇨 Jafar | 🛡️🔥 265 ms
-vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJhaWQiOjAsImhvc3QiOiJpbm5hLmNmZCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEphZmFyIHwgXHVkODNkXHVkZDI1IDMyMyBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEphZmFyIHwgXHVkODNkXHVkZDI1IDM0NiBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vmess://eyJhZGQiOiJuMTc1MzEwMTI3Ny40dTltYS5pY3UiLCJhaWQiOjAsImhvc3QiOiJuMTc1MzEwMTI3Ny40dTltYS5pY3UiLCJpZCI6IjZlYTQ4ZGZlLTdkZTItNDVkYy05MjY3LWQ0ZDllZmZhZDlmYyIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAxMTQzIG1zIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoibjE3NTMxMDEyNzcuNHU5bWEuaWN1In0=
+vless://e221880c-0ada-4e89-a336-62c3b909f787@104.18.32.47:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=grpc&serviceName=iranprimer.usip.org.entekhab.ir.presstv.ir.alef.ir.yjc.ir.presstv.ir.en.mehrnews.com&allowInsecure=1&sni=Old-CaREg74s0ugV9a.CaRboNblAcKBMw.ir#🇨🇦 Jafar | 🛡️ 156 ms
+vless://ae065531-7a26-4c3f-82cf-7c2ee9effcde@45.130.125.76:2087?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&echfq=none&host=chan1.newappdominfastlogin4.com&fp=chrome&allowinsecure=0&type=xhttp&sni=chan1.newappdominfastlogin4.com#🇸🇨 Jafar | 🛡️ 173 ms
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJhaWQiOjAsImhvc3QiOiJpbm5hLmNmZCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEphZmFyIHwgXHVkODNkXHVkZDI1IDMyNCBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEphZmFyIHwgXHVkODNkXHVkZDI1IDMzMyBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
