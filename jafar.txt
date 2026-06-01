@@ -2,12 +2,12 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-02 01:00:55
+#updated-at: 2026-06-02 01:06:49
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://18d0c6fa-8715-47c6-a4ab-3ea5a7e10363@104.18.32.47:2096?security=tls&type=grpc&mode=gun&serviceName=mizanonline.com.ilna.news.sharghdaily.com.sharghdaily.com.farsnews.ir.rajanews.com.presstv.ir&alpn=h2,http/1.1&sni=compasSIonAtE-drEam2FqZUJ02O9.SAmSuNGOvEns.Ir&fp=chrome&encryption=none#🇨🇦 Jafar | 🛡️ 160 ms
-trojan://Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V@130.94.97.11:443?security=tls&sni=www.selectnet.click#🇧🇬 Jafar | 🛡️🔥 326 ms
-trojan://s.wRSE4ANZp4=4h.=B_9Qbetw6XUc0V1SV@130.94.107.171:443?security=tls&sni=www.logger-guard.click#🇺🇸 Jafar | 🛡️🔥 594 ms
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10#🇩🇪 Jafar | 🛡️🔥 620 ms
-trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click#🇨🇳 Jafar | 🛡️🔥 697 ms
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEphZmFyIHwgXHVkODNkXHVkZDI1IDEzODEgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://18d0c6fa-8715-47c6-a4ab-3ea5a7e10363@104.18.32.47:2096?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=mizanonline.com.ilna.news.sharghdaily.com.sharghdaily.com.farsnews.ir.rajanews.com.presstv.ir&allowInsecure=0&sni=compasSIonAtE-drEam2FqZUJ02O9.SAmSuNGOvEns.Ir#🇨🇦 Jafar | 🛡️ 168 ms
+trojan://Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V@130.94.97.11:443?security=tls&sni=www.selectnet.click#🇧🇬 Jafar | 🛡️🔥 324 ms
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10#🇩🇪 Jafar | 🛡️🔥 583 ms
+trojan://s.wRSE4ANZp4=4h.=B_9Qbetw6XUc0V1SV@130.94.107.171:443?security=tls&sni=www.logger-guard.click#🇺🇸 Jafar | 🛡️🔥 605 ms
+trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?security=tls&sni=www.static-cast.click#🇨🇳 Jafar | 🛡️🔥 711 ms
+vmess://eyJhZGQiOiJjZi5zY3BuYi50b3AiLCJhaWQiOjAsImhvc3QiOiJncmFwaC1rZWVwLWJlZHMtY2F0YWxvZy50cnljbG91ZGZsYXJlLmNvbSIsImlkIjoiN2ZkOGQxZGItOTZlYy00ZTQ2LTgwYTgtNzRhZDk0NzIzODRlIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEphZmFyIHwgXHVkODNkXHVkZDI1IDI2NTYgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJncmFwaC1rZWVwLWJlZHMtY2F0YWxvZy50cnljbG91ZGZsYXJlLmNvbSJ9
