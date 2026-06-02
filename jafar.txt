@@ -1,19 +1,37 @@
-#profile-title: 🚀 Jafar Elite | 12 Srv
+#profile-title: 🚀 Jafar Elite | 30 Active
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-02 21:37:03
-#support-url: https://github.com/jafarm83/ConfigV2Ray
+#updated-at: 2026-06-02 22:02:19
+#avg-ping: 644ms | best: 644ms
 
-vless://93f0761d-4393-4b43-a523-e812fa0b7e83@104.18.32.47:443?security=tls&type=ws&path=/pyip=47.251.95.178&host=cf.cfvip.lol&sni=cf.cfvip.lol&fp=chrome&encryption=none#🇨🇦 Jafar | 🛡️🔥 181 ms
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10#🇩🇪 Jafar | 🛡️🔥 260 ms
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#🇵🇱 Jafar | 🛡️🔥 316 ms
-trojan://Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V@130.94.97.11:443?security=tls&sni=www.selectnet.click#🇧🇬 Jafar | 🛡️🔥 336 ms
-vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@172.65.209.214:443?security=reality&type=raw&sni=microsoft.com&fp=chrome&sid=065ee439&pbk=9LTpivOtvUds71_Hxmqk7vfeMx7JeHB0aJuaQX6xXzI&encryption=none#🇨🇦 Jafar | 💎🔥 398 ms
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click#🇮🇳 Jafar | 🛡️🔥 449 ms
-trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&sni=172.237.145.189#🇺🇸 Jafar | 🛡️🔥 468 ms
-trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?security=tls&sni=www.rolll.click#🇨🇳 Jafar | 🛡️🔥 516 ms
-trojan://s.wRSE4ANZp4=4h.=B_9Qbetw6XUc0V1SV@130.94.107.171:443?security=tls&sni=www.logger-guard.click#🇺🇸 Jafar | 🛡️🔥 604 ms
-trojan://tsuchiya@161.34.39.108:443?security=tls&type=tcp&headerType=none&path=/#🇯🇵 Jafar | 🛡️🔥 682 ms
-trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&sni=172.235.63.252#🇺🇸 Jafar | 🛡️🔥 709 ms
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSA5NDcgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiJ1c2FhcHAxLmppc3V5dW4udG9wIiwiYWlkIjowLCJob3N0IjoidXNhYXBwMS5qaXN1eXVuLnRvcCIsImlkIjoiNGI4MGFhODYtNDM1NC00MGJiLWQyYTMtNDcxMjZjZmYwYmVhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoyMDUzLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKYWZhciBFbGl0ZSB8IFx1ZDgzZFx1ZGVlMVx1ZmUwZiBWbGVzc1wvVm1lc3MgfCAgNjQ0bXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJ1c2FhcHAxLmppc3V5dW4udG9wIn0=
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.91.100.27:5003#%F0%9F%87%BA%F0%9F%87%B8+Jafar+Elite+%7C+%F0%9F%94%92+SS+%7C++644ms
+vmess://eyJhZGQiOiIxNDEuMTAxLjEyMC4yNDMiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjQxN2QyN2ZiLWNiOTMtM2JkOC05YmY3LTcxY2Q5MTMxOTgyMSIsIm5ldCI6IndzIiwicGF0aCI6IlwvaGdjZWZvbW4iLCJwb3J0IjoyMDk1LCJwcyI6Ilx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyBKYWZhciBFbGl0ZSB8IFx1ZDgzZFx1ZGVlMVx1ZmUwZiBWbGVzc1wvVm1lc3MgfCAgNjQ0bXMiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiIxNDEuMTkzLjIxMy4yMCIsImFpZCI6MCwiaG9zdCI6Im9wZnIxLnYycmF5ZnJlZTEueHl6IiwiaWQiOiI0NjEyNjE4Yy0yNGNkLTQzNzktOTkyNC1jZmRmM2Q2MWZhNWEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0lZS0xENTNNIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKYWZhciBFbGl0ZSB8IFx1ZDgzZFx1ZGVlMVx1ZmUwZiBWbGVzc1wvVm1lc3MgfCAgNjQ0bXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:18432?security=tls&sni=hn.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8+Jafar+Elite+%7C+%F0%9F%8E%AD+Trojan+%7C++644ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@217.145.79.119:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%AE+Jafar+Elite+%7C+%F0%9F%8E%AD+Trojan+%7C++644ms
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.99.190.61:7002#%F0%9F%87%AC%F0%9F%87%A7+Jafar+Elite+%7C+%F0%9F%94%92+SS+%7C++644ms
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@195.154.200.150:443#%F0%9F%87%AB%F0%9F%87%B7+Jafar+Elite+%7C+%F0%9F%94%92+SS+%7C++644ms
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.64.138.145:9101#%F0%9F%87%BA%F0%9F%87%B8+Jafar+Elite+%7C+%F0%9F%94%92+SS+%7C++644ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@212.22.74.52:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1+Jafar+Elite+%7C+%F0%9F%8E%AD+Trojan+%7C++644ms
+trojan://433e785b-2077-47f7-a43d-985f63dd18d1@121.154.96.50:18000?security=tls&sni=vpn.rnmcnm.com&type=ws&path=%252Ftrojan&Host=vpn.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7+Jafar+Elite+%7C+%F0%9F%8E%AD+Trojan+%7C++644ms
+vmess://eyJhZGQiOiIxOTIuNzQuMjI0LjE2MyIsImFpZCI6NjQsImhvc3QiOiJ3d3cuNjg1ODQxNTgueHl6IiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjM3MDAyLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKYWZhciBFbGl0ZSB8IFx1ZDgzZFx1ZGVlMVx1ZmUwZiBWbGVzc1wvVm1lc3MgfCAgNjQ0bXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:808#%F0%9F%87%A8%F0%9F%87%A6+Jafar+Elite+%7C+%F0%9F%94%92+SS+%7C++644ms
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@134.195.196.231:8090#%F0%9F%87%A8%F0%9F%87%A6+Jafar+Elite+%7C+%F0%9F%94%92+SS+%7C++644ms
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@167.88.61.60:8881#%F0%9F%87%BA%F0%9F%87%B8+Jafar+Elite+%7C+%F0%9F%94%92+SS+%7C++644ms
+vmess://eyJhZGQiOiIxNzMuMjQ1LjU4LjUiLCJhaWQiOjAsImhvc3QiOiJ3b3JrZXItYml0dGVyLW1hdGgtMmFmOC53YXhvaGEzNjIxLndvcmtlcnMuZGV2IiwiaWQiOiI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2dsd2VpZGYuc2JzXC9saW5rd3MiLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEphZmFyIEVsaXRlIHwgXHVkODNkXHVkZWUxXHVmZTBmIFZsZXNzXC9WbWVzcyB8ICA2NDRtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6Indvcmtlci1iaXR0ZXItbWF0aC0yYWY4LndheG9oYTM2MjEud29ya2Vycy5kZXYifQ==
+vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjIxMSIsImFpZCI6MCwiaG9zdCI6InlpY2h1ZW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgSmFmYXIgRWxpdGUgfCBcdWQ4M2RcdWRlZTFcdWZlMGYgVmxlc3NcL1ZtZXNzIHwgIDY0NG1zIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoieWljaHVlbmcub3JnIn0=
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.9:2375#%F0%9F%87%BA%F0%9F%87%B8+Jafar+Elite+%7C+%F0%9F%94%92+SS+%7C++644ms
+vmess://eyJhZGQiOiIxNzIuNjcuODEuNDkiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjQxN2QyN2ZiLWNiOTMtM2JkOC05YmY3LTcxY2Q5MTMxOTgyMSIsIm5ldCI6IndzIiwicGF0aCI6IlwvaGdjZWZvbW4iLCJwb3J0IjoyMDk1LCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciBFbGl0ZSB8IFx1ZDgzZFx1ZGVlMVx1ZmUwZiBWbGVzc1wvVm1lc3MgfCAgNjQ0bXMiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiIxNDIuMTcxLjEyMi4xNjMiLCJhaWQiOjY0LCJob3N0Ijoid3d3Ljc2NDkyNzk3Lnh5eiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjozMTAwNiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggSmFmYXIgRWxpdGUgfCBcdWQ4M2RcdWRlZTFcdWZlMGYgVmxlc3NcL1ZtZXNzIHwgIDY0NG1zIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+trojan://8r%3C%5B9%27l6hAO%238ZQi@212.34.152.202:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram+@WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1+Jafar+Elite+%7C+%F0%9F%8E%AD+Trojan+%7C++644ms
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.19:8888#%F0%9F%87%BA%F0%9F%87%B8+Jafar+Elite+%7C+%F0%9F%94%92+SS+%7C++644ms
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:19362?security=tls&sni=$$$$$$$$aws-hk03.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8+Jafar+Elite+%7C+%F0%9F%8E%AD+Trojan+%7C++644ms
+vmess://eyJhZGQiOiJkYnIzZnFmNHk1M2dkNHV5ZHE4Mm51NHguZnE4M2gzZzRnNDIyMXZoNWRuOS53b3JrZXJzLmRldiIsImFpZCI6MCwiaG9zdCI6ImRicjNmcWY0eTUzZ2Q0dXlkcTgybnU0eC5mcTgzaDNnNGc0MjIxdmg1ZG45LndvcmtlcnMuZGV2IiwiaWQiOiJEREMyQTI5RC0xQTQxLTRDRUItQjUyMC0xOTczNTYwOTlCODMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3NwZWVkdGVzdFwvRHVzc2VsZG9yZi5rb3RpY2suc2l0ZSIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgSmFmYXIgRWxpdGUgfCBcdWQ4M2RcdWRlZTFcdWZlMGYgVmxlc3NcL1ZtZXNzIHwgIDY0NG1zIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.99.188.71:2375#%F0%9F%87%B3%F0%9F%87%B1+Jafar+Elite+%7C+%F0%9F%94%92+SS+%7C++644ms
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.61.14:9101#%F0%9F%87%BA%F0%9F%87%B8+Jafar+Elite+%7C+%F0%9F%94%92+SS+%7C++644ms
+trojan://ae7cc604-d970-4200-9a9b-eb45087b4fc1@43.198.12.229:28443?security=tls&sni=mzy.hruqoaw.cn#%F0%9F%87%AD%F0%9F%87%B0+Jafar+Elite+%7C+%F0%9F%8E%AD+Trojan+%7C++644ms
+vmess://eyJhZGQiOiI4LjIxNy4xNzEuMTkzIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJjMTNjNzM3Yy1jMGIzLTQzNGUtODA5MS1iYjY3Nzk0NmZkNDAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjI4OTEwLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBKYWZhciBFbGl0ZSB8IFx1ZDgzZFx1ZGVlMVx1ZmUwZiBWbGVzc1wvVm1lc3MgfCAgNjQ0bXMiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.61.60:8119#%F0%9F%87%BA%F0%9F%87%B8+Jafar+Elite+%7C+%F0%9F%94%92+SS+%7C++644ms
+vmess://eyJhZGQiOiI0Ny43Ni4xMzYuMTc4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MzZiZjBlYS1kNmRiLTRkMmUtYzRiMS00YWIyOGI2ZmRlZTYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjI4NjUzLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBKYWZhciBFbGl0ZSB8IFx1ZDgzZFx1ZGVlMVx1ZmUwZiBWbGVzc1wvVm1lc3MgfCAgNjQ0bXMiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
