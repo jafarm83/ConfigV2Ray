@@ -1,19 +1,18 @@
-#profile-title: 🚀 Jafar Elite | 12 Srv
+#profile-title: 🚀 Jafar Verified | 11 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-02 22:57:32
+#updated-at: 2026-06-02 23:06:53
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vmess://eyJhZGQiOiIxMDQuMTguMzIuNDciLCJhaWQiOjAsImhvc3QiOiJzY3Rlc3QxLmRyLXBpbmcuaXIiLCJpZCI6IjJmM2FhZGFlLTY2YzYtNGRjYS1hNjcwLTAzYzE4M2Y4MDI0ZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAxNzIgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJzY3Rlc3QxLmRyLXBpbmcuaXIifQ==
-ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%94%A5%20177%20ms
-vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@172.65.188.155:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=microsoft.com&fp=chrome&sid=2721a041&pbk=8H8GZYml4FGVF9EcnZsUTOt0lFiIh20vS9TnX4Dn-z8#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20231%20ms
-vmess://eyJhZGQiOiJvY3JiMS5tb29uZnJlZS50b3AiLCJhaWQiOjAsImhvc3QiOiJvY3JiMS5tb29uZnJlZS50b3AiLCJpZCI6IjZlOWVlYWU2LWMzZDEtNDM5ZS05ZjdhLTIxM2ZlMDliMmRiZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAzOTcgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20413%20ms
-vmess://eyJhZGQiOiJyazU5Lm1vb25mcmVlLnRvcCIsImFpZCI6MCwiaG9zdCI6InJrNTkubW9vbmZyZWUudG9wIiwiaWQiOiI2ZTllZWFlNi1jM2QxLTQzOWUtOWY3YS0yMTNmZTA5YjJkYmUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggSmFmYXIgfCBcdWQ4M2RcdWRkMjUgNDIxIG1zIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?security=tls&sni=www.rolll.click#%F0%9F%87%A8%F0%9F%87%B3%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20483%20ms
-trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&sni=172.237.145.189#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20490%20ms
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click#%F0%9F%87%AE%F0%9F%87%B3%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20538%20ms
-trojan://s.wRSE4ANZp4=4h.=B_9Qbetw6XUc0V1SV@130.94.107.171:443?security=tls&sni=www.logger-guard.click#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20609%20ms
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%201196%20ms
-vmess://eyJhZGQiOiJvei5tb29uZnJlZS50b3AiLCJhaWQiOjAsImhvc3QiOiJvei5tb29uZnJlZS50b3AiLCJpZCI6IjlmYmI2MTIyLTQ2ZTctNDEzYi1iMjlkLTc0OWVlZjQ0NmM4ZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAxMzY5IG1zIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20173%20ms
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20203%20ms
+vless://b0bd72b0-b86d-4aba-8669-a8d4da0ecef9@172.64.155.209:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/uploader.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20213%20ms
+ss://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%94%A5%20229%20ms
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@172.65.188.155:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=microsoft.com&fp=chrome&sid=2721a041&pbk=8H8GZYml4FGVF9EcnZsUTOt0lFiIh20vS9TnX4Dn-z8#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20234%20ms
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20236%20ms
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEphZmFyIHwgXHVkODNkXHVkZDI1IDM3NCBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vmess://eyJhZGQiOiJvei5tb29uZnJlZS50b3AiLCJhaWQiOjAsImhvc3QiOiJvei5tb29uZnJlZS50b3AiLCJpZCI6IjlmYmI2MTIyLTQ2ZTctNDEzYi1iMjlkLTc0OWVlZjQ0NmM4ZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKYWZhciB8IFx1ZDgzZFx1ZGQyNSA0MTIgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&sni=172.235.63.252#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20504%20ms
+trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?security=tls&sni=www.rolll.click#%F0%9F%87%A8%F0%9F%87%B3%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20535%20ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.15.110:443#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%94%A5%20655%20ms
