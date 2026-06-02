@@ -1,19 +1,18 @@
-#profile-title: 🚀 Jafar Elite | 12 Srv
+#profile-title: 🚀 Jafar Elite | 11 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-02 18:20:59
+#updated-at: 2026-06-02 18:21:21
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://93f0761d-4393-4b43-a523-e812fa0b7e83@104.18.32.47:443?security=tls&type=ws&path=/pyip=47.251.95.178&host=cf.cfvip.lol&sni=cf.cfvip.lol&fp=chrome&encryption=none#🇨🇦 Jafar | 🛡️🔥 167 ms
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#🇵🇱 Jafar | 🛡️🔥 210 ms
-vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@172.65.209.214:443?security=reality&type=raw&sni=microsoft.com&fp=chrome&sid=065ee439&pbk=9LTpivOtvUds71_Hxmqk7vfeMx7JeHB0aJuaQX6xXzI&encryption=none#🇨🇦 Jafar | 💎🔥 256 ms
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls#🇩🇪 Jafar | 🛡️🔥 292 ms
-vmess://eyJhZGQiOiIxOTIuOTYuMjA0LjI1MCIsImFpZCI6NCwiaG9zdCI6IiIsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEphZmFyIHwgXHVkODNkXHVkZDI1IDMzMCBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?security=tls&sni=172.104.237.100#🇩🇪 Jafar | 🛡️🔥 340 ms
-trojan://Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V@130.94.97.11:443?security=tls&sni=www.selectnet.click#🇧🇬 Jafar | 🛡️🔥 352 ms
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKYWZhciB8IFx1ZDgzZFx1ZGQyNSAzODIgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click#🇮🇳 Jafar | 🛡️🔥 435 ms
-trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click#🇨🇳 Jafar | 🛡️🔥 690 ms
-trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?security=tls&sni=www.rolll.click#🇨🇳 Jafar | 🛡️🔥 980 ms
-vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJhaWQiOjAsImhvc3QiOiJpbm5hLmNmZCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEphZmFyIHwgXHVkODNkXHVkZDI1IDE0MTAgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://93f0761d-4393-4b43-a523-e812fa0b7e83@104.18.32.47:443?security=tls&type=ws&path=/pyip=47.251.95.178&host=cf.cfvip.lol&sni=cf.cfvip.lol&fp=chrome&encryption=none#🇨🇦 Jafar | 🛡️🔥 170 ms
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10#🇩🇪 Jafar | 🛡️🔥 176 ms
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#🇵🇱 Jafar | 🛡️🔥 207 ms
+vmess://eyJhZGQiOiIxOTIuOTYuMjA0LjI1MCIsImFpZCI6NCwiaG9zdCI6IiIsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEphZmFyIHwgXHVkODNkXHVkZDI1IDMyOSBtcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click#🇮🇳 Jafar | 🛡️🔥 432 ms
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@172.65.209.214:443?security=reality&type=tcp&sni=microsoft.com&fp=chrome&sid=065ee439&pbk=9LTpivOtvUds71_Hxmqk7vfeMx7JeHB0aJuaQX6xXzI&encryption=none#🇨🇦 Jafar | 💎🔥 482 ms
+trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?security=tls&sni=www.rolll.click#🇨🇳 Jafar | 🛡️🔥 695 ms
+trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click#🇨🇳 Jafar | 🛡️🔥 708 ms
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls#🇩🇪 Jafar | 🛡️🔥 1395 ms
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEphZmFyIHwgXHVkODNkXHVkZDI1IDE0MzEgbXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V@130.94.97.11:443?security=tls&sni=www.selectnet.click#🇧🇬 Jafar | 🛡️🔥 1599 ms
