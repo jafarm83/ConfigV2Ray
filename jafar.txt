@@ -1,8 +1,20 @@
-#profile-title: 🚀 Jafar Verified | 1 Srv
+#profile-title: 🚀 Jafar Verified | 13 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-03 16:46:02
+#updated-at: 2026-06-03 16:46:07
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?security=reality&type=tcp&sni=www.leboncoin.fr&fp=chrome&flow=xtls-rprx-vision&sid=c906f73d3ba8211f&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE#%F0%9F%87%AB%F0%9F%87%B7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20568%20ms
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20231%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.11:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20246%20ms
+vless://56c926e4-e34b-443f-b5ca-cc6f0afab28a@159.195.70.85:8443?security=reality&type=raw&sni=fastsync.xyz&fp=chrome&flow=xtls-rprx-vision&sid=65b5280b52e0532c&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20261%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.79:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20261%20ms
+vless://88806cd6-9686-4eea-92c8-7f8baf7d1505@89.116.46.210:80?security=none&type=ws&path=/in-pdr&host=unnes.ac.id.cyylr.eu.cc&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20281%20ms
+vless://827466ba-0910-4c48-b156-2f37fdbda362@193.23.222.99:55152?security=reality&type=raw&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=ddcac8ed&pbk=fX2XkujtqhnkQDy-Lwgqm_OofDs1qO5ytvVNM6aV4C4&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%20283%20ms
+vless://a44321b7-22ec-4255-bdb0-88a3e3b83668@51.77.110.43:443?security=reality&type=tcp&sni=play.google.com&fp=firefox&sid=b7b70c104ad267b8&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20319%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.20:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20344%20ms
+vless://765e0908-5ec4-41e9-8bd0-6482425e4247@152.53.139.226:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&sid=19ffa83bd83eb32d&pbk=3TrzFrsFzfZAeYOclG39atVKrsJcN7Beoa4VhN5D-j4#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20367%20ms
+vless://f4ff2b66-66db-4d82-b3c6-ed17f69f1911@188.114.97.6:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/sg-melbi&encryption=none&host=cache.netflix.com.cyylr.eu.cc&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20403%20ms
+vless://acb005a9-29af-437f-ba56-411a8dc9eb56@3.75.194.19:59403?security=reality&type=raw&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=55a20409400e71&pbk=R87O7j_VmzDlIMXOd7Z6MOpp2wxxw4VZFxOmTAmugVQ&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%20443%20ms
+vless://99f1fc84-29a9-4715-bc60-e25fc4f56ff9@drm3y.videoaiconverter.com:8081?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=sun6-21.userapi.com&fp=chrome&flow=xtls-rprx-vision&sid=4326&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%F0%9F%92%8E%20569%20ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IEphZmFyIHwgXHVkODNkXHVkZDI1IDczMSBtcyIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0Ijo0NDMsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwibmFtZSI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyB8IEBXaGl0ZUROUyB8IEtSMTJ8MS4wTUJcL3N8R1BUXHUyMDdhLUtSfEdNLUtSfENMLUtSfFNQLUtSIn0=
