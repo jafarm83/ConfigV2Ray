@@ -1,19 +1,12 @@
-#profile-title: 🚀 Jafar Verified | 12 Srv
+#profile-title: 🚀 Jafar Verified | 5 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-04 15:40:35
+#updated-at: 2026-06-04 15:40:58
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.30:443?security=reality&type=tcp&packetEncoding=none&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20262%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.109:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20272%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.96:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20272%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.129:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20278%20ms
-vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@91.211.27.142:443?security=reality&type=tcp&sni=pl.healthy-connected.com&fp=edge&flow=xtls-rprx-vision&sid=30e570274c0c72cc&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20327%20ms
-vless://7625adbb-52f7-4ff4-95f8-677471071a77@132.243.231.122:8443?security=reality&type=raw&sni=io.ozone.ru&fp=chrome&flow=xtls-rprx-vision&sid=92d0c4089b6c1da3&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20342%20ms
-vless://3e41b124-28dc-40e9-82eb-ab0139e5951b@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20426%20ms
-vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@2.26.3.239:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.deepl.com&fp=chrome&flow=xtls-rprx-vision&sid=c4fb372c78b32874&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20471%20ms
-vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?security=reality&type=tcp&sni=www.paypal.com&fp=chrome&flow=xtls-rprx-vision&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%20483%20ms
-vless://18dbc918-7d0c-4b4c-b26f-a16aeb761788@64.188.80.199:8443?security=reality&type=tcp&sni=nspk.ru&fp=chrome&flow=xtls-rprx-vision&sid=b3a1cc510a2001c6&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4#%F0%9F%87%AB%F0%9F%87%AE%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20762%20ms
-vless://b831381d-6324-4d53-ad4f-8cda48b30811@67.102.180.16:443?security=reality&type=raw&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=16&pbk=3j9h81MFAlsEOQ4K1ey1XD0tz1aEVNaMGMoMjQwif1w&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20795%20ms
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&type=tcp&packetEncoding=none&sni=google.com&fp=random&flow=xtls-rprx-vision&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20810%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.29:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20264%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.121:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20281%20ms
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?encryption=none&host=main.boobie.eu.cc&path=/&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20296%20ms
+vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?security=reality&type=xhttp&path=/&sni=www.google.com&fp=random&sid=44&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&mode=auto&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20554%20ms
+vless://bd91187b-aeeb-403d-8cff-5bdc5ebc04c1@213.171.30.136:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=avito.ru&pbk=FGCQJa66btmmsTEqC-vhSUN9INHarHwKNyhLi131fAQ&sid=63992a9a07179bb2#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20771%20ms
