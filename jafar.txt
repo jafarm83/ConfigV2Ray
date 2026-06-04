@@ -2,8 +2,8 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-04 03:46:53
+#updated-at: 2026-06-04 03:47:00
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.100:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20273%20ms
-vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@snapp.ir:80?encryption=none&security=none&type=ws&host=gre.greentab.ir&path=/ws#%F0%9F%87%AE%F0%9F%87%B7%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%202098%20ms
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@45.129.242.162:443?security=reality&type=raw&sni=www.samsung.com&fp=chrome&sid=a1b2c3d4&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20262%20ms
+vless://cd51db86-be9a-48b0-8910-eeb4dcadc7d9@146.75.119.82:80?security=none&type=ws&path=/ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20306%20ms
