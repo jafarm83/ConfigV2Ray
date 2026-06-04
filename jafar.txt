@@ -1,8 +1,13 @@
-#profile-title: 🚀 Jafar Verified | 1 Srv
+#profile-title: 🚀 Jafar Verified | 6 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-04 13:37:25
+#updated-at: 2026-06-04 13:37:47
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://2399fe0a-b359-40a9-a3f0-b70c3c177a01@104.21.224.5:80?encryption=none&host=aa.beijng.dpdns.org&path=/&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20264%20ms
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20228%20ms
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@162.217.249.72:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=nether1cxc.chickenkiller.com&fp=chrome&flow=xtls-rprx-vision&sid=8917bfb9900788d5&pbk=MFedImeNi-4keZx_rkV8WL6jjY6sLncSaXgNjpUBPGo#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20258%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.111:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20259%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.68:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20271%20ms
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@45.129.242.162:443?security=reality&type=raw&sni=www.samsung.com&fp=chrome&sid=a1b2c3d4&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20299%20ms
+vless://96bdcc41-e5d4-4cce-9d58-870c9c25fdea@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20459%20ms
