@@ -1,9 +1,8 @@
-#profile-title: 🚀 Jafar Verified | 2 Srv
+#profile-title: 🚀 Jafar Verified | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-04 07:10:18
+#updated-at: 2026-06-04 07:10:35
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEphZmFyIHwgIDI4NCBtcyIsImFkZCI6InNray5tb2UiLCJwb3J0Ijo4MCwiaWQiOiI2NWIxN2MwYi0wYTUyLTRiNTQtOWJjOS02MGUzMTM5N2I4NDEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiJcLzY1YjE3YzBiLTBhNTItNGI1NC05YmM5LTYwZTMxMzk3Yjg0MS12bWVzcyIsImhvc3QiOiJhY2NrbHNqLmJ1ZnUudXMuY2kiLCJuYW1lIjoiXHUyNzUzIHwgQFdoaXRlRE5TIHwgT1QzfDIuM01CXC9zfENMLVVTIn0=
-vless://d78c12c4-6927-40b8-8550-ed9be00334da@217.179.6.84:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=France1cxc.chickenkiller.com&fp=chrome&flow=xtls-rprx-vision&sid=6089640857a72237&pbk=UJSYKOEr3a3V1P_obd9zNBq4Pr3Vbd_a2nHE7-rstRk#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20556%20ms
+vless://18535741-e8b3-4b43-9348-785b55936751@ov-germany1.09vpn.com:80?security=none&type=ws&path=/vless/&host=OV-Germany1.09vpn.com#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%201408%20ms
