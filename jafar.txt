@@ -1,16 +1,8 @@
-#profile-title: 🚀 Jafar Verified | 9 Srv
+#profile-title: 🚀 Jafar Verified | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-04 08:07:31
+#updated-at: 2026-06-04 08:07:32
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://9168313a-6528-4567-ab18-173c8c86fc26@hd.teleincognito.com:80?security=none&type=ws&path=/tdM8fSnq1aRrgXTanQ7vaHEIH3&host=hd.teleincognito.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20246%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.11:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20270%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.68:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20284%20ms
-vless://2399fe0a-b359-40a9-a3f0-b70c3c177a01@104.21.224.5:80?encryption=none&host=aa.beijng.dpdns.org&path=/&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20286%20ms
-vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@91.211.27.142:443?security=reality&type=tcp&sni=pl.healthy-connected.com&fp=edge&flow=xtls-rprx-vision&sid=30e570274c0c72cc&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20319%20ms
-vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80?security=none&type=ws&path=/&host=main.boobie.eu.cc#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20345%20ms
-vless://346af57f-316c-4246-839d-6e363b1dbdf9@82.202.137.132:443?encryption=none&type=xhttp&security=reality&extra=null&fp=chrome&sni=yandex.ru&pbk=SQo6HHEMN-eGaCOdmN0_CX9F3cbCje4gVwuCrKh1MFU&sid=de#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20372%20ms
-vless://b831381d-6324-4d53-ad4f-8cda48b30811@67.102.180.16:443?security=reality&type=raw&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=16&pbk=3j9h81MFAlsEOQ4K1ey1XD0tz1aEVNaMGMoMjQwif1w&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20656%20ms
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&host=de.vpnbase.net&path=/http&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%201144%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.10:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20265%20ms
