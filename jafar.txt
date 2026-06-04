@@ -1,8 +1,13 @@
-#profile-title: 🚀 Jafar Verified | 1 Srv
+#profile-title: 🚀 Jafar Verified | 6 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-04 06:45:49
+#updated-at: 2026-06-04 06:45:53
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@178.105.103.153:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=max.ru&fp=chrome&sid=5e841fab&pbk=zxzgWvYs4pMN3fEduth1soI1yMZDkynb1bBM4tj85EE#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20353%20ms
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20195%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.56:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20270%20ms
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?security=none&type=ws&path=/&host=main.boobie.eu.cc#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20336%20ms
+vless://9f9f18f8-2557-4f18-928d-e7c334a0b068@85.159.229.189:443?security=reality&type=tcp&sni=www.google.com&fp=random&sid=e6&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A#%F0%9F%87%AE%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20343%20ms
+vless://779d227c-f7be-4b9d-a4a9-1197c734b4e7@18.141.49.252:35308?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=fef8dcb8cafe30&pbk=4g1kpdmdbN6aNxeBYMj9WherunH9JSXsI_nKZTDiewE#%F0%9F%87%B8%F0%9F%87%AC%20Jafar%20%7C%20%F0%9F%92%8E%20730%20ms
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&host=de.vpnbase.net&path=/http&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20767%20ms
