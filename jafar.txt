@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-04 20:04:20
+#updated-at: 2026-06-04 20:04:21
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@82.25.63.164:443?security=reality&type=grpc&mode=gun&serviceName=vless&sni=down.spectrum.vu&fp=chrome&sid=f2a6d1c1e4b8&pbk=ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA#%F0%9F%87%AB%F0%9F%87%B7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20308%20ms
+vless://9c63bf8b-1c25-4b7e-9393-71aa99cad29d@88.218.120.60:8443?security=reality&type=tcp&sni=un6-21.userapi.com&fp=chrome&flow=xtls-rprx-vision&sid=612d8fa72c&pbk=1A4AgKQiz38mT1r1H0su7aAXBB7KnKOFzsQ3AdACVDs&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20339%20ms
