@@ -1,12 +1,8 @@
-#profile-title: 🚀 Jafar Verified | 5 Srv
+#profile-title: 🚀 Jafar Verified | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-04 19:03:49
+#updated-at: 2026-06-04 19:04:00
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.64:443?security=reality&type=tcp&packetEncoding=none&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20258%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.119:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20278%20ms
-vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@150.241.71.35:443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&fp=chrome&allowInsecure=0&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20349%20ms
-vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@us.healthy-connected.com:443?security=reality&type=tcp&sni=us.healthy-connected.com&fp=chrome&flow=xtls-rprx-vision&sid=30e570274c0c72cc&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20599%20ms
-vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&type=raw&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%201945%20ms
+vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@62.141.42.201:443?security=reality&type=raw&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=81&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20300%20ms
