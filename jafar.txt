@@ -1,9 +1,8 @@
-#profile-title: 🚀 Jafar Verified | 2 Srv
+#profile-title: 🚀 Jafar Verified | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-04 19:44:33
+#updated-at: 2026-06-04 19:44:40
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://18afb896-6e4b-403b-b804-714b09b517e5@109.122.198.76:443?security=reality&type=raw&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=bfb7cb31&pbk=tMEkGmuOsuS_cgZYpj2UYBKnni559FZd-poGnH82ck8&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20318%20ms
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@82.25.63.164:443?security=reality&type=grpc&mode=gun&serviceName=vless&sni=down.spectrum.vu&fp=chrome&sid=f2a6d1c1e4b8&pbk=ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA#%F0%9F%87%AB%F0%9F%87%B7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20329%20ms
+vless://18535741-e8b3-4b43-9348-785b55936751@ov-germany1.09vpn.com:80?security=none&type=ws&path=/vless/&host=OV-Germany1.09vpn.com#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20243%20ms
