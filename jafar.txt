@@ -1,8 +1,16 @@
-#profile-title: 🚀 Jafar Verified | 1 Srv
+#profile-title: 🚀 Jafar Verified | 9 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-04 17:37:07
+#updated-at: 2026-06-04 17:37:11
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443?security=reality&type=raw&sni=yahoo.com&fp=chrome&sid=302e&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20529%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.96:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20266%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20275%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.75:443?security=reality&type=tcp&packetEncoding=none&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20276%20ms
+vless://8be98cb0-0942-4bc2-b2da-eec9e2e53f9f@45.150.34.244:55128?security=reality&type=tcp&sni=www.sony.com&fp=chrome&flow=xtls-rprx-vision&sid=7134a1b6e13dcb36&pbk=7l16WkJYuCyfJG2ayNxM-IBh8J3bZvi_ntFcjokuASg&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%92%8E%20283%20ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%94%A5%20368%20ms
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?security=reality&type=raw&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI#%F0%9F%87%B7%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20375%20ms
+trojan://humanity@104.17.121.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20430%20ms
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@144.31.217.99:443?encryption=none&flow=xtls-rprx-vision&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&security=reality&sni=google.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20482%20ms
+vless://3d9e0b39-7b09-4be4-89b3-5bf9226a4e71@185.22.235.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20489%20ms
