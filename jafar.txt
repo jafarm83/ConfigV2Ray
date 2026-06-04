@@ -1,10 +1,8 @@
-#profile-title: 🚀 Jafar Verified | 3 Srv
+#profile-title: 🚀 Jafar Verified | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-04 06:04:44
+#updated-at: 2026-06-04 06:04:58
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://f5ccef9d-8ea8-424d-926b-36161aebe28f@45.130.125.0:80?path=/ae-bo&encryption=none&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws#%F0%9F%87%B8%F0%9F%87%A8%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20284%20ms
-vless://cd51db86-be9a-48b0-8910-eeb4dcadc7d9@146.75.119.82:80?security=none&type=ws&path=/ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20307%20ms
-vless://18dbc918-7d0c-4b4c-b26f-a16aeb761788@64.188.80.199:8443?security=reality&type=tcp&sni=nspk.ru&fp=chrome&flow=xtls-rprx-vision&sid=b3a1cc510a2001c6&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4#%F0%9F%87%AB%F0%9F%87%AE%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20535%20ms
+vless://cd51db86-be9a-48b0-8910-eeb4dcadc7d9@146.75.119.82:80?security=none&type=ws&path=/ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20306%20ms
