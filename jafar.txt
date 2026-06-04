@@ -1,16 +1,8 @@
-#profile-title: 🚀 Jafar Verified | 9 Srv
+#profile-title: 🚀 Jafar Verified | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-04 09:33:17
+#updated-at: 2026-06-04 09:33:25
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.115:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20265%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.56:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20268%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.121:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20271%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.96:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20278%20ms
-vless://74120ed7-7f61-4017-8882-bd3dbb393bd7@94.156.170.46:8443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=discordapp.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20281%20ms
-trojan://humanity@172.64.146.211:443?sni=www.gossipglove.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20282%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.29:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20291%20ms
-vless://cace7c3b-f7a0-4fd8-858b-5c5b9e7c1454@sibilgg.opik.net:8080?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20563%20ms
-vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@150.241.71.35:443?encryption=none&flow=xtls-rprx-vision&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&security=reality&sni=google.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20654%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.7:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20271%20ms
