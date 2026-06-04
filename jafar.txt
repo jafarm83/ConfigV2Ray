@@ -1,15 +1,8 @@
-#profile-title: 🚀 Jafar Verified | 8 Srv
+#profile-title: 🚀 Jafar Verified | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-04 20:40:30
+#updated-at: 2026-06-04 20:40:36
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%94%A5%20240%20ms
-vless://77777777-7777-4777-8777-777777777777@216.24.57.1:443?path=/sg-melbi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20256%20ms
-vless://30bd868d-dc03-4b02-870b-f857ca4bf6df@ir_namava-3.storemestor.ir:443?security=tls&type=ws&path=/?ed=2560&host=AbrAhAmlinkolN11678.ScHoOlmAjaZi.Top.&alpn=h2,http/1.1&sni=AbrAhAmlinkolN11678.ScHoOlmAjaZi.Top.&fp=firefox#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20281%20ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%20341%20ms
-trojan://humanity@188.114.97.194:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20463%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.8:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20473%20ms
-trojan://humanity@104.17.148.22:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20591%20ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%20899%20ms
+vless://Fluffy_VPN-uQuRPvrt@80.89.237.87:443?security=reality&type=tcp&packetEncoding=none&sni=very-mega-best.top&fp=chrome&flow=xtls-rprx-vision&pbk=yYOCEJEfnwByiWiiSNeCMhRqmViAhavOp8QaGWHx6VI#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20250%20ms
