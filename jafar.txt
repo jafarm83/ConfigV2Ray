@@ -1,9 +1,12 @@
-#profile-title: 🚀 Jafar Verified | 2 Srv
+#profile-title: 🚀 Jafar Verified | 5 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-04 05:09:03
+#updated-at: 2026-06-04 05:09:28
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@82.25.63.164:443?security=reality&type=grpc&mode=gun&serviceName=vless&sni=down.spectrum.vu&fp=chrome&sid=f2a6d1c1e4b8&pbk=ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA#%F0%9F%87%AB%F0%9F%87%B7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20319%20ms
-vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@193.200.16.82:443?security=reality&type=tcp&sni=pl.healthy-connected.com&fp=edge&flow=xtls-rprx-vision&sid=30e570274c0c72cc&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20360%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.111:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20260%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.71:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20281%20ms
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@82.25.63.164:443?security=reality&type=grpc&mode=gun&serviceName=vless&sni=down.spectrum.vu&fp=chrome&sid=f2a6d1c1e4b8&pbk=ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA#%F0%9F%87%AB%F0%9F%87%B7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20318%20ms
+vless://476caa1d-7c04-48ab-8de5-2c1af0d13a66@138.124.244.248:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=e9a8&pbk=PYX0lu3m0L_h28eW4186s63gRFHXoTc3K9wKeFewDUQ#%F0%9F%87%A8%F0%9F%87%AD%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20546%20ms
+vless://779d227c-f7be-4b9d-a4a9-1197c734b4e7@18.141.49.252:35308?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=fef8dcb8cafe30&pbk=4g1kpdmdbN6aNxeBYMj9WherunH9JSXsI_nKZTDiewE#%F0%9F%87%B8%F0%9F%87%AC%20Jafar%20%7C%20%F0%9F%92%8E%20709%20ms
