@@ -1,13 +1,9 @@
-#profile-title: 🚀 Jafar Verified | 6 Srv
+#profile-title: 🚀 Jafar Verified | 2 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-04 17:02:29
+#updated-at: 2026-06-04 17:02:59
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20330%20ms
-vless://5381a1bb-479a-412a-9d99-08ccbc008828@93.123.13.82:443?security=reality&type=tcp&sni=fl02.myxasecure.space&fp=chrome&flow=xtls-rprx-vision&sid=d67ec5a8fc40ebea&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&encryption=none#%F0%9F%87%A6%F0%9F%87%B9%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20338%20ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q@185.5.38.111:55988#%F0%9F%87%AB%F0%9F%87%AE%20Jafar%20%7C%20%20371%20ms
-vless://3d9e0b39-7b09-4be4-89b3-5bf9226a4e71@79.174.90.31:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20544%20ms
-vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80?security=none&type=ws&path=/vless/&host=pq-BosniaandHerzegovina1.09vpn.com&encryption=none#%F0%9F%87%A7%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20940%20ms
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=de.vpnbase.net&path=/http&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%201823%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.10:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20266%20ms
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?security=none&type=ws&path=/&host=main.boobie.eu.cc#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20333%20ms
