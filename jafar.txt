@@ -1,9 +1,18 @@
-#profile-title: 🚀 Jafar Verified | 2 Srv
+#profile-title: 🚀 Jafar Verified | 11 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 15:24:08
+#updated-at: 2026-06-05 15:30:52
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20230%20ms
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?security=reality&type=tcp&sni=google.com&fp=chrome&sid=3ca620a7ed5f3196&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20303%20ms
+vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@62.141.42.201:443?security=reality&type=raw&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=81&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20327%20ms
+vless://765e0908-5ec4-41e9-8bd0-6482425e4247@152.53.139.226:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&sid=19ffa83bd83eb32d&pbk=3TrzFrsFzfZAeYOclG39atVKrsJcN7Beoa4VhN5D-j4#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20336%20ms
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?encryption=none&host=main.boobie.eu.cc&path=/&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20384%20ms
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20391%20ms
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.3:443?encryption=none&fp=chrome&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20459%20ms
+vless://9232a847-8f7d-4548-a23a-a8b3550e0f15@141.193.213.11:443?encryption=none&type=ws&security=tls&path=/id-tksi&host=grabacademyportal.grab.com.cyylr.eu.cc&sni=grabacademyportal.grab.com.cyylr.eu.cc&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20505%20ms
+vless://TIGNAL-CRYPTO@151.101.129.57:80?type=xhttp&security=none&path=/&host=InternetAzadRobot07gt745.global.ssl.fastly.net&mode=auto#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20538%20ms
+vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?security=none&type=ws&path=/vless/&encryption=none#%F0%9F%87%A6%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20616%20ms
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@franccxc3.twilightparadox.com:443?security=reality&type=tcp&sni=franccxc3.twilightparadox.com&fp=firefox&flow=xtls-rprx-vision&sid=6257e28b6a8c0ad5&pbk=4n-kU4YGN9L_XkDepNtAohIGO15Eaxzw7BDhP1hPPU8&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20837%20ms
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@217.179.6.84:443?security=reality&type=tcp&sni=France1cxc.chickenkiller.com&fp=chrome&flow=xtls-rprx-vision&sid=6089640857a72237&pbk=UJSYKOEr3a3V1P_obd9zNBq4Pr3Vbd_a2nHE7-rstRk&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%201002%20ms
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.245:443?security=tls&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&encryption=none#%F0%9F%87%AA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%201471%20ms
