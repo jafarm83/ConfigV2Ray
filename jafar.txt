@@ -1,14 +1,8 @@
-#profile-title: 🚀 Jafar Verified | 7 Srv
+#profile-title: 🚀 Jafar Verified | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 23:44:55
+#updated-at: 2026-06-05 23:58:56
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.119:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20303%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.8:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20311%20ms
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http/1.1#%F0%9F%87%B5%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20380%20ms
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#%F0%9F%87%B7%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20418%20ms
-vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?security=reality&type=tcp&sni=www.paypal.com&fp=chrome&flow=xtls-rprx-vision&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%20535%20ms
-vless://9f9f18f8-2557-4f18-928d-e7c334a0b068@85.159.229.189:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.google.com&fp=random&sid=e6&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A#%F0%9F%87%AE%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20765%20ms
-vless://aca32055-db88-4634-b623-6429ddbb6c93@54.252.231.115:55292?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=bd711c02c8dc9955&pbk=kPx16abMZD2x6dv7NW_hn1HSc2P8RsPptytcCT-neQs#%F0%9F%87%A6%F0%9F%87%BA%20Jafar%20%7C%20%F0%9F%92%8E%201631%20ms
+vless://ea760105-1dce-4f5c-8f5a-233e96324155@45.15.152.167:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=yahoo.com&fp=chrome&sid=4b1b&pbk=2lReHLDD5UCpT8FyBLPyrrIbi6MNKDBTArtCwI3NUQA#%F0%9F%87%AB%F0%9F%87%AE%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20751%20ms
