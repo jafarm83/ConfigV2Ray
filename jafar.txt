@@ -1,13 +1,9 @@
-#profile-title: 🚀 Jafar Verified | 6 Srv
+#profile-title: 🚀 Jafar Verified | 2 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 09:27:14
+#updated-at: 2026-06-05 09:29:39
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://9168313a-6528-4567-ab18-173c8c86fc26@91.107.165.2:80?security=none&type=ws&path=/tdM8fSnq1aRrgXTanQ7vaHEIH3&host=hd.teleincognito.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20242%20ms
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20288%20ms
-vless://765e0908-5ec4-41e9-8bd0-6482425e4247@152.53.139.226:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&sid=19ffa83bd83eb32d&pbk=3TrzFrsFzfZAeYOclG39atVKrsJcN7Beoa4VhN5D-j4#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20339%20ms
-vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@62.141.42.201:443?security=reality&type=raw&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=81&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20341%20ms
-vless://9f9f18f8-2557-4f18-928d-e7c334a0b068@85.159.229.189:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.google.com&fp=random&sid=e6&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A#%F0%9F%87%AE%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20874%20ms
-vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKYWZhciB8ICA5OTAgbXMiLCJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6ODAsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJqcDAxLmEwYS54eXoiLCJhbHBuIjpudWxsLCJwYXRoIjoiXC9jY3R2MTMubTN1OCIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgSlAgNCJ9
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.75:443?security=reality&type=tcp&packetEncoding=none&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20265%20ms
+vless://80e345c8-23bb-49e9-8e4e-c98631413c97@51.250.82.20:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20357%20ms
