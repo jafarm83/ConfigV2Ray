@@ -1,8 +1,18 @@
-#profile-title: 🚀 Jafar Verified | 1 Srv
+#profile-title: 🚀 Jafar Verified | 11 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 21:36:57
+#updated-at: 2026-06-05 21:37:00
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@178.105.103.153:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=max.ru&fp=chrome&sid=5e841fab&pbk=zxzgWvYs4pMN3fEduth1soI1yMZDkynb1bBM4tj85EE#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20352%20ms
+vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=googdas.scroogethebest.com&fp=qq&flow=xtls-rprx-vision&sid=132c271e21324e36&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo#%F0%9F%87%B1%F0%9F%87%B9%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20334%20ms
+vless://e886fa93-8260-4f8e-ba3a-4879a4d69946@85.159.229.84:443?security=reality&encryption=none&sni=www.google.com&fp=chrome&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&sid=93&spx=/&type=tcp&headerType=none&path=/#%F0%9F%87%AE%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20367%20ms
+vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@45.8.93.12:443?security=reality&type=tcp&sni=newsw.stardevs.top&fp=chrome&flow=xtls-rprx-vision&sid=f37fb7531c60780d&pbk=YU7hzDkfhfrA8v2rhMEUhgh7EQs4mHX9M60fkraccis#%F0%9F%87%B8%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20370%20ms
+vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@de.ko.prod.n7.homes:8443?security=reality&type=tcp&sni=google.com&fp=chrome&sid=3ca620a7ed5f3196&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20406%20ms
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?path=/vless/&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B9%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20476%20ms
+vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?security=reality&type=xhttp&path=/&sni=www.google.com&fp=random&sid=44&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&mode=auto&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20519%20ms
+vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?security=reality&type=tcp&sni=www.paypal.com&fp=chrome&flow=xtls-rprx-vision&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%20603%20ms
+vless://950963d3-b8fb-45e7-aa84-16870b490154@45.15.152.167:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=4b1b&pbk=2lReHLDD5UCpT8FyBLPyrrIbi6MNKDBTArtCwI3NUQA#%F0%9F%87%AB%F0%9F%87%AE%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20647%20ms
+vless://ec13d921-3072-4e16-b2cd-af709f7f7894@150.241.83.60:443?security=reality&type=tcp&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=7b&pbk=xDFXqfhZ7-IQiFwXpXltNe2Axo5O33k4LAqDfAVtyz4#%F0%9F%87%B8%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20754%20ms
+vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&type=tcp&headerType=none&path=/#%F0%9F%87%AE%F0%9F%87%B3%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%202735%20ms
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%202740%20ms
