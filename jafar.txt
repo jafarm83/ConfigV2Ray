@@ -1,13 +1,8 @@
-#profile-title: 🚀 Jafar Verified | 6 Srv
+#profile-title: 🚀 Jafar Verified | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 16:55:10
+#updated-at: 2026-06-05 16:55:39
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@2.26.3.239:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.deepl.com&fp=chrome&flow=xtls-rprx-vision&sid=c4fb372c78b32874&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20541%20ms
-vless://e43dd231-7c75-4606-80ec-50fbb8335ce7@132.226.85.167:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=7b233a973c94ca0a&pbk=3ik9ws7ATJ5dKDY2Fofv9y7_vpFYsTqgOJRxiQKwA3A#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20781%20ms
-vless://a4caef32-090f-4f17-b7fa-2808f205620d@64.49.46.225:57502?security=reality&type=tcp&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&sid=ebfeeffb94d5bd5d&pbk=IOAu39FSiRk_VX4sfzCVZorWhUY0ikftPdHqcmNoY1c&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20Jafar%20%7C%20%F0%9F%92%8E%20913%20ms
-vless://a6b071ef-0d82-4f46-b04b-3310b8d6ca82@3.112.126.206:54055?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.icloud.com&fp=firefox&flow=xtls-rprx-vision&sid=f0b670194e8d2401&pbk=OzoYp8homkMDMozggbwqswuBiWRykfmmszFpu2_YM1g#%F0%9F%87%AF%F0%9F%87%B5%20Jafar%20%7C%20%F0%9F%92%8E%20974%20ms
-vless://9168313a-6528-4567-ab18-173c8c86fc26@hd.teleincognito.com:80?security=none&type=ws&path=/tdM8fSnq1aRrgXTanQ7vaHEIH3&host=hd.teleincognito.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%201266%20ms
-vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKYWZhciB8ICAyMDQ0IG1zIiwiYWRkIjoianAwMS5hMGEueHl6IiwicG9ydCI6ODAsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoianAwMS5hMGEueHl6IiwiYWxwbiI6bnVsbCwicGF0aCI6IlwvY2N0djEzLm0zdTgiLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpQIDYifQ==
+vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@62.141.42.201:443?security=reality&type=raw&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=81&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20315%20ms
