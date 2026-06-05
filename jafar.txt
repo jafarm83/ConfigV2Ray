@@ -1,9 +1,8 @@
-#profile-title: 🚀 Jafar Verified | 2 Srv
+#profile-title: 🚀 Jafar Verified | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 23:18:21
+#updated-at: 2026-06-05 23:18:48
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://180a65ce-f309-47ec-b8ee-2f7a9a8a0fe2@45.15.152.167:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=4b1b&pbk=2lReHLDD5UCpT8FyBLPyrrIbi6MNKDBTArtCwI3NUQA#%F0%9F%87%AB%F0%9F%87%AE%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20362%20ms
-vless://a6b071ef-0d82-4f46-b04b-3310b8d6ca82@3.112.126.206:54055?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.icloud.com&fp=firefox&flow=xtls-rprx-vision&sid=f0b670194e8d2401&pbk=OzoYp8homkMDMozggbwqswuBiWRykfmmszFpu2_YM1g#%F0%9F%87%AF%F0%9F%87%B5%20Jafar%20%7C%20%F0%9F%92%8E%20924%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.129:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20280%20ms
