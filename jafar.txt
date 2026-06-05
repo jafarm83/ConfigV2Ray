@@ -1,8 +1,9 @@
-#profile-title: 🚀 Jafar Verified | 1 Srv
+#profile-title: 🚀 Jafar Verified | 2 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-06 02:21:40
+#updated-at: 2026-06-06 02:22:19
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?security=reality&encryption=none&sni=google.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&type=tcp&headerType=none&path=/#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20274%20ms
+hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&sni=content.masir-sefid.shop#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20160%20ms
+vless://a4caef32-090f-4f17-b7fa-2808f205620d@64.49.46.225:57502?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=IOAu39FSiRk_VX4sfzCVZorWhUY0ikftPdHqcmNoY1c&sid=ebfeeffb94d5bd5d&sni=www.tesla.com#%F0%9F%87%AD%F0%9F%87%B0%20Jafar%20%7C%20%F0%9F%92%8E%20886%20ms
