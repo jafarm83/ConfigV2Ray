@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 22:22:03
+#updated-at: 2026-06-05 22:22:21
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBKYWZhciB8ICA0ODMgbXMiLCJhZGQiOiJkZTQubmlla290aW4uZGUiLCJwb3J0Ijo4MCwiaWQiOiJlOWEyYWI5ZC01ODU4LTQ5YjMtOTcyMS1kNzM2NGI0MTNjNDgiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJkZTQubmlla290aW4uZGUiLCJhbHBuIjpudWxsLCJwYXRoIjoiXC92bWVzcyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIERFIDE1In0=
+vless://9168313a-6528-4567-ab18-173c8c86fc26@91.107.165.2:80?security=none&type=ws&path=/tdM8fSnq1aRrgXTanQ7vaHEIH3&host=hd.teleincognito.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%201279%20ms
