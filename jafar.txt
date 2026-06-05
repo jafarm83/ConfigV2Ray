@@ -1,14 +1,8 @@
-#profile-title: 🚀 Jafar Verified | 7 Srv
+#profile-title: 🚀 Jafar Verified | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 17:02:10
+#updated-at: 2026-06-05 17:02:14
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://Fluffy_VPN-uQuRPvrt@80.89.237.87:443?security=reality&type=tcp&packetEncoding=none&sni=very-mega-best.top&fp=chrome&flow=xtls-rprx-vision&pbk=yYOCEJEfnwByiWiiSNeCMhRqmViAhavOp8QaGWHx6VI#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20276%20ms
-vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?encryption=none&host=SC-TheNetherlands2.09vpn.com&path=/vless/&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20311%20ms
-vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#%F0%9F%87%A6%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20407%20ms
-vless://476caa1d-7c04-48ab-8de5-2c1af0d13a66@138.124.244.248:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=e9a8&pbk=PYX0lu3m0L_h28eW4186s63gRFHXoTc3K9wKeFewDUQ#%F0%9F%87%A8%F0%9F%87%AD%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20619%20ms
-vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&type=raw&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20705%20ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIEphZmFyIHwgIDc0MyBtcyIsImFkZCI6IjQ3LjI1MC4xNDkuNTEiLCJwb3J0Ijo1MDAxOCwiaWQiOiI5NjY1MjgwYy1hM2QxLTRhYWItZWY5Zi1hM2E0OTczMzdkOTEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiJcLzk2NjUyODBjIiwiaG9zdCI6IjQ3LjI1MC4xNDkuNTEiLCJuYW1lIjoiXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIHwgQFdoaXRlRE5TIHwgTVkxfDEuN01CXC9zfEdQVFx1MjA3YS1NWXxHTS1NWXxDTC1NWXxTUC1NWSJ9
-vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKYWZhciB8ICAyMDQ4IG1zIiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOjgwLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoianAwMS5hMGEueHl6IiwiYWxwbiI6bnVsbCwicGF0aCI6IlwvY2N0djEzLm0zdTgiLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpQIDQifQ==
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20397%20ms
