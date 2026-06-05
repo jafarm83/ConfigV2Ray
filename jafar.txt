@@ -1,9 +1,10 @@
-#profile-title: 🚀 Jafar Verified | 2 Srv
+#profile-title: 🚀 Jafar Verified | 3 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-06 01:05:41
+#updated-at: 2026-06-06 01:05:42
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@45.129.242.162:443?security=reality&type=raw&sni=www.samsung.com&fp=chrome&sid=a1b2c3d4&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20255%20ms
-vless://fceaec68-0a47-4a83-9dc3-41a8cc7f1aa1@ca1.niekotin.de:80?security=none&encryption=none&type=ws&host=ca1.niekotin.de&path=/vless#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20494%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.100:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20259%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.108:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20266%20ms
+vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?encryption=none&host=SC-TheNetherlands2.09vpn.com&path=/vless/&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20960%20ms
