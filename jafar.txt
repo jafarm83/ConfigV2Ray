@@ -1,8 +1,10 @@
-#profile-title: 🚀 Jafar Verified | 1 Srv
+#profile-title: 🚀 Jafar Verified | 3 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-06 02:04:27
+#updated-at: 2026-06-06 02:05:56
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20237%20ms
+vless://fceaec68-0a47-4a83-9dc3-41a8cc7f1aa1@ca1.niekotin.de:80?security=none&encryption=none&type=ws&host=ca1.niekotin.de&path=/vless#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20542%20ms
+vless://ec51a6c1-2e80-47ed-9d78-34a0c4333865@ads04.vxmaxpro.online:443?security=reality&encryption=none&sni=play.google.com&fp=chrome&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8&type=tcp&headerType=none&path=/#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20762%20ms
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?encryption=none&host=main.boobie.eu.cc&path=/&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%201334%20ms
