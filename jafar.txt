@@ -1,10 +1,11 @@
-#profile-title: 🚀 Jafar Verified | 3 Srv
+#profile-title: 🚀 Jafar Verified | 4 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 13:40:15
+#updated-at: 2026-06-05 13:40:17
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://7625adbb-52f7-4ff4-95f8-677471071a77@132.243.231.122:8443?security=reality&type=raw&sni=io.ozone.ru&fp=chrome&flow=xtls-rprx-vision&sid=92d0c4089b6c1da3&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20352%20ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.3:443?encryption=none&fp=chrome&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20374%20ms
-vless://950963d3-b8fb-45e7-aa84-16870b490154@45.15.152.167:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=yahoo.com&fp=chrome&sid=4b1b&pbk=2lReHLDD5UCpT8FyBLPyrrIbi6MNKDBTArtCwI3NUQA#%F0%9F%87%AB%F0%9F%87%AE%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20658%20ms
+vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@62.141.42.201:443?security=reality&type=raw&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=81&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20296%20ms
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?security=reality&type=raw&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw#%F0%9F%87%B0%F0%9F%87%B7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20337%20ms
+vless://aa0e6991-6eaa-4bbb-9497-abc04d54de2f@188.114.97.6:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=cdn.opensignal.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=cdn.opensignal.com.cyylr.eu.cc#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20605%20ms
+vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuYW1lIjoiPj5AdjJyYXlfY29uZmlnc19wb29sOjpUVzo6VFc6OlRXOjpUVzo6VFc6OlRXOjpUVzo6VFc6OlRXOjpYWDo6WFg6OlRXOjpUVzo6VFc6OlRXIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOjM1MDM0LCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwicHMiOiJcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZmMgSmFmYXIgfCAgNjcxIG1zIn0=
