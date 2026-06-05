@@ -1,9 +1,10 @@
-#profile-title: 🚀 Jafar Verified | 2 Srv
+#profile-title: 🚀 Jafar Verified | 3 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 13:53:51
+#updated-at: 2026-06-05 13:54:47
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://Fluffy_VPN-uQuRPvrt@80.89.237.87:443?security=reality&type=tcp&packetEncoding=none&sni=very-mega-best.top&fp=chrome&flow=xtls-rprx-vision&pbk=yYOCEJEfnwByiWiiSNeCMhRqmViAhavOp8QaGWHx6VI#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20254%20ms
-vless://18dbc918-7d0c-4b4c-b26f-a16aeb761788@64.188.80.199:8443?security=reality&type=tcp&sni=nspk.ru&fp=chrome&flow=xtls-rprx-vision&sid=b3a1cc510a2001c6&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4#%F0%9F%87%AB%F0%9F%87%AE%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20582%20ms
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@162.217.249.72:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=nether1cxc.chickenkiller.com&fp=chrome&flow=xtls-rprx-vision&sid=8917bfb9900788d5&pbk=MFedImeNi-4keZx_rkV8WL6jjY6sLncSaXgNjpUBPGo#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20249%20ms
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@217.179.6.101:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=franccxc3.twilightparadox.com&fp=firefox&flow=xtls-rprx-vision&sid=6257e28b6a8c0ad5&pbk=4n-kU4YGN9L_XkDepNtAohIGO15Eaxzw7BDhP1hPPU8#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20276%20ms
+vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?type=tcp&encryption=none&sni=google.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&security=reality&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20570%20ms
