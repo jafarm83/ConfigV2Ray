@@ -1,13 +1,8 @@
-#profile-title: 🚀 Jafar Verified | 6 Srv
+#profile-title: 🚀 Jafar Verified | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 10:15:32
+#updated-at: 2026-06-05 10:16:04
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://b95e6017-d54e-4016-b651-91c86aeaa463@130.49.179.127:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=fra03.helpbot.click&pbk=R7KE9NDxjwHNchukd0ZleVeHHtvKAPx4ATJouyKTFVU&sid=75c1756f3fbc4ff9#%F0%9F%87%AB%F0%9F%87%B7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20262%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.21:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20263%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.36:443?security=reality&type=tcp&packetEncoding=none&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20264%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.75:443?security=reality&type=tcp&packetEncoding=none&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20282%20ms
-vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80?security=none&type=ws&path=/vless/&host=pq-BosniaandHerzegovina1.09vpn.com&encryption=none#%F0%9F%87%A7%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20343%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.117:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20712%20ms
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@82.25.63.164:443?security=reality&type=grpc&mode=gun&serviceName=vless&sni=down.spectrum.vu&fp=chrome&sid=f2a6d1c1e4b8&pbk=ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA#%F0%9F%87%AB%F0%9F%87%B7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20315%20ms
