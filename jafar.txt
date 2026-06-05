@@ -1,10 +1,17 @@
-#profile-title: 🚀 Jafar Verified | 3 Srv
+#profile-title: 🚀 Jafar Verified | 10 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 09:32:39
+#updated-at: 2026-06-05 09:33:30
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://Fluffy_VPN-uQuRPvrt@80.89.237.87:443?security=reality&type=tcp&packetEncoding=none&sni=very-mega-best.top&fp=chrome&flow=xtls-rprx-vision&pbk=yYOCEJEfnwByiWiiSNeCMhRqmViAhavOp8QaGWHx6VI#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20262%20ms
-vless://d78c12c4-6927-40b8-8550-ed9be00334da@217.179.6.101:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=franccxc3.twilightparadox.com&fp=firefox&flow=xtls-rprx-vision&sid=6257e28b6a8c0ad5&pbk=4n-kU4YGN9L_XkDepNtAohIGO15Eaxzw7BDhP1hPPU8#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20265%20ms
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?security=reality&type=xhttp&path=/&sni=www.google.com&fp=random&sid=44&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&mode=auto&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20557%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.24:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20268%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.75:443?security=reality&type=tcp&packetEncoding=none&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20281%20ms
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@franccxc3.twilightparadox.com:443?security=reality&type=tcp&sni=franccxc3.twilightparadox.com&fp=chrome&flow=xtls-rprx-vision&sid=6257e28b6a8c0ad5&pbk=4n-kU4YGN9L_XkDepNtAohIGO15Eaxzw7BDhP1hPPU8&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20283%20ms
+vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?encryption=none&host=SC-TheNetherlands2.09vpn.com&path=/vless/&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20296%20ms
+vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?security=reality&type=raw&sni=google.com&fp=chrome&sid=3ca620a7ed5f3196&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20306%20ms
+vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@45.8.93.12:443?security=reality&type=tcp&sni=newsw.stardevs.top&fp=chrome&flow=xtls-rprx-vision&sid=f37fb7531c60780d&pbk=YU7hzDkfhfrA8v2rhMEUhgh7EQs4mHX9M60fkraccis#%F0%9F%87%B8%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20318%20ms
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?encryption=none&host=main.boobie.eu.cc&path=/&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20335%20ms
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKYWZhciB8IFx1ZDgzZFx1ZGQyNSA0NDUgbXMiLCJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJwb3J0Ijo0NDMsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiXC8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9
+vless://acb005a9-29af-437f-ba56-411a8dc9eb56@3.75.194.19:59403?security=reality&type=tcp&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=55a20409400e71&pbk=R87O7j_VmzDlIMXOd7Z6MOpp2wxxw4VZFxOmTAmugVQ#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%20468%20ms
+vless://9f9f18f8-2557-4f18-928d-e7c334a0b068@85.159.229.189:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.google.com&fp=random&sid=e6&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A#%F0%9F%87%AE%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%201287%20ms
