@@ -1,19 +1,8 @@
-#profile-title: 🚀 Jafar Verified | 12 Srv
+#profile-title: 🚀 Jafar Verified | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 20:00:53
+#updated-at: 2026-06-05 20:01:30
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://Fluffy_VPN-uQuRPvrt@80.89.237.87:443?security=reality&type=tcp&packetEncoding=none&sni=very-mega-best.top&fp=chrome&flow=xtls-rprx-vision&pbk=yYOCEJEfnwByiWiiSNeCMhRqmViAhavOp8QaGWHx6VI#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20268%20ms
-vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.samsung.com&fp=firefox&sid=a13a7cc5&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20297%20ms
-vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@62.141.42.201:443?security=reality&type=raw&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=81&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20343%20ms
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?security=reality&type=tcp&sni=eh.vk.com&fp=chrome&flow=xtls-rprx-vision&sid=8248954896&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20346%20ms
-vless://765e0908-5ec4-41e9-8bd0-6482425e4247@152.53.139.226:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&sid=19ffa83bd83eb32d&pbk=3TrzFrsFzfZAeYOclG39atVKrsJcN7Beoa4VhN5D-j4#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20347%20ms
-vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=googdas.scroogethebest.com&fp=qq&flow=xtls-rprx-vision&sid=132c271e21324e36&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo#%F0%9F%87%B1%F0%9F%87%B9%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20349%20ms
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?security=reality&type=raw&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI#%F0%9F%87%B7%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20373%20ms
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@173.245.58.80:443?security=tls&type=ws&path=/?ed=2048&host=juzi.qea.ccwu.cc&sni=juzi.qea.ccwu.cc&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20392%20ms
-vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmYyBKYWZhciB8ICA2NzAgbXMiLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOjM1MDM0LCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFRXIDEifQ==
-vless://a6b071ef-0d82-4f46-b04b-3310b8d6ca82@3.112.126.206:54055?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.icloud.com&fp=firefox&flow=xtls-rprx-vision&sid=f0b670194e8d2401&pbk=OzoYp8homkMDMozggbwqswuBiWRykfmmszFpu2_YM1g#%F0%9F%87%AF%F0%9F%87%B5%20Jafar%20%7C%20%F0%9F%92%8E%20988%20ms
-vless://d78c12c4-6927-40b8-8550-ed9be00334da@217.179.6.101:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=franccxc3.twilightparadox.com&fp=firefox&flow=xtls-rprx-vision&sid=6257e28b6a8c0ad5&pbk=4n-kU4YGN9L_XkDepNtAohIGO15Eaxzw7BDhP1hPPU8#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%201016%20ms
-vless://9168313a-6528-4567-ab18-173c8c86fc26@hd.teleincognito.com:80?security=none&type=ws&path=/tdM8fSnq1aRrgXTanQ7vaHEIH3&host=hd.teleincognito.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%202339%20ms
+vless://9168313a-6528-4567-ab18-173c8c86fc26@91.107.165.2:80?security=none&type=ws&path=/tdM8fSnq1aRrgXTanQ7vaHEIH3&host=hd.teleincognito.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%202346%20ms
