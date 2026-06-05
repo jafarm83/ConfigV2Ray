@@ -1,8 +1,11 @@
-#profile-title: 🚀 Jafar Verified | 1 Srv
+#profile-title: 🚀 Jafar Verified | 4 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 16:22:13
+#updated-at: 2026-06-05 16:24:53
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20240%20ms
+vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.samsung.com&fp=firefox&sid=a13a7cc5&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20290%20ms
+vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#%F0%9F%87%A6%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20418%20ms
+vless://18dbc918-7d0c-4b4c-b26f-a16aeb761788@64.188.80.199:8443?security=reality&type=tcp&sni=nspk.ru&fp=chrome&flow=xtls-rprx-vision&sid=b3a1cc510a2001c6&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4#%F0%9F%87%AB%F0%9F%87%AE%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20591%20ms
+vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuYW1lIjoiPj5AdjJyYXlfY29uZmlnc19wb29sOjpUVzo6VFc6OlRXOjpUVzo6VFc6OlRXOjpUVzo6VFc6OlRXOjpYWDo6WFg6OlRXOjpUVzo6VFc6OlRXIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOjM1MDM0LCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwicHMiOiJcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZmMgSmFmYXIgfCAgNjgwIG1zIn0=
