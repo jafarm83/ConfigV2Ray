@@ -1,8 +1,18 @@
-#profile-title: 🚀 Jafar Verified | 1 Srv
+#profile-title: 🚀 Jafar Verified | 11 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 05:47:29
+#updated-at: 2026-06-05 05:47:31
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&type=tcp&sni=3.71.187.131&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20219%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.10:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20265%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.99:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20267%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.30:443?security=reality&type=tcp&packetEncoding=none&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20271%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.64:443?security=reality&type=tcp&packetEncoding=none&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20272%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.36:443?security=reality&type=tcp&packetEncoding=none&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20274%20ms
+vless://9c63bf8b-1c25-4b7e-9393-71aa99cad29d@88.218.120.60:8443?security=reality&type=tcp&sni=ads.5ka.ru&fp=chrome&flow=xtls-rprx-vision&sid=612d8fa72c&pbk=1A4AgKQiz38mT1r1H0su7aAXBB7KnKOFzsQ3AdACVDs&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20341%20ms
+vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80?security=none&type=ws&path=/vless/&host=pq-BosniaandHerzegovina1.09vpn.com&encryption=none#%F0%9F%87%A7%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20346%20ms
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI#%F0%9F%87%B7%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20383%20ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEphZmFyIHwgIDQ4OSBtcyIsImFkZCI6IjIzLjIyNi4xMzUuMjMyIiwicG9ydCI6NTUzMTAsImlkIjoiMjIwNjY5NjgtZWY5MC00NTVlLWI5ODEtNGJmNzgyZDI1Mzg2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwibmFtZSI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IEBXaGl0ZUROUyB8IFVTMTE4fDIuNE1CXC9zfEdQVFx1MjA3YS1VU3xDTC1VU3xTUC1VUyJ9
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.128:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%202288%20ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.109:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%203327%20ms
