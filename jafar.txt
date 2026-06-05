@@ -1,8 +1,10 @@
-#profile-title: 🚀 Jafar Verified | 1 Srv
+#profile-title: 🚀 Jafar Verified | 3 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 22:37:51
+#updated-at: 2026-06-05 22:39:43
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://b67ed271-5a34-4d07-9970-f8ba27ca2c8a@78.17.147.65:443?security=reality&type=tcp&sni=www.microsoft.com&fp=firefox&flow=xtls-rprx-vision&sid=fcd9787f&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20346%20ms
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@178.105.103.153:443?security=reality&type=tcp&sni=max.ru&fp=chrome&sid=5e841fab&pbk=zxzgWvYs4pMN3fEduth1soI1yMZDkynb1bBM4tj85EE#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20362%20ms
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80?encryption=none&host=main.boobie.eu.cc&path=/&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20387%20ms
+vless://476caa1d-7c04-48ab-8de5-2c1af0d13a66@138.124.244.248:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=e9a8&pbk=PYX0lu3m0L_h28eW4186s63gRFHXoTc3K9wKeFewDUQ#%F0%9F%87%A8%F0%9F%87%AD%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20881%20ms
