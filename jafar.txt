@@ -1,8 +1,11 @@
-#profile-title: 🚀 Jafar Verified | 1 Srv
+#profile-title: 🚀 Jafar Verified | 4 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 17:20:58
+#updated-at: 2026-06-05 17:21:08
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?security=reality&type=raw&sni=google.com&fp=chrome&sid=3ca620a7ed5f3196&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20323%20ms
+vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80?security=none&type=ws&path=/vless/&host=pq-BosniaandHerzegovina1.09vpn.com&encryption=none#%F0%9F%87%A7%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20553%20ms
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http/1.1#%F0%9F%87%B5%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20686%20ms
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyBKYWZhciB8IFx1ZDgzZFx1ZGQyNSA3MjAgbXMiLCJhZGQiOiIxNDAuMjM4LjIuMjUwIiwicG9ydCI6NDQzLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyBLUiAxIn0=
+vless://9168313a-6528-4567-ab18-173c8c86fc26@hd.teleincognito.com:80?security=none&type=ws&path=/tdM8fSnq1aRrgXTanQ7vaHEIH3&host=hd.teleincognito.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%201302%20ms
