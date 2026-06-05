@@ -1,11 +1,8 @@
-#profile-title: 🚀 Jafar Verified | 4 Srv
+#profile-title: 🚀 Jafar Verified | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 07:34:43
+#updated-at: 2026-06-05 07:35:09
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@45.129.242.162:443?security=reality&type=raw&sni=www.samsung.com&fp=chrome&sid=a1b2c3d4&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20250%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.30:443?security=reality&type=tcp&packetEncoding=none&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20277%20ms
-vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.samsung.com&fp=firefox&sid=a13a7cc5&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20301%20ms
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI#%F0%9F%87%B7%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20371%20ms
+vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@62.141.42.201:443?security=reality&type=raw&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=81&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20326%20ms
