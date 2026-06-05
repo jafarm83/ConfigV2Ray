@@ -1,8 +1,11 @@
-#profile-title: 🚀 Jafar Verified | 1 Srv
+#profile-title: 🚀 Jafar Verified | 4 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 20:22:24
+#updated-at: 2026-06-05 20:22:28
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://acb005a9-29af-437f-ba56-411a8dc9eb56@3.75.194.19:59403?security=reality&type=tcp&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=55a20409400e71&pbk=R87O7j_VmzDlIMXOd7Z6MOpp2wxxw4VZFxOmTAmugVQ#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%20546%20ms
+vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuYW1lIjoiPj5AdjJyYXlfY29uZmlnc19wb29sOjpUVzo6VFc6OlRXOjpUVzo6VFc6OlRXOjpUVzo6VFc6OlRXOjpYWDo6WFg6OlRXOjpUVzo6VFc6OlRXIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOjM1MDM0LCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwicHMiOiJcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZmMgSmFmYXIgfCAgNjY3IG1zIn0=
+vless://950963d3-b8fb-45e7-aa84-16870b490154@45.15.152.167:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=4b1b&pbk=2lReHLDD5UCpT8FyBLPyrrIbi6MNKDBTArtCwI3NUQA#%F0%9F%87%AB%F0%9F%87%AE%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20748%20ms
+vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?security=none&type=ws&path=/vless/&encryption=none#%F0%9F%87%A6%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%201060%20ms
+vless://9168313a-6528-4567-ab18-173c8c86fc26@91.107.165.2:80?encryption=none&host=hd.teleincognito.com&path=/tdM8fSnq1aRrgXTanQ7vaHEIH3&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%201316%20ms
