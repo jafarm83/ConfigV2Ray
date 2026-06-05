@@ -2,8 +2,8 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-06 00:19:24
+#updated-at: 2026-06-06 00:19:46
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://d78c12c4-6927-40b8-8550-ed9be00334da@217.179.6.101:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=franccxc3.twilightparadox.com&fp=firefox&flow=xtls-rprx-vision&sid=6257e28b6a8c0ad5&pbk=4n-kU4YGN9L_XkDepNtAohIGO15Eaxzw7BDhP1hPPU8#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20318%20ms
-vless://251e86f6-0b56-41d3-985f-d43b41b3064b@158.160.53.173:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8&sid=bd3cda1117aa&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%201320%20ms
+vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?security=reality&type=tcp&sni=www.paypal.com&fp=chrome&flow=xtls-rprx-vision&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%20555%20ms
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=ws&path=/vless/#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%203986%20ms
