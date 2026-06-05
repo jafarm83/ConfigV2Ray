@@ -1,8 +1,9 @@
-#profile-title: 🚀 Jafar Verified | 1 Srv
+#profile-title: 🚀 Jafar Verified | 2 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-05 13:53:38
+#updated-at: 2026-06-05 13:53:51
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@62.141.42.201:443?security=reality&type=raw&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=81&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20325%20ms
+vless://Fluffy_VPN-uQuRPvrt@80.89.237.87:443?security=reality&type=tcp&packetEncoding=none&sni=very-mega-best.top&fp=chrome&flow=xtls-rprx-vision&pbk=yYOCEJEfnwByiWiiSNeCMhRqmViAhavOp8QaGWHx6VI#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20254%20ms
+vless://18dbc918-7d0c-4b4c-b26f-a16aeb761788@64.188.80.199:8443?security=reality&type=tcp&sni=nspk.ru&fp=chrome&flow=xtls-rprx-vision&sid=b3a1cc510a2001c6&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4#%F0%9F%87%AB%F0%9F%87%AE%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20582%20ms
