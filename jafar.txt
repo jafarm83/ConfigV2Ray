@@ -2,8 +2,8 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-06 08:47:18
+#updated-at: 2026-06-06 08:48:33
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?path=/vless/&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B9%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20296%20ms
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#%F0%9F%87%B7%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20363%20ms
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80?encryption=none&host=main.boobie.eu.cc&path=/&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20355%20ms
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&host=OV-Italy1.09vpn.com&path=/vless/&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B9%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20588%20ms
