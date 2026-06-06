@@ -1,9 +1,10 @@
-#profile-title: 🚀 Jafar Verified | 2 Srv
+#profile-title: 🚀 Jafar Verified | 3 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-06 10:04:39
+#updated-at: 2026-06-06 10:06:20
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#%F0%9F%87%B7%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20362%20ms
-vless://e886fa93-8260-4f8e-ba3a-4879a4d69946@85.159.229.84:443?security=reality&encryption=none&sni=www.google.com&fp=chrome&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&sid=93&spx=/&type=tcp&headerType=none&path=/#%F0%9F%87%AE%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%201748%20ms
+vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20361%20ms
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20470%20ms
+vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&type=tcp&headerType=none&path=/#%F0%9F%87%AE%F0%9F%87%B3%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20695%20ms
