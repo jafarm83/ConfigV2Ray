@@ -1,13 +1,11 @@
-#profile-title: Jafar [همه اپراتورها] | 4 Srv
+#profile-title: Jafar [همه اپراتورها] | 2 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-07 14:54:17
+#updated-at: 2026-06-07 15:04:25
 #operator: همه اپراتورها
 #operator-note: بدون فیلتر اپراتور - همه کانفیگ‌ها تست می‌شن
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://7ce70d9a-895f-4ee1-8179-328579218cd7@51.250.108.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7%20%F0%9F%92%8E%F0%9F%94%A5%20992ms
-vless://d80b0709-56fe-46cf-aea2-b2e163093788@51.250.104.246:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7%20%F0%9F%92%8E%F0%9F%94%A5%20992ms
-vless://d80b0709-56fe-46cf-aea2-b2e163093788@51.250.102.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7%20%F0%9F%92%8E%F0%9F%94%A5%202959ms
-vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?security=reality&encryption=none&pbk=tWRR3W8jBAQKBUujLzL7Xri3WXy3F08OxHYrkSOnlAc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=52a6#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7%20%F0%9F%92%8E%F0%9F%94%A5%202959ms
+vless://7ce70d9a-895f-4ee1-8179-328579218cd7@51.250.108.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7%20%F0%9F%92%8E%F0%9F%94%A5%20581ms
+trojan://Masir_Sefid@195.15.253.91:2083?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/ChZzHJgLH1mdM6A&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#%F0%9F%87%A8%F0%9F%87%AD%20Jafar%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7%20%F0%9F%92%8E%204001ms
