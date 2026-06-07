@@ -1,18 +1,16 @@
-#profile-title: 🚀 Jafar Verified | 11 Srv
+#profile-title: 🚀 Jafar Verified | 9 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-07 06:20:52
+#updated-at: 2026-06-07 06:41:39
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&sni=content.masir-sefid.shop#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20158%20ms
-vless://53342b53-157e-4475-9f3a-40439434e689@104.21.7.133:80?encryption=none&security=none&type=ws&host=c.iamdt.dpdns.org&path=/?ed=2048#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20209%20ms
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.18.41.75:80?encryption=none&security=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=/?ed=2048#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20234%20ms
-vless://9168313a-6528-4567-ab18-173c8c86fc26@91.107.165.2:80?encryption=none&host=hd.teleincognito.com&path=/tdM8fSnq1aRrgXTanQ7vaHEIH3&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20254%20ms
-vless://e284098e-7ffd-4fce-a9d3-ea6bc98ce629@162.159.19.202:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=empty-sea-3392.amir-1385-poo.workers.dev&path=/&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20277%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.25:443?flow=xtls-rprx-vision&security=reality&sni=it.s3-cloud.xyz&fp=chrome&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a&type=tcp&path=/#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20278%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.62:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20285%20ms
-vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.150.254:2095?encryption=none&security=none&type=ws&host=iioo.iioou.workers.dev&path=/#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20286%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.34:443?flow=xtls-rprx-vision&security=reality&sni=it.s3-cloud.xyz&fp=edge&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a&type=tcp&path=/#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20288%20ms
-vless://8bff837e-5cb2-4701-98e5-2a3fb39ffddb@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20445%20ms
-vless://8704ee17-1dba-4db6-8880-74ca8a172ec7@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20454%20ms
+vless://aed8656b-6479-4c04-9437-c7e16aa52a06@104.21.46.80:80?encryption=none&security=none&type=ws&host=jolly-base-0bce.hamedpop2.workers.dev&path=/eyJqdW5rIjoidXlXRjN1SVB6MllockoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20188%20ms
+vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.17.169.216:80?encryption=none&security=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=/?ed=2048#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20193%20ms
+vless://53342b53-157e-4475-9f3a-40439434e689@104.21.7.133:80?encryption=none&security=none&type=ws&host=c.iamdt.dpdns.org&path=/?ed=2048#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20194%20ms
+vless://9168313a-6528-4567-ab18-173c8c86fc26@91.107.165.2:80?encryption=none&host=hd.teleincognito.com&path=/tdM8fSnq1aRrgXTanQ7vaHEIH3&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20253%20ms
+vless://9168313a-6528-4567-ab18-173c8c86fc26@hd.teleincognito.com:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=hd.teleincognito.com&path=/tdM8fSnq1aRrgXTanQ7vaHEIH3&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20256%20ms
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?encryption=none&host=main.boobie.eu.cc&path=/&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20336%20ms
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20347%20ms
+vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20393%20ms
+vless://6c6bb37a-3315-45bc-88d6-0fbba043c07f@87.239.108.241:443?encryption=none&type=tcp&security=reality&fp=random&sni=api.cockroachservice.ru&pbk=EZ9ZUwrabGCJfowEvD4fI0ANMsxYh7hchEAbsnOTl0s&sid=803367e3aceaa5e1&spx=/fPFepC78nvVF69L#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20598%20ms
