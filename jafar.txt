@@ -1,10 +1,8 @@
-#profile-title: 🚀 Jafar Verified | 3 Srv
+#profile-title: 🚀 Jafar Verified | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-07 12:23:31
+#updated-at: 2026-06-07 12:25:27
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20407%20ms
-vless://94ae5ad5-8f3e-41bf-9546-99a1543d3cd1@77.232.136.126:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=mydogcollections.com&pbk=RsG53RnTZKpPwbKt0mnj3963DinwNFHpk3eWaHH6oG4&sid=653253254366#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20457%20ms
-vless://7283d2d5-7b14-431b-9d1f-96f2dac4a97b@83.229.14.251:58888?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%F0%9F%92%8E%201777%20ms
+vless://94ae5ad5-8f3e-41bf-9546-99a1543d3cd1@45.153.71.184:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=mydogcollections.com&pbk=RsG53RnTZKpPwbKt0mnj3963DinwNFHpk3eWaHH6oG4&sid=653253254366#%F0%9F%87%B7%F0%9F%87%BA%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%202188%20ms
