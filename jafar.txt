@@ -1,12 +1,8 @@
-#profile-title: 🚀 Jafar Verified | 5 Srv
+#profile-title: 🚀 Jafar Verified | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-07 09:05:25
+#updated-at: 2026-06-07 09:06:02
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://9168313a-6528-4567-ab18-173c8c86fc26@hd.teleincognito.com:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=hd.teleincognito.com&path=/tdM8fSnq1aRrgXTanQ7vaHEIH3&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20257%20ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.25:443?flow=xtls-rprx-vision&security=reality&sni=it.s3-cloud.xyz&fp=chrome&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a&type=tcp&path=/#%F0%9F%87%AC%F0%9F%87%A7%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20297%20ms
-vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80?encryption=none&host=main.boobie.eu.cc&path=/&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20342%20ms
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20432%20ms
-vless://a2415a12-3f92-4636-9823-9828d3ceb818@103.112.70.124:443?security=reality&sni=www.google.com&fp=firefox&pbk=zPnElIyOaaW7M9L5Ba7kWJEadJZmeMwbj1m_NnaTtgQ&sid=fa7369&type=tcp&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20978%20ms
+vless://f95710f6-2cc3-4497-9672-92a2fad9510e@download.lastilhame.monster:443?flow=xtls-rprx-vision&security=reality&sni=www.hollywoodreporter.com&fp=chrome&pbk=WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU&sid=5f5e45c2c255&type=tcp&path=/#%F0%9F%87%B3%F0%9F%87%B1%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%201337%20ms
