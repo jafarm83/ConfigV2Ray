@@ -1,4 +1,4 @@
 #profile-title: 🚀 Jafar VPN | 1 Active
-#updated-at: 2026-06-08 04:21:57
+#updated-at: 2026-06-08 04:21:58
 
-vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?type=tcp&security=reality&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%203716ms
+vless://805aec0a-32db-4eaa-8b5e-10a6651471d1@18.195.94.102:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%9B%A1%EF%B8%8F%20724ms
