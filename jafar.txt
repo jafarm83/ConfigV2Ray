@@ -1,7 +1,4 @@
-#profile-title: 🚀 Jafar VPN | 4 Active
-#updated-at: 2026-06-08 19:51:10
+#profile-title: 🚀 Jafar VPN | 1 Active
+#updated-at: 2026-06-08 19:53:28
 
-vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?security=reality&encryption=none&pbk=0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=aabbccdd#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%201488ms
-vmess://eyJhZGQiOiIxNTMuMTIxLjczLjE3NSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDNkYWNiYy0yYjdiLTQ3MTgtODNhZC1hYjg3MGY4N2UxMmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ5ODAzIiwicHMiOiLwn4+z77iPIEphZmFyIFtBbGxdIPCfm6HvuI8gMTQ4OW1zIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRlc3RfbmFtZSI6IjE1IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://3e0c34a4-1c38-4d93-88c6-5155e81f8b52@144.31.157.56:443?security=reality&encryption=none&pbk=D-7qX4fqUFKDS2dQWFgGT4fXJnABnpM6IkU8SDHLMC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=snapp.ir&sid=6ba85179e30d4fc2#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%201695ms
-vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%9B%A1%EF%B8%8F%201696ms
+vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@host13.virgool.best:55013?security=reality&amp;encryption=none&amp;pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.digikala.com&amp;sid=c385#%F0%9F%87%AE%F0%9F%87%B7%20Jafar%20%5BAll%5D%20%F0%9F%92%8E%204056ms
