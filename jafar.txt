@@ -1,5 +1,5 @@
 #profile-title: 🚀 Jafar VPN | 2 Active
-#updated-at: 2026-06-08 15:52:41
+#updated-at: 2026-06-08 15:52:46
 
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@195.96.132.125:443?security=reality&type=tcp&packetEncoding=none&sni=www.vk.ru&fp=chrome&flow=xtls-rprx-vision&sid=8237eb&pbk=WM-LMz6slGkGPD3zEM8Ntat27n6p6EfbxRsjYmTykV4#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%201075ms
-vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@2.27.13.15:443?security=reality&encryption=none&pbk=dZr14WsJ6yNqfoalMrTWBsOU74mckVoQO84Ty68TtW4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=newfn.stardevs.top&sid=b03a4d1767157467#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%201078ms
+vmess://eyJhZGQiOiIxNTMuMTIxLjczLjE3NSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJjZDNkYWNiYy0yYjdiLTQ3MTgtODNhZC1hYjg3MGY4N2UxMmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ5ODAzIiwicHMiOiLwn4+z77iPIEphZmFyIFtBbGxdIPCfm6HvuI8gMzU3M21zIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRlc3RfbmFtZSI6IjE1IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?type=tcp&security=reality&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%203576ms
