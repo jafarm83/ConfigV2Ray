@@ -1,4 +1,6 @@
-#profile-title: 🚀 Jafar VPN | 1 Active
-#updated-at: 2026-06-08 10:23:25
+#profile-title: 🚀 Jafar VPN | 3 Active
+#updated-at: 2026-06-08 10:51:37
 
-vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%9B%A1%EF%B8%8F%202734ms
+vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%9B%A1%EF%B8%8F%201155ms
+vless://765e0908-5ec4-41e9-8bd0-6482425e4247@152.53.139.226:443?security=reality&encryption=none&pbk=3TrzFrsFzfZAeYOclG39atVKrsJcN7Beoa4VhN5D-j4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=19ffa83bd83eb32d#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%206519ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.111:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%206569ms
