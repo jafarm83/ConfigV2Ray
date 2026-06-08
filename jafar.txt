@@ -1,4 +1,7 @@
-#profile-title: 🚀 Jafar VPN | 1 Active
-#updated-at: 2026-06-08 15:24:42
+#profile-title: 🚀 Jafar VPN | 4 Active
+#updated-at: 2026-06-08 15:51:16
 
-vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%9B%A1%EF%B8%8F%204892ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.111:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%20878ms
+vless://8046e3a1-83a7-4155-86e4-374153fe66f3@194.238.57.104:443?security=reality&type=tcp&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=5d&pbk=56RJlIcxwncUs5m9QSfd3waHxm6vJFBKso5IkMSsyCA&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%201407ms
+vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=reality&fp=chrome&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&sid=87ab&sni=yahoo.com&spx=/#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%201469ms
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%201518ms
