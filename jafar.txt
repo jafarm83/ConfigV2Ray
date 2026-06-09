@@ -1,4 +1,4 @@
 #profile-title: 🚀 Jafar VPN | 1 Active
-#updated-at: 2026-06-09 04:52:36
+#updated-at: 2026-06-09 04:54:46
 
-vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?encryption=none&amp;type=tcp&amp;headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%9B%A1%EF%B8%8F%20730ms
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?allowInsecure=0&sni=fra34.tracker-ws.click#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%9B%A1%EF%B8%8F%20726ms
