@@ -1,5 +1,8 @@
-#profile-title: 🚀 Jafar VPN | 2 Active
-#updated-at: 2026-06-15 02:25:01
+#profile-title: 🚀 Jafar VPN | 5 Active
+#updated-at: 2026-06-15 02:26:20
 
-trojan://humanity@v3.dabache.top:443?allowInsecure=1&sni=www.gossipglove.com&ws=1&wspath=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%5BMCI%5D%20%F0%9F%9B%A1%EF%B8%8F%203933ms
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%9B%A1%EF%B8%8F%203934ms
+vless://fb9e4c3a-936f-44c7-ac89-d5d422690fcf@77.239.114.176:19105?security=reality&encryption=none&pbk=IS6TNMONlIVvcUBvo2RXQvx2Jopcv4wzPyZhxPhWqT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=e6#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BAll%5D%20%F0%9F%92%8E%201071ms
+vless://df7a61b3-fcfb-4e88-aea6-460f83a32823@31.76.115.10:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AT8TNQB1qRljPMmLuTa2Rj765qAr8XbC3D9YpEpxkw0&security=reality&sid=abcdef12&sni=help.me3op.site&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%201073ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.110:443?security=reality&type=tcp&packetEncoding=none&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%204019ms
+vless://c897facf-2836-4538-be6e-25386fb49284@159.195.60.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=free1.anotherboring.top&fp=firefox&pbk=vTtRZ_FeFQoAigFr_pmVc_O85RaE9H8aVL0SitFYcmI&sid=53cd45d26d7b53fe&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%204843ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%206533ms
