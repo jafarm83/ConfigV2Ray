@@ -1,4 +1,4 @@
 #profile-title: 🚀 Jafar VPN | 1 Active
-#updated-at: 2026-06-15 21:57:25
+#updated-at: 2026-06-15 21:57:41
 
-vmess://eyJ2IjoyLCJwcyI6IvCfj7PvuI8gSmFmYXIgW0FsbF0g8J+boe+4jyAxMjA3bXMiLCJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsInBvcnQiOjE4MCwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0Ijoia2ZtLWJuMC5wYWdlcy5kZXYiLCJwYXRoIjoiXC8xNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWJcLz9lZFxcPTI1NjAiLCJ0bHMiOmZhbHNlLCJzbmkiOiIifQ==
+vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%20913ms
