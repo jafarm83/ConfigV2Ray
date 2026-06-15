@@ -1,6 +1,4 @@
-#profile-title: 🚀 Jafar VPN | 3 Active
-#updated-at: 2026-06-15 20:23:23
+#profile-title: 🚀 Jafar VPN | 1 Active
+#updated-at: 2026-06-15 20:25:28
 
-vless://8ea0665e-dee3-418c-8822-1f70f350f2db@de.pink-perfect.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=86b80f1e713a33ad#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%201022ms
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop:2095?security=reality&encryption=none&pbk=9nvQaypTgq2UZ_9wSUctYxStDRWNJqe3o9evmKc5UBE&headerType=none&fp=random&spx=%2F&type=tcp&sni=refersion.com&sid=bc348c28dbc7b9f5#%F0%9F%87%A9%F0%9F%87%AA%20Jafar%20%5BAll%5D%20%F0%9F%92%8E%205513ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.210:443?encryption=none&type=ws&security=tls&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%9B%A1%EF%B8%8F%205519ms
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@96.126.129.195:2040?encryption=none&fp=chrome&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BAll%5D%20%F0%9F%92%8E%20875ms
