@@ -1,5 +1,7 @@
-#profile-title: 🚀 Jafar VPN | 2 Active
-#updated-at: 2026-06-15 04:54:34
+#profile-title: 🚀 Jafar VPN | 4 Active
+#updated-at: 2026-06-15 04:58:32
 
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@91.225.217.94:443?security=reality&encryption=none&pbk=vYAxsSvDFRv3AFxbenjrq3jRG_p8o_wER-I8x-7aSwU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=062f#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%201152ms
-vmess://eyJ2IjoyLCJwcyI6IvCfj7PvuI8gSmFmYXIgW0FsbF0g8J+boe+4jyAxMTgxbXMiLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwicG9ydCI6MTgwLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiI0MTIwLWJlMDQtMTNFRjU2MDk2OTg5LjQ1Ny5QcC5VYSIsInBhdGgiOiJcL2tUNVZIWWNNcnBoZXNxUk96U1BvSHJCbyIsInRscyI6ZmFsc2UsInNuaSI6IiJ9
+vmess://eyJ2IjoyLCJwcyI6IvCfj7PvuI8gSmFmYXIgW0FsbF0g8J+boe+4jyAxMjI3bXMiLCJhZGQiOiI4Mi4xOTguMjQ2LjM3IiwicG9ydCI6MTgwLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiI4Mi4xOTguMjQ2LjM3IiwicGF0aCI6IlwvIiwidGxzIjpmYWxzZSwic25pIjoiIn0=
+vless://c8a930cb-7a41-403f-922a-0b2148a75e05@57.180.22.236:12524?security=reality&encryption=none&pbk=snK07S_XyboGtyPOcmLFn4aNuxaRwHBG8w8JH2K0RS4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=2895e9532d0c#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BAll%5D%20%F0%9F%92%8E%201752ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.110:443?security=reality&type=tcp&packetEncoding=none&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%201757ms
+vless://977f2eea-9f37-417b-bdc3-5abfba1e54df@ca-dp-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=d3ee47fc2f553c44&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%201759ms
