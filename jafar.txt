@@ -1,4 +1,6 @@
-#profile-title: 🚀 Jafar VPN | 1 Active
-#updated-at: 2026-06-15 07:55:13
+#profile-title: 🚀 Jafar VPN | 3 Active
+#updated-at: 2026-06-15 07:55:16
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMTN%5D%20%F0%9F%9B%A1%EF%B8%8F%205008ms
+vmess://eyJ2IjoyLCJwcyI6IvCfj7PvuI8gSmFmYXIgW0FsbF0g8J+boe+4jyAxMjY0bXMiLCJhZGQiOiI4Mi4xOTguMjQ2LjIxNCIsInBvcnQiOjE4MCwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiZnJhMzUuY2hhc2VtMjAyNnN1ZC5jb20iLCJwYXRoIjoiXC8iLCJ0bHMiOmZhbHNlLCJzbmkiOiIifQ==
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BAll%5D%20%F0%9F%9B%A1%EF%B8%8F%206420ms
+vless://82a7f52c-f047-4f8c-b913-3ea1f29bdb38@it-8.flowersred.ru:443?security=reality&encryption=none&pbk=5pj_m0SB8p5ah-Jc7QZrF5iEVeeLyZY8fWM6OZWj5FM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#%F0%9F%87%AE%F0%9F%87%B9%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%206431ms
