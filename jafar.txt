@@ -1,7 +1,4 @@
-#profile-title: 🚀 Jafar VPN | 4 Active
-#updated-at: 2026-06-15 12:52:02
+#profile-title: 🚀 Jafar VPN | 1 Active
+#updated-at: 2026-06-15 12:54:08
 
-vless://17451fec-af94-4715-8c2f-7f6839130d0a@96.126.129.195:2040?encryption=none&fp=chrome&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BAll%5D%20%F0%9F%92%8E%20915ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.111:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%201442ms
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.25:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%203537ms
-vmess://eyJ2IjoyLCJwcyI6IvCfj7PvuI8gSmFmYXIgW0FsbF0g8J+boe+4jyA2NTMzbXMiLCJhZGQiOiI4Mi4xOTguMjQ2LjM3IiwicG9ydCI6MTgwLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiI4Mi4xOTguMjQ2LjM3IiwicGF0aCI6IlwvIiwidGxzIjpmYWxzZSwic25pIjoiIn0=
+vless://97bf06ad-c9a8-4ea4-afb5-9092cc092214@45.195.137.72:8443?flow=xtls-rprx-vision&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=cf9d145ad8f1ea55&sni=storage.yandex.net&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%201654ms
