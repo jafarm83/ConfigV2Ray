@@ -1,5 +1,5 @@
 #profile-title: 🚀 Jafar VPN | 2 Active
-#updated-at: 2026-06-15 15:54:46
+#updated-at: 2026-06-15 15:56:30
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSmFmYXIgW0FsbF0g8J+boe+4jyA5MzltcyIsImFkZCI6InYxMC5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MDciLCJ0eXBlIjoibm9uZSIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMiIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiJ2MTAuaGRhY2QuY29tIiwidGxzIjoiIn0=
-vless://35762c02-ff2b-4526-b41b-e96e5d99528b@151.241.228.254:34754?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eMijZKuJlNEciXbhyzdbewk-ot_JLMZVaA42bxKFcBM&security=reality&sid=c9eb0359fac0c345&sni=yahoo.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BAll%5D%20%F0%9F%92%8E%201254ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%20948ms
+vless://9e13f74e-3ad7-437d-aba6-5def3c42b046@64.49.44.87:19107?security=reality&encryption=none&pbk=rdfVgNqwK528X1X4ZdKe9abvTm7yMICZ5FRUmdYLF14&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=bedc231e12dd39#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BAll%5D%20%F0%9F%92%8E%201728ms
