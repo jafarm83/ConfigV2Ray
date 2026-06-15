@@ -1,6 +1,4 @@
-#profile-title: 🚀 Jafar VPN | 3 Active
-#updated-at: 2026-06-15 07:53:11
+#profile-title: 🚀 Jafar VPN | 1 Active
+#updated-at: 2026-06-15 07:55:13
 
-vless://82a7f52c-f047-4f8c-b913-3ea1f29bdb38@it-8.flowersred.ru:443?security=reality&encryption=none&pbk=5pj_m0SB8p5ah-Jc7QZrF5iEVeeLyZY8fWM6OZWj5FM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#%F0%9F%87%AE%F0%9F%87%B9%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%20924ms
-vless://df7a61b3-fcfb-4e88-aea6-460f83a32823@31.76.115.10:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AT8TNQB1qRljPMmLuTa2Rj765qAr8XbC3D9YpEpxkw0&security=reality&sid=abcdef12&sni=help.me3op.site&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%201533ms
-vless://9e13f74e-3ad7-437d-aba6-5def3c42b046@64.49.44.87:19107?security=reality&encryption=none&pbk=rdfVgNqwK528X1X4ZdKe9abvTm7yMICZ5FRUmdYLF14&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=bedc231e12dd39#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BAll%5D%20%F0%9F%92%8E%205129ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMTN%5D%20%F0%9F%9B%A1%EF%B8%8F%205008ms
