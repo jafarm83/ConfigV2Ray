@@ -1,6 +1,7 @@
-#profile-title: 🚀 Jafar VPN | 3 Active
-#updated-at: 2026-06-15 11:53:17
+#profile-title: 🚀 Jafar VPN | 4 Active
+#updated-at: 2026-06-15 11:54:05
 
-vmess://eyJ2IjoyLCJwcyI6IvCfj7PvuI8gSmFmYXIgW0FsbF0g8J+boe+4jyAxMTk0bXMiLCJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsInBvcnQiOjE4MCwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0Ijoia2ZtLWJuMC5wYWdlcy5kZXYiLCJwYXRoIjoiXC8xNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWJcLz9lZFxcPTI1NjAiLCJ0bHMiOmZhbHNlLCJzbmkiOiIifQ==
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BAll%5D%20%F0%9F%9B%A1%EF%B8%8F%202450ms
-vless://82a7f52c-f047-4f8c-b913-3ea1f29bdb38@it-8.flowersred.ru:443?security=reality&encryption=none&pbk=5pj_m0SB8p5ah-Jc7QZrF5iEVeeLyZY8fWM6OZWj5FM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#%F0%9F%87%AE%F0%9F%87%B9%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%205792ms
+vless://c8a930cb-7a41-403f-922a-0b2148a75e05@57.180.22.236:12524?security=reality&encryption=none&pbk=snK07S_XyboGtyPOcmLFn4aNuxaRwHBG8w8JH2K0RS4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=2895e9532d0c#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BAll%5D%20%F0%9F%92%8E%201821ms
+vless://9e13f74e-3ad7-437d-aba6-5def3c42b046@64.49.44.87:19107?security=reality&encryption=none&pbk=rdfVgNqwK528X1X4ZdKe9abvTm7yMICZ5FRUmdYLF14&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=bedc231e12dd39#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BAll%5D%20%F0%9F%92%8E%201823ms
+vmess://eyJ2IjoyLCJwcyI6IvCfj7PvuI8gSmFmYXIgW0FsbF0g8J+boe+4jyAxODM0bXMiLCJhZGQiOiI4Mi4xOTguMjQ2LjM3IiwicG9ydCI6MTgwLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiI4Mi4xOTguMjQ2LjM3IiwicGF0aCI6IlwvIiwidGxzIjpmYWxzZSwic25pIjoiIn0=
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@96.126.129.195:2040?encryption=none&fp=chrome&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BAll%5D%20%F0%9F%92%8E%206523ms
