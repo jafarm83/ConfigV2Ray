@@ -1,4 +1,5 @@
-#profile-title: 🚀 Jafar VPN | 1 Active
-#updated-at: 2026-06-15 04:54:31
+#profile-title: 🚀 Jafar VPN | 2 Active
+#updated-at: 2026-06-15 04:54:34
 
-vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?path=%2F&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20Jafar%20%5BMTN%5D%20%F0%9F%9B%A1%EF%B8%8F%201217ms
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@91.225.217.94:443?security=reality&encryption=none&pbk=vYAxsSvDFRv3AFxbenjrq3jRG_p8o_wER-I8x-7aSwU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=062f#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%5BMCI%5D%20%F0%9F%92%8E%201152ms
+vmess://eyJ2IjoyLCJwcyI6IvCfj7PvuI8gSmFmYXIgW0FsbF0g8J+boe+4jyAxMTgxbXMiLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwicG9ydCI6MTgwLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiI0MTIwLWJlMDQtMTNFRjU2MDk2OTg5LjQ1Ny5QcC5VYSIsInBhdGgiOiJcL2tUNVZIWWNNcnBoZXNxUk96U1BvSHJCbyIsInRscyI6ZmFsc2UsInNuaSI6IiJ9
