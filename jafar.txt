@@ -2,8 +2,8 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-18 18:29:15
+#updated-at: 2026-06-18 18:49:51
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://c56ff6cc-3aca-4db7-84c5-3dca67c7a1ff@45.195.137.5:8443?security=reality&amp%3Bencryption=none&amp%3Bpbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=storage.yandex.net&amp%3Bsid=cf9d145ad8f1ea55#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20211ms
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&amp%3Bencryption=none&amp%3Bpbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bsni=yahoo.com&amp%3Bsid=2001#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%92%8E%202275ms
+vless://c56ff6cc-3aca-4db7-84c5-3dca67c7a1ff@45.195.137.5:8443?security=reality&amp%3Bencryption=none&amp%3Bpbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=storage.yandex.net&amp%3Bsid=cf9d145ad8f1ea55#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20167ms
+vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&amp%3Bencryption=none&amp%3Bpbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bsni=yahoo.com&amp%3Bsid=2001#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%92%8E%203640ms
