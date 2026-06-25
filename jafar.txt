@@ -1,11 +1,12 @@
-#profile-title: 🚀 Jafar Elite | 4 Srv
+#profile-title: 🚀 Jafar Elite | 5 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-26 02:46:35
+#updated-at: 2026-06-26 03:07:02
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://481969d4-60bc-48ab-9e34-82e6922a4aaa@141.94.33.9:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=PBCl9OfRnF_aviBb-bODLQDU3NuUDKKx0NGvYD3ZpgU&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=ip.dnswish.com&amp%3Bsid=11d7e6e5a3d76a9d#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20182ms
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?security=reality&amp%3Bencryption=none&amp%3Bpbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bsni=www.samsung.com&amp%3Bsid=05fdaa8a05be46a9#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%92%8E%20191ms
+vless://481969d4-60bc-48ab-9e34-82e6922a4aaa@141.94.33.9:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=PBCl9OfRnF_aviBb-bODLQDU3NuUDKKx0NGvYD3ZpgU&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=ip.dnswish.com&amp%3Bsid=11d7e6e5a3d76a9d#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20174ms
+vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?security=reality&amp%3Bencryption=none&amp%3Bpbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bsni=www.samsung.com&amp%3Bsid=05fdaa8a05be46a9#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%92%8E%20202ms
 vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.180:8443?security=reality&amp%3Bencryption=none&amp%3Bpbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&amp%3BheaderType=none&amp%3Bfp=firefox&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=storage.yandex.net&amp%3Bsid=2cfb5a0ae8ab0cb0#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20209ms
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp%3BheaderType=none&amp%3Bfp=firefox&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=enterprisekitten.com&amp%3Bsid=6ba85179e30d4fc2#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20212ms
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp%3BheaderType=none&amp%3Bfp=firefox&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=enterprisekitten.com&amp%3Bsid=6ba85179e30d4fc2#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20213ms
+vless://481969d4-60bc-48ab-9e34-82e6922a4aaa@84.32.217.191:2087?security=reality&amp%3Bencryption=none&amp%3Bpbk=4OIOh3Ln3d2q3USqev7GGZcOIIMOhXcxtSg2EiBu6Cs&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=dl.google.com&amp%3Bsid=7bbd0412575b0262#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%92%8E%20271ms
