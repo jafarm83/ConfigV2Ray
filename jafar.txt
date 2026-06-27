@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-27 10:17:02
+#updated-at: 2026-06-27 10:37:53
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://5d5b12de-0da5-3243-f674-e75a691053f3@104.18.32.47:2053?security=tls&sni=daltun.daltunads.workers.dev&insecure=1&fp=chrome&type=ws&path=%2Fsync&host=daltun.daltunads.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20182ms
+vless://5d5b12de-0da5-3243-f674-e75a691053f3@104.18.32.47:2053?security=tls&sni=daltun.daltunads.workers.dev&insecure=1&fp=chrome&type=ws&path=%2Fsync&host=daltun.daltunads.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20175ms
