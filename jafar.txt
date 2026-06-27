@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-27 21:39:16
+#updated-at: 2026-06-27 21:59:53
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-trojan://humanity@172.64.155.209:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20169ms
+trojan://humanity@172.64.155.209:443?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20172ms
