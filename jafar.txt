@@ -2,9 +2,9 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-29 02:24:39
+#updated-at: 2026-06-29 02:45:31
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-trojan://humanity@172.64.155.209:443?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20271ms
-trojan://humanity@104.18.32.47:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20294ms
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.20:443?type=ws&encryption=none&host=amoosamiii.net&path=/poiuyws&security=tls&sni=amoosamiii.net#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20309ms
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.20:443?type=ws&encryption=none&host=amoosamiii.net&path=/poiuyws&security=tls&sni=amoosamiii.net#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20262ms
+trojan://humanity@104.18.32.47:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20281ms
+trojan://humanity@172.64.155.209:443?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20288ms
