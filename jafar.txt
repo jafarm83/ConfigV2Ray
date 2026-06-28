@@ -1,10 +1,12 @@
-#profile-title: 🚀 Jafar Elite | 3 Srv
+#profile-title: 🚀 Jafar Elite | 5 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-29 03:06:21
+#updated-at: 2026-06-29 03:27:18
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-trojan://humanity@104.18.32.47:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20207ms
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.20:443?type=ws&encryption=none&host=amoosamiii.net&path=/poiuyws&security=tls&sni=amoosamiii.net#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20240ms
-trojan://humanity@172.64.155.209:443?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20292ms
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@162.159.36.5:2053?encryption=none&fp=chrome&host=balafi7691.pages.dev&path=/jump/tv/content&security=tls&sni=balafi7691.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20165ms
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@162.159.36.20:2053?encryption=none&fp=chrome&host=balafi7691.pages.dev&path=%2Fjump%2Ftv%2Fcontent&security=tls&sni=balafi7691.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20165ms
+vless://5d5b12de-0da5-3243-f674-e75a691053f3@104.18.32.47:443?security=tls&sni=daltun.daltunads.workers.dev&insecure=1&fp=chrome&type=ws&path=%2Fsync&host=daltun.daltunads.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20294ms
+vless://5d5b12de-0da5-3243-f674-e75a691053f3@104.18.32.47:2083?security=tls&sni=daltun.daltunads.workers.dev&insecure=1&fp=chrome&type=ws&path=%2Fsync&host=daltun.daltunads.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20304ms
+vless://5d5b12de-0da5-3243-f674-e75a691053f3@104.18.32.47:2053?security=tls&sni=daltun.daltunads.workers.dev&insecure=1&fp=chrome&type=ws&path=%2Fsync&host=daltun.daltunads.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20304ms
