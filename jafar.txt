@@ -2,8 +2,8 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-06-29 09:02:30
+#updated-at: 2026-06-29 09:23:44
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@162.159.36.5:2053?encryption=none&fp=chrome&host=balafi7691.pages.dev&path=%2Fjump%2Ftv%2Fcontent&security=tls&sni=balafi7691.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20152ms
-vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@162.159.36.20:2053?encryption=none&fp=chrome&host=balafi7691.pages.dev&path=/jump/tv/content&security=tls&sni=balafi7691.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20157ms
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@162.159.36.5:2053?encryption=none&fp=chrome&host=balafi7691.pages.dev&path=%2Fjump%2Ftv%2Fcontent&security=tls&sni=balafi7691.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20159ms
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@162.159.36.20:2053?encryption=none&fp=chrome&host=balafi7691.pages.dev&path=/jump/tv/content&security=tls&sni=balafi7691.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20162ms
