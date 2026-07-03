@@ -2,8 +2,8 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-07-03 18:12:31
+#updated-at: 2026-07-03 18:33:17
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-trojan://humanity@172.64.155.209:443?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20160ms
-vless://f0db70ae-559e-4cba-aa00-3a04eb04c3e0@172.66.47.125:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=fm3.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20180ms
+vless://f0db70ae-559e-4cba-aa00-3a04eb04c3e0@172.66.47.125:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=fm3.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20170ms
+trojan://humanity@172.64.155.209:443?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20188ms
