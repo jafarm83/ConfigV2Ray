@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-07-05 12:48:07
+#updated-at: 2026-07-05 13:08:54
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-trojan://PI36027154@87.121.33.208:443?security=tls&sni=tight-possum.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20667ms
+trojan://PI36027154@87.121.33.208:443?security=tls&sni=tight-possum.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20659ms
