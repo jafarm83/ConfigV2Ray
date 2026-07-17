@@ -1,16 +1,8 @@
-#profile-title: 🚀 Jafar Elite | 9 Srv
+#profile-title: 🚀 Jafar Elite | 1 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-07-16 21:51:17
+#updated-at: 2026-07-17 07:52:29
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.13.196:8443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20150ms
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.41.198:8443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20151ms
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@8.39.125.201:2087?encryption=none&fp=chrome&host=vp8.cc.cd&path=%2F&security=tls&sni=vp8.cc.cd&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20153ms
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.3.48:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20153ms
-vless://b3abfae4-1a95-4c78-afd0-6adc9e560a82@198.41.208.76:8443?mode=auto&path=/@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=sa.sorixset.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=sa.sorixset.ir#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20155ms
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.14.252:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20155ms
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.1.170:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20162ms
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@198.41.223.238:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20162ms
-vless://6e76eb41-46c0-438a-8e23-3c3abc7bfd77@162.159.17.145:2087?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ez-7e157e.alexianoo.workers.dev&path=%2FeyJqdW5rIjoidFRZQUtRSm9iSXdDY1MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=eZ-7e157E.AlEXIANOo.WorKeRs.dEv&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20165ms
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.1.170:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20175ms
