@@ -2,8 +2,8 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-07-28 14:12:45
+#updated-at: 2026-07-28 14:33:32
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://68081c3e-77c2-4d22-81d5-cccedb7ca37b@172.64.146.66:2053?encryption=none&host=maoyibai.ccwu.cc&path=%2F&security=tls&sni=maoyibai.ccwu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20178ms
-vless://68081c3e-77c2-4d22-81d5-cccedb7ca37b@104.18.41.190:2053?encryption=none&host=maoyibai.ccwu.cc&path=/&security=tls&sni=maoyibai.ccwu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20183ms
+vless://68081c3e-77c2-4d22-81d5-cccedb7ca37b@172.64.146.66:2053?encryption=none&host=maoyibai.ccwu.cc&path=%2F&security=tls&sni=maoyibai.ccwu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20180ms
+vless://68081c3e-77c2-4d22-81d5-cccedb7ca37b@104.18.41.190:2053?encryption=none&host=maoyibai.ccwu.cc&path=/&security=tls&sni=maoyibai.ccwu.cc&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20192ms
