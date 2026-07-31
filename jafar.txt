@@ -2,8 +2,8 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-07-31 21:35:12
+#updated-at: 2026-07-31 21:55:48
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://8dfaad88-18fb-4f84-a3fe-9c9e19538141@172.66.47.45:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=randomized&host=cfn-0vn.pages.dev&path=/&security=tls&sni=cfn-0vn.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20182ms
-vless://8dfaad88-18fb-4f84-a3fe-9c9e19538141@172.66.44.211:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=randomized&host=cfn-0vn.pages.dev&path=%2F&security=tls&sni=cfn-0vn.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20182ms
+vless://8dfaad88-18fb-4f84-a3fe-9c9e19538141@172.66.47.45:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=randomized&host=cfn-0vn.pages.dev&path=/&security=tls&sni=cfn-0vn.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20170ms
+vless://8dfaad88-18fb-4f84-a3fe-9c9e19538141@172.66.44.211:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=randomized&host=cfn-0vn.pages.dev&path=%2F&security=tls&sni=cfn-0vn.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20174ms
