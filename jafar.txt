@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-08-08 05:31:15
+#updated-at: 2026-08-09 22:18:13
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.27:2096?type=ws&encryption=none&host=free-server.techsonic.dev&path=/free-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&fp=firefox#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20178ms
+trojan://MiTiVPN@188.114.97.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fdde---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=0&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20182ms
