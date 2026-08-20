@@ -1,13 +1,18 @@
-#profile-title: 🚀 Jafar Elite | 6 Srv
+#profile-title: 🚀 Jafar Elite | 11 Srv
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-08-20 17:29:18
+#updated-at: 2026-08-20 17:49:42
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20230ms
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@8.39.125.152:8443?encryption=none&fp=chrome&host=bitter-shadow-4fc5.alvlirm852.workers.dev&path=%2F&security=tls&sni=bitter-shadow-4fc5.alvlirm852.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20240ms
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.87:2096?encryption=none&fp=firefox&host=go.iranfree.de5.net&path=%2Ffp%3Dchromefp%3Dchrome&security=tls&sni=go.iranfree.de5.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20241ms
-vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xNbnNaVU40XC8iLCJwb3J0Ijo4NDQzLCJwcyI6IvCfj7PvuI8gSmFmYXIgfCDwn5uh77iP8J+UpSAyNDltcyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.49.39:443?security=tls&type=ws&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20249ms
-vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?encryption=none&fp=chrome&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=%2Ffp%3Dchrome&security=tls&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20267ms
+vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@172.64.155.209:443?alpn=h2&encryption=none&host=GERMAN.sarzamiiinahang.ir&mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&sni=GERMAN.sarzamiiinahang.ir&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20188ms
+vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@104.18.32.47:443?alpn=h2&encryption=none&host=GERMAN.sarzamiiinahang.ir&mode=auto&path=/Meh?di=443&security=tls&sni=GERMAN.sarzamiiinahang.ir&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20189ms
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=/?TELEGRAM-NexVexo_NexVexo_NexVexo_NexVexo_NexVexo?ed=512#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20190ms
+trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20224ms
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.19.64.105:8443?security=tls&type=ws&path=/download.php&host=chopin.adaspoloandco.com&alpn=h2,http/1.1&sni=chopin.adaspoloandco.com&fp=chrome&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20226ms
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.49.18:443?security=tls&type=ws&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20227ms
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.111.27:8443?encryption=none&fp=chrome&host=round-art-52ee.eadfgv.workers.dev&path=/&security=tls&sni=round-art-52ee.eadfgv.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20228ms
+vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?encryption=none&fp=chrome&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=%2Ffp%3Dchrome&security=tls&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20232ms
+vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xNbnNaVU40XC8iLCJwb3J0Ijo4NDQzLCJwcyI6IvCfj7PvuI8gSmFmYXIgfCDwn5uh77iP8J+UpSAyNDhtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://73796e63-0000-4000-8000-000000000000@104.16.174.164:443?security=tls&type=ws&path=/sync&host=wireguard.ahmad-kh5716.workers.dev&sni=wireguard.ahmad-kh5716.workers.dev&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20249ms
+vless://8525fe74-67e6-4a55-8a26-95f227bd1384@8.39.125.152:8443?encryption=none&fp=chrome&host=bitter-shadow-4fc5.alvlirm852.workers.dev&path=/&security=tls&sni=bitter-shadow-4fc5.alvlirm852.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20261ms
