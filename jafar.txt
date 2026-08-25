@@ -2,11 +2,11 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-08-25 21:18:58
+#updated-at: 2026-08-25 21:39:20
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&fp=firefox&type=xhttp&sni=www.google.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20180ms
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@194.59.5.46:2096?allowInsecure=1&encryption=none&host=wild-sky-f384.alvlirm3737.workers.dev&path=/proxyip=172.86.93.55,194.99.20.245,46.101.165.85,46.101.181.132,209.38.201.199,165.22.89.207,207.154.242.240,64.188.83.202&security=tls&sni=wild-sky-f384.alvlirm3737.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20218ms
-vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.111.27:8443?encryption=none&fp=chrome&host=round-art-52ee.eadfgv.workers.dev&path=%2F&security=tls&sni=round-art-52ee.eadfgv.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20243ms
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.87:2096?encryption=none&fp=firefox&host=go.iranfree.de5.net&path=/fp=chromefp=chrome&security=tls&sni=go.iranfree.de5.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20245ms
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.18.42.54:2087?security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=qq&type=ws&path=/#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20260ms
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?mode=auto&path=/&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&fp=firefox&type=xhttp&sni=www.google.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%92%8E%F0%9F%94%A5%20166ms
+vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.87:2096?encryption=none&fp=firefox&host=go.iranfree.de5.net&path=%2Ffp%3Dchromefp%3Dchrome&security=tls&sni=go.iranfree.de5.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20221ms
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.18.42.54:2087?security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=qq&type=ws&path=/#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20230ms
+vless://8525fe74-67e6-4a55-8a26-95f227bd1384@194.59.5.46:2096?allowInsecure=1&encryption=none&host=wild-sky-f384.alvlirm3737.workers.dev&path=/proxyip=172.86.93.55,194.99.20.245,46.101.165.85,46.101.181.132,209.38.201.199,165.22.89.207,207.154.242.240,64.188.83.202&security=tls&sni=wild-sky-f384.alvlirm3737.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20258ms
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.111.27:8443?encryption=none&fp=chrome&host=round-art-52ee.eadfgv.workers.dev&path=%2F&security=tls&sni=round-art-52ee.eadfgv.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20259ms
