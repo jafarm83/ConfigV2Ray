@@ -2,21 +2,21 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-09-05 19:07:26
+#updated-at: 2026-09-05 19:27:49
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-trojan://humanity@188.114.98.0:443?host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20192ms
-trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20222ms
-trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20224ms
-vless://7e81824b-35e0-4eb1-89e9-592f0c92aa6b@104.21.46.128:443?encryption=none&security=tls&sni=yx.zhourf2006.dpdns.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20230ms
-vless://ea50b1a3-3a98-4c5e-a150-48ada40d68d7@172.67.222.62:443?encryption=none&security=tls&sni=cf-vless-4cf55824.aimall.fr&fp=chrome&type=ws&host=cf-vless-4cf55824.aimall.fr&path=%2Fconnect#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20232ms
-trojan://n9c6f0usjhj6kqbq@104.21.65.43:2087?alpn=h2&fp=chrome&host=uwu.dianaw.cc.cd&path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&security=tls&sni=uwu.dianaw.cc.cd&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20244ms
-vless://4908acbe-485f-4e1c-bb11-5dd04b9f7e88@104.21.90.36:443?encryption=none&host=restless-base-fe24.alirezahabibi20009.workers.dev&path=%2FeyJqdW5rIjoiRjhycEV5WUpJTGZpQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20250ms
-trojan://humanity@104.18.9.83:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=//assignment#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20250ms
-trojan://humanity@104.16.174.14:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20250ms
-trojan://humanity@104.18.152.155:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20251ms
-vless://d042a74a-c305-4eec-a89f-39a348022c92@208.103.161.5:443?encryption=none&fp=chrome&host=dry-butterfly-8eb9.tmpgnacio83.workers.dev&path=%2F&security=tls&sni=dry-butterfly-8eb9.tmpgnacio83.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20251ms
-trojan://humanity@104.21.103.254:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&alpn=http/1.1#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20252ms
-vless://08125d23-5500-41ae-97ef-8398eaf70562@172.67.181.232:2053?alpn=h2&encryption=none&fp=chrome&host=uwu.blueknightnet.qzz.io&path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&security=tls&sni=uwu.blueknightnet.qzz.io&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20253ms
-trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20253ms
-trojan://humanity@104.18.152.50:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20255ms
+trojan://humanity@188.114.98.0:443?host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20179ms
+trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20218ms
+vless://ea50b1a3-3a98-4c5e-a150-48ada40d68d7@172.67.222.62:443?encryption=none&security=tls&sni=cf-vless-4cf55824.aimall.fr&fp=chrome&type=ws&host=cf-vless-4cf55824.aimall.fr&path=%2Fconnect#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20219ms
+vless://7e81824b-35e0-4eb1-89e9-592f0c92aa6b@104.21.46.128:443?encryption=none&security=tls&sni=yx.zhourf2006.dpdns.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20221ms
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20221ms
+trojan://humanity@104.18.152.50:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20229ms
+trojan://humanity@104.18.152.155:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20239ms
+vless://4908acbe-485f-4e1c-bb11-5dd04b9f7e88@104.21.90.36:443?encryption=none&host=restless-base-fe24.alirezahabibi20009.workers.dev&path=%2FeyJqdW5rIjoiRjhycEV5WUpJTGZpQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20240ms
+trojan://n9c6f0usjhj6kqbq@104.21.65.43:2087?alpn=h2&fp=chrome&host=uwu.dianaw.cc.cd&path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&security=tls&sni=uwu.dianaw.cc.cd&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20240ms
+trojan://humanity@104.16.174.14:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20243ms
+trojan://humanity@104.18.9.83:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=//assignment#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20244ms
+trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20246ms
+trojan://humanity@104.21.103.254:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&alpn=http/1.1#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20248ms
+vless://a3dc82ea-67df-423d-b322-8bc0b0790f41@172.67.181.232:2053?alpn=h2&encryption=none&fp=chrome&host=uwu.blueknightnet.qzz.io&path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&security=tls&sni=uwu.blueknightnet.qzz.io&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20258ms
+vless://d042a74a-c305-4eec-a89f-39a348022c92@208.103.161.5:443?encryption=none&fp=chrome&host=dry-butterfly-8eb9.tmpgnacio83.workers.dev&path=%2F&security=tls&sni=dry-butterfly-8eb9.tmpgnacio83.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20259ms
