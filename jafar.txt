@@ -2,10 +2,10 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-10-08 10:30:15
+#updated-at: 2026-10-08 10:50:37
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://d042a74a-c305-4eec-a89f-39a348022c92@208.103.161.5:443?encryption=none&fp=chrome&host=dry-butterfly-8eb9.tmpgnacio83.workers.dev&path=%2F&security=tls&sni=dry-butterfly-8eb9.tmpgnacio83.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20233ms
-trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20275ms
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=xwrivr.pages.dev&path=%2F&security=tls&sni=xwrivr.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20275ms
-vless://4908acbe-485f-4e1c-bb11-5dd04b9f7e88@104.21.90.36:443?encryption=none&host=restless-base-fe24.alirezahabibi20009.workers.dev&path=%2FeyJqdW5rIjoiRjhycEV5WUpJTGZpQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20300ms
+vless://d042a74a-c305-4eec-a89f-39a348022c92@208.103.161.5:443?encryption=none&fp=chrome&host=dry-butterfly-8eb9.tmpgnacio83.workers.dev&path=%2F&security=tls&sni=dry-butterfly-8eb9.tmpgnacio83.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20241ms
+vless://4908acbe-485f-4e1c-bb11-5dd04b9f7e88@104.21.90.36:443?encryption=none&host=restless-base-fe24.alirezahabibi20009.workers.dev&path=%2FeyJqdW5rIjoiRjhycEV5WUpJTGZpQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20278ms
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20291ms
+trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20293ms
