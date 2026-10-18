@@ -2,9 +2,9 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://github.com/jafarm83
 #subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
-#updated-at: 2026-10-18 11:20:23
+#updated-at: 2026-10-18 11:40:48
 #support-url: https://github.com/jafarm83/ConfigV2Ray
 
-vless://64726966-0000-4000-8000-740000000000@172.64.155.209:443?encryption=none&security=tls&sni=parsa-panel-dy55x.railway1385-2a46.workers.dev&alpn=http/1.1&type=ws&host=parsa-panel-dy55x.railway1385-2a46.workers.dev&path=/drift#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20176ms
-vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.98.0:443?encryption=none&security=tls&type=ws&host=a.cwvps.eu.org&path=/ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20185ms
-vless://b8b01773-36b1-4b49-9bd0-6249f52345b4@63.141.128.22:443?encryption=none&host=MiSty-tooth-78cA.FoboGAH414-e7B.WoRKERs.DEv&path=%2FeyJqdW5rIjoiTkNUaFg0ZnJNUjhhcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=MiSty-tooth-78cA.FoboGAH414-e7B.WoRKERs.DEv&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20237ms
+vless://64726966-0000-4000-8000-740000000000@172.64.155.209:443?encryption=none&security=tls&sni=parsa-panel-dy55x.railway1385-2a46.workers.dev&alpn=http/1.1&type=ws&host=parsa-panel-dy55x.railway1385-2a46.workers.dev&path=/drift#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20179ms
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.98.0:443?security=tls&type=ws&host=a.cwvps.eu.org&path=/ws?ed#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20180ms
+vless://b8b01773-36b1-4b49-9bd0-6249f52345b4@63.141.128.22:443?encryption=none&host=MiSty-tooth-78cA.FoboGAH414-e7B.WoRKERs.DEv&path=%2FeyJqdW5rIjoiTkNUaFg0ZnJNUjhhcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=MiSty-tooth-78cA.FoboGAH414-e7B.WoRKERs.DEv&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Jafar%20%7C%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%94%A5%20241ms
